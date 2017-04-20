@@ -15,15 +15,13 @@ public class Main {
 
         //FunctionsLibrary.connecToServer();
 
-        HashMap map = FunctionsLibrary.urlsExptes();
+        Localidad resistencia = Localidad.resistencia();
 
-        Iterator it = map.entrySet().iterator();
+        for (String a : resistencia.getCaratulas()) {
 
-        while (it.hasNext()){
-            Map.Entry e = (Map.Entry)it.next();
-            System.out.println(e.getKey() + "" + e.getValue());
+            System.out.println(a);
+
         }
-
 
     }
 

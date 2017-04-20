@@ -1,7 +1,5 @@
 import org.apache.commons.net.ftp.FTPClient;
 
-import java.io.IOException;
-
 /**
  * Created by franco on 18/04/17.
  */

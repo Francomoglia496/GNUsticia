@@ -1,6 +1,7 @@
 import org.apache.commons.net.ftp.FTPClient;
 
 import java.io.IOException;
+import java.util.HashMap;
 
 /**
  * Created by franco on 18/04/17.
@@ -40,11 +41,16 @@ public class FunctionsLibrary {
     }
 
 
-   /* public static HashMap<String, String[]> urlsExptes(){
+    public static HashMap urlsExptes(){
 
-        //HashMap<String, HashMap<>> map = new HashMap<String, String[]>();
+        //      USAMOS UN HASHMAP PARA ALMACENAR TODAS LAS URLS
+        HashMap<String, HashMap<String, String[]>> map = new HashMap<>();
 
-        /*String[] listaResistencia = {"ftp://justiciachaco.gov.ar/listas/C_A_Civ_y_Com_Sala_I/Cam_Civ_Sala_I_",
+        /*
+        * GENERAMOS UN ARRAY QUE CONTIENE TODAS LAS URL DE LAS CARATURAS DE RESISTENCIA
+        * PARA LUEGO USARLAS EN EL HASHMAP
+        * */
+        String[] caratulasResistencia = {"ftp://justiciachaco.gov.ar/listas/C_A_Civ_y_Com_Sala_I/Cam_Civ_Sala_I_",
                 "ftp://justiciachaco.gov.ar/listas/C_A_Civ_y_Com_Sala_II/Cam_Civ_Sala_II_",
                 "ftp://justiciachaco.gov.ar/listas/C_A_Civ_y_Com_Sala_III/Cam_Civ_Sala_III_",
                 "ftp://justiciachaco.gov.ar/listas/C_A_Civ_y_Com_Sala_IV/Cam_Civ_Sala_IV_",
@@ -97,7 +103,11 @@ public class FunctionsLibrary {
                 "ftp://justiciachaco.gov.ar/listas/STJ_Sec_2_Cont-Adm/Sec_2_ContAdm_",
                 "ftp://justiciachaco.gov.ar/listas/STJ_Sec_3_Asunt-Const/Sec_3_AsuntConst_"};
 
-        String[] provResis = {"ftp://justiciachaco.gov.ar/listas/C_A_Civ_y_Com_Sala_I_Pro/Cam_Civ_Sala_I_Pro_",
+        /*
+        *   GENERAMOS UN ARRAY QUE CONTIENE TODAS LAS URL DE LOS PROVEIDOS DE RESISTENCIA
+        *   PARA LUEGO AGREGARLAS AL HASHMAP
+        * */
+        String[] proveidosResistencia = {"ftp://justiciachaco.gov.ar/listas/C_A_Civ_y_Com_Sala_I_Pro/Cam_Civ_Sala_I_Pro_",
                 "ftp://justiciachaco.gov.ar/listas/C_A_Civ_y_Com_Sala_II_Pro/Cam_Civ_Sala_II_Pro_",
                 "ftp://justiciachaco.gov.ar/listas/C_A_Civ_y_Com_Sala_III_Pro/Cam_Civ_Sala_III_Pro_",
                 "ftp://justiciachaco.gov.ar/listas/C_A_Civ_y_Com_Sala_IV_Pro/Cam_Civ_Sala_IV_Pro_",
@@ -142,9 +152,169 @@ public class FunctionsLibrary {
                 "ftp://justiciachaco.gov.ar/listas/STJ_Sec_2_Cont-Adm_Pro/Sec_2_ContAdm_Pro_",
                 "ftp://justiciachaco.gov.ar/listas/STJ_Sec_3_Asunt-Const_Pro/Sec_3_AsuntConst_Pro_"};
 
+        /*
+        *   COMPLETAMOS EL HASHMAP CORRESPONDIENTE A LA CIUDAD DE RESISTENCIA
+        * */
+        HashMap<String, String[]> listasResis = new HashMap<>();
+        listasResis.put("Caraturas", caratulasResistencia);
+        listasResis.put("Proveidos", proveidosResistencia);
+
+        /*
+        * AGREGAMOS EL HashMap COMPLETO CON SU CLAVE = "LOCALIDAD',
+        * Y UNA KEY QUE ES OTRO HashMap EN EL CUAL ESTAN LAS CARATULAS Y LOS PROVEIDOS
+        * DENTRO DE ARRAYS DE STRINGS
+        * */
+        map.put("Resistenia", listasResis);
+
+        /* ############################################################# */
+
+        /*
+        *   ARRAY CON LAS CARATULAS DE SAENZ PEÑA
+        * */
+        String[] caratulasSP = {"ftp://justiciachaco.gov.ar/listas/Saenz_Pena/Camara_Laboral_SP/cam_lab_SP_",
+                "ftp://justiciachaco.gov.ar/listas/Saenz_Pena/Cam_Civ_Sal_II_SP/cam_civ_sal_II_SP_",
+                "ftp://justiciachaco.gov.ar/listas/Saenz_Pena/Cam_Civ_Sal_I_SP/cam_civ_sal_I_SP_",
+                "ftp://justiciachaco.gov.ar/listas/Saenz_Pena/Juzgado_Civil_1_Sec1_SP/Juzg_Civ_1_Sec1_SP_",
+                "ftp://justiciachaco.gov.ar/listas/Saenz_Pena/Juzgado_Civil_1_Sec2_SP/Juzg_Civ_1_Sec2_SP_",
+                "ftp://justiciachaco.gov.ar/listas/Saenz_Pena/Juzgado_Civil_2_Sec3_SP/Juzg_Civ_2_Sec3_SP_",
+                "ftp://justiciachaco.gov.ar/listas/Saenz_Pena/Juzgado_Civil_2_Sec4_SP/Juzg_Civ_2_Sec4_SP_",
+                "ftp://justiciachaco.gov.ar/listas/Saenz_Pena/Juzgado_Laboral_02_SP/Juzgado_Laboral_2_SP_",
+                "ftp://justiciachaco.gov.ar/listas/Saenz_Pena/Juzgado_Laboral_SP/Juzgado_Laboral_SP_",
+                "ftp://justiciachaco.gov.ar/listas/Saenz_Pena/Juzgado_M-y-Familia_SP/Juzg_M_y_Familia_SP_",
+                "ftp://justiciachaco.gov.ar/listas/Saenz_Pena/Juzgado_Notarial_SP/Juzg_Notarial_SP_",
+                "ftp://justiciachaco.gov.ar/listas/Saenz_Pena/Juzgado_Paz_Sec1_SP/Juzg_Paz_Sec1_SP_",
+                "ftp://justiciachaco.gov.ar/listas/Saenz_Pena/Juzgado_Paz_Sec2_SP/Juzg_Paz_Sec2_SP_",
+                "ftp://justiciachaco.gov.ar/listas/Saenz_Pena/Juzgado_PECQ_SP/Juzg_pecq_SP_",
+                "ftp://justiciachaco.gov.ar/listas/Saenz_Pena/Registro_Pub_Comercio_SP/Reg_Publico_Comercio_SP_"
+        };
+
+        /*
+        *   ARRAY CON LOS PROVEIDOS DE SAENZ PEÑA
+        *
+        * */
+        String[] proveidosSP = {
+                "ftp://justiciachaco.gov.ar/listas/Saenz_Pena/Camara_Laboral_SP/cam_lab_SP_Pro_",
+                "ftp://justiciachaco.gov.ar/listas/Saenz_Pena/Cam_Civ_Sal_II_SP/cam_civ_sal_II_SP_Pro_",
+                "ftp://justiciachaco.gov.ar/listas/Saenz_Pena/Cam_Civ_Sal_I_SP/cam_civ_sal_I_SP_Pro_",
+                "ftp://justiciachaco.gov.ar/listas/Saenz_Pena/Juzgado_Civil_1_Sec1_SP/Juzg_Civ_1_Sec1_SP_Pro_",
+                "ftp://justiciachaco.gov.ar/listas/Saenz_Pena/Juzgado_Civil_1_Sec2_SP/Juzg_Civ_1_Sec2_SP_Pro_",
+                "ftp://justiciachaco.gov.ar/listas/Saenz_Pena/Juzgado_Civil_2_Sec3_SP/Juzg_Civ_2_Sec3_SP_Pro_",
+                "ftp://justiciachaco.gov.ar/listas/Saenz_Pena/Juzgado_Civil_2_Sec4_SP/Juzg_Civ_2_Sec4_SP_Pro_",
+                "ftp://justiciachaco.gov.ar/listas/Saenz_Pena/Juzgado_Laboral_02_SP/Juzgado_Laboral_2_SP_Pro_",
+                "ftp://justiciachaco.gov.ar/listas/Saenz_Pena/Juzgado_Laboral_SP/Juzgado_Laboral_SP_Pro_",
+                "ftp://justiciachaco.gov.ar/listas/Saenz_Pena/Juzgado_Notarial_SP/Juzg_Notarial_SP_Pro_",
+                "ftp://justiciachaco.gov.ar/listas/Saenz_Pena/Juzgado_Paz_Sec1_SP/Juzg_Paz_Sec1_SP_Pro_",
+                "ftp://justiciachaco.gov.ar/listas/Saenz_Pena/Juzgado_Paz_Sec2_SP/Juzg_Paz_Sec2_SP_Pro_",
+                "ftp://justiciachaco.gov.ar/listas/Saenz_Pena/Juzgado_PECQ_SP/Juzg_pecq_SP_Pro_",
+                "ftp://justiciachaco.gov.ar/listas/Saenz_Pena/Registro_Pub_Comercio_SP/Reg_Publico_Comercio_SP_Pro_"
+        };
+
+        /*
+        *   COMPLETAMOS EL HASHMAP CORRESPONDIENTE A LA CIUDAD DE SaenzPeña
+        * */
+        HashMap<String, String[]> listasSP = new HashMap<>();
+
+        listasSP.put("Caratulas", caratulasSP);
+        listasSP.put("Proveidos", proveidosSP);
+
+        // AGREGAMOS LAS URL DE SP AL MAP
+        map.put("SaenzPeña", listasSP);
+
+        // #################################################################################
+
+        String[] caratulasVillaAngela = {
+                "ftp://justiciachaco.gov.ar/listas/Villa_Angela/Juzgado_Civil_1/Juzg_Civil_1_V_Angela_",
+                "ftp://justiciachaco.gov.ar/listas/Villa_Angela/Juzgado_Civil_2/Juzg_Civil_2_V_Angela_",
+                "ftp://justiciachaco.gov.ar/listas/Villa_Angela/Juzgado_laboral/Juzg_Lab_V_Angela_",
+                "ftp://justiciachaco.gov.ar/listas/Villa_Angela/Juzgado_M-y-Familia/Juzg_M_y_Familia_VAngela_",
+                "ftp://justiciachaco.gov.ar/listas/Villa_Angela/Juzgado_Paz/Juzg_Paz_V_Angela_"
+        };
+
+        String[] proveidosVillaAngela = {
+                "ftp://justiciachaco.gov.ar/listas/Villa_Angela/Juzgado_Civil_1/Juzg_Civil_1_V_Angela_Pro_",
+                "ftp://justiciachaco.gov.ar/listas/Villa_Angela/Juzgado_Civil_2/Juzg_Civil_2_V_Angela_Pro_",
+                "ftp://justiciachaco.gov.ar/listas/Villa_Angela/Juzgado_laboral/Juzg_Lab_V_Angela_Pro_",
+                "ftp://justiciachaco.gov.ar/listas/Villa_Angela/Juzgado_Paz/Juzg_Paz_V_Angela_Pro_"
+        };
+
+        HashMap<String, String[]> listasVillaAngela = new HashMap<>();
+        listasVillaAngela.put("Caratulas", caratulasVillaAngela);
+        listasVillaAngela.put("Proveidos", proveidosVillaAngela);
+
+        map.put("VillaAngela", listasVillaAngela);
+
+        // ####################################################################################
+
+        String[] caratulasCharata = {
+                "ftp://justiciachaco.gov.ar/listas/Charata/Juzgado_Civ_Lab_Sec_Civil/JCCyL_1_Charata_SecCivil_",
+                "ftp://justiciachaco.gov.ar/listas/Charata/Juzgado_Civ_Lab_Sec_Civil/JCCyL_2_Charata_SecCivil_",
+                "ftp://justiciachaco.gov.ar/listas/Charata/Juzgado_Civ_Lab_Sec_Civil/JCCyL_2_Charata_SecLab_",
+                "ftp://justiciachaco.gov.ar/listas/Charata/Juzgado_Civ_Lab_Sec_Laboral/JCCyL_1_Charata_SecLab_",
+                "ftp://justiciachaco.gov.ar/listas/Charata/Juzgado_Civ_Lab_Sec_Laboral/JCCyL_2_Charata_SecLab_",
+                "ftp://justiciachaco.gov.ar/listas/Charata/Juzgado_M-y-Familia/Familia_Civil_Charata_",
+                "ftp://justiciachaco.gov.ar/listas/Charata/Juzgado_M-y-Familia/Familia_Social_Charata_",
+                "ftp://justiciachaco.gov.ar/listas/Charata/Juzgado_Paz_CH/Juzgado_Paz_CH_",
+                "ftp://justiciachaco.gov.ar/listas/Charata/Registro_Pub_Comercio/RegistroPC_Charata_"
+        };
+
+        String[] proveidosCharata = {
+                "ftp://justiciachaco.gov.ar/listas/Charata/Juzgado_Civ_Lab_Sec_Civil/JCCyL_1_Charata_SecCivil_Pro_",
+                "ftp://justiciachaco.gov.ar/listas/Charata/Juzgado_Civ_Lab_Sec_Civil/JCCyL_2_Charata_SecCivil_Pro_",
+                "ftp://justiciachaco.gov.ar/listas/Charata/Juzgado_Civ_Lab_Sec_Civil/JCCyL_2_Charata_SecLab_Pro_",
+                "ftp://justiciachaco.gov.ar/listas/Charata/Juzgado_Civ_Lab_Sec_Laboral/JCCyL_1_Charata_SecLab_Pro_",
+                "ftp://justiciachaco.gov.ar/listas/Charata/Juzgado_Civ_Lab_Sec_Laboral/JCCyL_2_Charata_SecLab_Pro_",
+                "ftp://justiciachaco.gov.ar/listas/Charata/Juzgado_Paz_CH/Juzgado_Paz_CH_Pro_",
+                "ftp://justiciachaco.gov.ar/listas/Charata/Registro_Pub_Comercio/RegistroPC_Charata_Pro_"
+        };
+
+        HashMap<String, String[]> listasCharata = new HashMap<>();
+        listasCharata.put("Caratulas", caratulasCharata);
+        listasCharata.put("Proveidos", proveidosCharata);
+
+        map.put("Charata", listasCharata);
+
+        //  ####################################################################################
+
+        String[] caratulasSanMartin = {
+                "ftp://justiciachaco.gov.ar/listas/San_Martin/Juzgado_Civ_Fam/Juzgado_Civ_Fam_",
+                "ftp://justiciachaco.gov.ar/listas/San_Martin/Juzgado_Civ_Lab/Juzgado_Civ_Lab_",
+                "ftp://justiciachaco.gov.ar/listas/San_Martin/Juzgado_Paz/Juzgado_Paz_"
+        };
+
+        String[] proveidosSanMartin = {
+                "ftp://justiciachaco.gov.ar/listas/San_Martin/Juzgado_Civ_Lab/Juzgado_Civ_Lab_Pro_",
+                "ftp://justiciachaco.gov.ar/listas/San_Martin/Juzgado_Paz/Juzgado_Paz_Pro_"
+        };
+
+        HashMap<String, String[]> listasSanMartin = new HashMap<>();
+        listasSanMartin.put("Caratulas", caratulasSanMartin);
+        listasSanMartin.put("Proveidos", proveidosSanMartin);
+
+        map.put("SanMartin", listasSanMartin);
+
+        //  ###################################################################################
+
+        String[] caratulasCastelli = {
+                "ftp://justiciachaco.gov.ar/listas/J_J_Castelli/Juzgado_Civil_JJC/JCCyL_Castelli_JuzgCivil_",
+                "ftp://justiciachaco.gov.ar/listas/J_J_Castelli/Juzgado_Familia_JJC/Juzgado_Familia_JJC_",
+                "ftp://justiciachaco.gov.ar/listas/J_J_Castelli/Juzgado_Laboral_JJC/JCCyL_Castelli_JuzgLab_",
+                "ftp://justiciachaco.gov.ar/listas/J_J_Castelli/Juzgado_Paz_JJC/Juzgado_Paz_JJC_"
+        };
+
+        String[] proveidosCastelli = {
+                "ftp://justiciachaco.gov.ar/listas/J_J_Castelli/Juzgado_Civil_JJC/JCCyL_Castelli_JuzgCivil_Pro_",
+                "ftp://justiciachaco.gov.ar/listas/J_J_Castelli/Juzgado_Laboral_JJC/JCCyL_Castelli_JuzgLab_Pro_",
+                "ftp://justiciachaco.gov.ar/listas/J_J_Castelli/Juzgado_Paz_JJC/Juzgado_Paz_JJC_Pro_"
+        };
+
+        HashMap<String, String[]> listasCastelli = new HashMap<>();
+        listasCastelli.put("Caratulas", caratulasCastelli);
+        listasCastelli.put("Proveidos", proveidosCastelli);
+
+        map.put("Castelli", listasCastelli);
 
 
         return map;
-    }*/
+    }
 
 }

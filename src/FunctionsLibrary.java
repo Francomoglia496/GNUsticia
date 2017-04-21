@@ -1,4 +1,5 @@
 import org.apache.commons.net.ftp.FTPClient;
+import org.apache.commons.net.ftp.FTPFile;
 import sun.util.resources.cldr.de.CalendarData_de_LI;
 
 import java.io.FileOutputStream;
@@ -49,26 +50,37 @@ public class FunctionsLibrary {
     public static void descargarArchivo(){
 
         // get an ftpClient object
-        FTPClient ftpClient = new FTPClient();
+        FTPClient client1 = new FTPClient();
         FileOutputStream fos = null;
 
         try {
             // pass directory path on server to connect
-            ftpClient.connect("ftp.justiciachaco.gov.ar");
+            client1.connect("ftp.justiciachaco.gov.ar");
 
             // pass username and password, returned true if authentication is
             // successful
-            boolean login = ftpClient.login("anonymous", "anonymous");
+            boolean login = client1.login("anonymous", "anonymous");
 
-            ftpClient.enterLocalPassiveMode();
             if (login) {
                 System.out.println("Connection established...");
 
-                ftpClient.changeWorkingDirectory("/listas/C_A_Civ_y_Com_Sala_I");
+                System.out.println(client1.changeWorkingDirectory("listas/"));
+                System.out.println(client1.changeWorkingDirectory("C_A_Civ_y_Com_Sala_I/"));
+
+                FTPFile[] files = client1.listFiles();
+
+                System.out.println(files.length);
+
+
+                /*
+                * ####################
+                * BUSCAR LIBRERIA DE IMPUT
+                *#####################
+                * */
+
 
                 fos = new FileOutputStream("/home/franco/archivo.txt");
-                boolean download = ftpClient.retrieveFile("Cam_Civ_Sala_I_2017-04-20.Txt",
-                        fos);
+                boolean download = client1.retrieveFile("Cam_Civ_Sala_I_2017-04-21.Txt", fos);
                 if (download) {
                     System.out.println("File downloaded successfully !");
                 } else {
@@ -76,7 +88,7 @@ public class FunctionsLibrary {
                 }
 
                 // logout the user, returned true if logout successfully
-                boolean logout = ftpClient.logout();
+                boolean logout = client1.logout();
                 if (logout) {
                     System.out.println("Connection close...");
                 }
@@ -90,7 +102,7 @@ public class FunctionsLibrary {
             e.printStackTrace();
         } finally {
             try {
-                ftpClient.disconnect();
+                client1.disconnect();
             } catch (IOException e) {
                 e.printStackTrace();
             }

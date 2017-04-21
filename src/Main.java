@@ -11,9 +11,6 @@ public class Main {
 
     public static void main(String[] args){
 
-        FTPClient client = new FTPClient();
-
-
         Localidad resistencia = Localidad.resistencia();
         Localidad saenzP = Localidad.saenzP();
         Localidad villaAngela = Localidad.villaAngela();

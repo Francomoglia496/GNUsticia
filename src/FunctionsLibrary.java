@@ -15,39 +15,6 @@ import java.util.Scanner;
  */
 public class FunctionsLibrary {
 
-    public static void connecToServer() {
-
-        FTPClient client = new FTPClient();
-
-        String urlServ = "ftp.justiciachaco.gov.ar";
-        String userServ = "anonymous";
-        String passServ = "anonymous";
-
-        try {
-
-            //  CONECTA AL SERVIDOR
-            client.connect(urlServ);
-
-            boolean login = client.login(userServ, passServ);
-
-            System.out.println(client.isConnected());
-            //client.enterLocalPassiveMode();
-
-            try {
-
-                //  DESLOGUEO DEL SERVIDOR
-                client.logout();
-
-                //  DESCONECTA DEL SERVIDOR
-                client.disconnect();
-            } catch (IOException e) {
-            }
-
-        } catch (IOException ioe) {
-        }
-
-    }
-
     public static void descargarArchivo(Localidad localidad){
 
         // get an ftpClient object
@@ -94,17 +61,11 @@ public class FunctionsLibrary {
 
                 System.out.println(localidad.getName());
 
-                /*boolean download = client1.retrieveFile("Cam_Civ_Sala_I_2017-04-21.Txt", fos);
-                if (download) {
-                    System.out.println("File downloaded successfully !");
-                } else {
-                    System.out.println("Error in downloading file !");
-                }*/
-
                 // logout the user, returned true if logout successfully
                 boolean logout = client1.logout();
+                client1.disconnect();
                 if (logout) {
-                    System.out.println("Connection close...");
+                    System.out.println("Logout...");
                 }
             } else {
                 System.out.println("Connection fail...");

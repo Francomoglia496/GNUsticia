@@ -11,17 +11,21 @@ public class Main {
 
     public static void main(String[] args){
 
-        //FTPClient client = new FTPClient();
+        FTPClient client = new FTPClient();
+
 
         //FunctionsLibrary.connecToServer();
 
-        Localidad resistencia = Localidad.resistencia();
+        /*Localidad resistencia = Localidad.resistencia();
 
         for (String a : resistencia.getCaratulas()) {
 
             System.out.println(a);
 
-        }
+        }*/
+
+        FunctionsLibrary.descargarArchivo();
+
 
     }
 

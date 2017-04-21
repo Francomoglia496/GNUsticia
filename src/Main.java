@@ -14,17 +14,14 @@ public class Main {
         FTPClient client = new FTPClient();
 
 
-        //FunctionsLibrary.connecToServer();
+        Localidad resistencia = Localidad.resistencia();
+        Localidad saenzP = Localidad.saenzP();
+        Localidad villaAngela = Localidad.villaAngela();
+        Localidad charata = Localidad.charata();
 
-        /*Localidad resistencia = Localidad.resistencia();
 
-        for (String a : resistencia.getCaratulas()) {
 
-            System.out.println(a);
-
-        }*/
-
-        FunctionsLibrary.descargarArchivo();
+        FunctionsLibrary.descargarArchivo(resistencia);
 
 
     }

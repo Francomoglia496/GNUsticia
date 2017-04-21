@@ -8,6 +8,7 @@ import java.lang.reflect.Array;
 import java.net.SocketException;
 import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.Scanner;
 
 /**
  * Created by franco on 18/04/17.
@@ -47,7 +48,7 @@ public class FunctionsLibrary {
 
     }
 
-    public static void descargarArchivo(){
+    public static void descargarArchivo(Localidad localidad){
 
         // get an ftpClient object
         FTPClient client1 = new FTPClient();
@@ -64,28 +65,41 @@ public class FunctionsLibrary {
             if (login) {
                 System.out.println("Connection established...");
 
-                System.out.println(client1.changeWorkingDirectory("listas/"));
-                System.out.println(client1.changeWorkingDirectory("C_A_Civ_y_Com_Sala_I/"));
+                //FTPFile[] files = client1.listFiles();
 
-                FTPFile[] files = client1.listFiles();
+                //System.out.println(files.length);
 
-                System.out.println(files.length);
-
-
-                /*
-                * ####################
-                * BUSCAR LIBRERIA DE IMPUT
-                *#####################
-                * */
+                int cont = 1;
+                Scanner sc = new Scanner(System.in);
+                System.out.println("Ingrese la fecha con el siguiente formato: aaaa-mm-dd");
+                String fecha = sc.nextLine();
 
 
-                fos = new FileOutputStream("/home/franco/archivo.txt");
-                boolean download = client1.retrieveFile("Cam_Civ_Sala_I_2017-04-21.Txt", fos);
+                //Localidad resistencia = Localidad.resistencia();
+
+                for (String url : localidad.getCaratulas()){
+
+                    fos = new FileOutputStream("/home/franco/archivosLegislacion/"+ localidad.getName() +"/archivo"+ cont +".txt");
+                    System.out.println("/" + url + fecha + ".Txt");
+
+                    boolean download = client1.retrieveFile(url + fecha + ".Txt", fos);
+                    if (download) {
+                        System.out.println("Archivo descargado correctamente!");
+                    } else {
+                        System.out.println("Error al descargar el archivo !");
+                    }
+                    cont++;
+
+                }
+
+                System.out.println(localidad.getName());
+
+                /*boolean download = client1.retrieveFile("Cam_Civ_Sala_I_2017-04-21.Txt", fos);
                 if (download) {
                     System.out.println("File downloaded successfully !");
                 } else {
                     System.out.println("Error in downloading file !");
-                }
+                }*/
 
                 // logout the user, returned true if logout successfully
                 boolean logout = client1.logout();

@@ -2,6 +2,7 @@ import org.apache.commons.net.ftp.FTPClient;
 import org.apache.commons.net.ftp.FTPFile;
 import sun.util.resources.cldr.de.CalendarData_de_LI;
 
+import java.io.File;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.lang.reflect.Array;
@@ -46,7 +47,8 @@ public class FunctionsLibrary {
 
                 for (String url : localidad.getCaratulas()){
 
-                    fos = new FileOutputStream("/home/franco/archivosLegislacion/"+ localidad.getName() +"/archivo"+ cont +".txt");
+                    //fos = new FileOutputStream("/home/franco/archivosLegislacion/"+ localidad.getName() +"/archivo"+ cont +".txt");
+                    fos = new FileOutputStream("/GNUsticia"+ localidad.getName() +"/archivo"+ cont +".txt");
                     System.out.println("/" + url + fecha + ".Txt");
 
                     boolean download = client1.retrieveFile(url + fecha + ".Txt", fos);
@@ -83,4 +85,13 @@ public class FunctionsLibrary {
             }
         }
     }
+
+    public static void generarCarpetaGNUsticia(){
+
+        File folder = new File("./GNUsticia");
+        folder.mkdir();
+
+    }
+
+
 }

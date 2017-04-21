@@ -21,7 +21,7 @@ public class Main {
         /*String sistema = System.getProperty("os.name");
         System.out.println(sistema);*/
 
-        FunctionsLibrary.generarCarpetaGNUsticia();
+        FunctionsLibrary.generarCarpetas();
         FunctionsLibrary.descargarArchivo(resistencia);
 
 

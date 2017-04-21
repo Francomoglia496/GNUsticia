@@ -48,7 +48,7 @@ public class FunctionsLibrary {
                 for (String url : localidad.getCaratulas()){
 
                     //fos = new FileOutputStream("/home/franco/archivosLegislacion/"+ localidad.getName() +"/archivo"+ cont +".txt");
-                    fos = new FileOutputStream("/GNUsticia"+ localidad.getName() +"/archivo"+ cont +".txt");
+                    fos = new FileOutputStream("./GNUsticia/"+ localidad.getName() +"/archivo"+ cont +".txt");
                     System.out.println("/" + url + fecha + ".Txt");
 
                     boolean download = client1.retrieveFile(url + fecha + ".Txt", fos);
@@ -86,10 +86,42 @@ public class FunctionsLibrary {
         }
     }
 
-    public static void generarCarpetaGNUsticia(){
+    public static void generarCarpetas(){
 
         File folder = new File("./GNUsticia");
         folder.mkdir();
+
+        File folderResistencia = new File("./GNUsticia/Resistencia");
+        File folderSaenzP = new File("./GNUsticia/SaenzPeña");
+        File folderVillaAngela = new File("./GNUsticia/VillaAngela");
+        File folderCharata = new File("./GNUsticia/Charata");
+        File folderSanMartin = new File("./GNUsticia/SanMartin");
+        File folderCastelli = new File("./GNUsticia/Castelli");
+
+        if (!folderResistencia.exists()){
+            folderResistencia.mkdir();
+        }else System.out.println("directorio no creado");
+
+        if (!folderSaenzP.exists()){
+            folderSaenzP.mkdir();
+        }else System.out.println("directorio no creado");
+
+        if (!folderVillaAngela.exists()){
+            folderVillaAngela.mkdir();
+        }else System.out.println("directorio no creado");
+
+        if (!folderCharata.exists()){
+            folderCharata.mkdir();
+        }else System.out.println("directorio no creado");
+
+        if (!folderSanMartin.exists()){
+            folderSanMartin.mkdir();
+        }else System.out.println("directorio no creado");
+
+        if (!folderCastelli.exists()){
+            folderCastelli.mkdir();
+        }else System.out.println("directorio no creado");
+
 
     }
 

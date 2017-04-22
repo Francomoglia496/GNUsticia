@@ -22,7 +22,7 @@ public class Main {
         System.out.println(sistema);*/
 
         FunctionsLibrary.generarCarpetas();
-        FunctionsLibrary.descargarArchivo(resistencia);
+        //FunctionsLibrary.descargarArchivo(resistencia);
 
 
     }

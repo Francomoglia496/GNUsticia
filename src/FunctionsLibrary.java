@@ -100,27 +100,27 @@ public class FunctionsLibrary {
 
         if (!folderResistencia.exists()){
             folderResistencia.mkdir();
-        }else System.out.println("directorio no creado");
+        }else System.out.println("directorio Resistencia ya existente");
 
         if (!folderSaenzP.exists()){
             folderSaenzP.mkdir();
-        }else System.out.println("directorio no creado");
+        }else System.out.println("directorio Saenz Peña ya existente");
 
         if (!folderVillaAngela.exists()){
             folderVillaAngela.mkdir();
-        }else System.out.println("directorio no creado");
+        }else System.out.println("directorio Villa Angela ya existente");
 
         if (!folderCharata.exists()){
             folderCharata.mkdir();
-        }else System.out.println("directorio no creado");
+        }else System.out.println("directorio Charata ya existente");
 
         if (!folderSanMartin.exists()){
             folderSanMartin.mkdir();
-        }else System.out.println("directorio no creado");
+        }else System.out.println("directorio SanMartin ya existente");
 
         if (!folderCastelli.exists()){
             folderCastelli.mkdir();
-        }else System.out.println("directorio no creado");
+        }else System.out.println("directorio Castelli ya existente");
 
 
     }

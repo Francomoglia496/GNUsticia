@@ -1,9 +1,8 @@
 import org.apache.commons.net.ftp.FTPClient;
+import org.apache.commons.net.ftp.FTPFile;
 
-import java.io.File;
-import java.util.HashMap;
-import java.util.Iterator;
-import java.util.Map;
+import java.io.IOException;
+import java.util.ArrayList;
 
 /**
  * Created by franco on 18/04/17.
@@ -22,8 +21,7 @@ public class Main {
         System.out.println(sistema);*/
 
         FunctionsLibrary.generarCarpetas();
-        //FunctionsLibrary.descargarArchivo(resistencia);
-
+        FunctionsLibrary.descargarArchivo(resistencia);
 
     }
 

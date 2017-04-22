@@ -33,41 +33,35 @@ public class FunctionsLibrary {
             if (login) {
                 System.out.println("Connection established...");
 
-                //FTPFile[] files = client1.listFiles();
-
-                //System.out.println(files.length);
-
                 int cont = 1;
                 Scanner sc = new Scanner(System.in);
                 System.out.println("Ingrese la fecha con el siguiente formato: aaaa-mm-dd");
                 String fecha = sc.nextLine();
 
 
-                //Localidad resistencia = Localidad.resistencia();
-
                 for (String url : localidad.getCaratulas()){
 
-                    //fos = new FileOutputStream("/home/franco/archivosLegislacion/"+ localidad.getName() +"/archivo"+ cont +".txt");
+
                     fos = new FileOutputStream("./GNUsticia/"+ localidad.getName() +"/archivo"+ cont +".txt");
-                    System.out.println("/" + url + fecha + ".Txt");
+                    //System.out.println("/" + url + fecha + ".Txt");
+
 
                     boolean download = client1.retrieveFile(url + fecha + ".Txt", fos);
                     if (download) {
                         System.out.println("Archivo descargado correctamente!");
                     } else {
-                        System.out.println("Error al descargar el archivo !");
+                        System.out.println("Error al descargar el archivo o el archivo no existe!");
                     }
                     cont++;
 
                 }
-
-                System.out.println(localidad.getName());
 
                 // logout the user, returned true if logout successfully
                 boolean logout = client1.logout();
                 client1.disconnect();
                 if (logout) {
                     System.out.println("Logout...");
+                    System.out.println("Disconnecting...");
                 }
             } else {
                 System.out.println("Connection fail...");
@@ -125,5 +119,23 @@ public class FunctionsLibrary {
 
     }
 
+    public static boolean fileExist(String nameFile, FTPClient url) throws IOException {
 
+        String[] aux = url.listNames();
+        boolean result = false;
+
+        for (String search : aux){
+
+            if (search.equals(nameFile)){
+                result = true;
+                return result;
+            }else{
+                result = false;
+            }
+
+        }
+
+
+        return result;
+    }
 }

@@ -1,5 +1,4 @@
 import java.util.Arrays;
-import java.util.Scanner;
 
 /**
  * Created by franco on 20/04/17.
@@ -8,9 +7,9 @@ public class Localidad {
 
     private String[] caratulas;
     private String[] proveidos;
-
-
-    // cosas nuevas
+    private String[] nombresCaratulas;
+    private String[] nombresProveidos;
+    
     private String name;
     public Localidad(){}
 
@@ -26,28 +25,45 @@ public class Localidad {
         this.name = name;
     }
 
-    public String[] getCaratulas() {
+    public String[] getLinkCaratulas() {
         return caratulas;
     }
 
-    public void setCaratulas(String[] caratulas) {
+    public void setLinkCaratulas(String[] caratulas) {
         this.caratulas = caratulas;
     }
 
-    public String[] getProveidos() {
+    public String[] getLinkProveidos() {
         return proveidos;
     }
 
-    public void setProveidos(String[] proveidos) {
+    public void setLinkProveidos(String[] proveidos) {
         this.proveidos = proveidos;
     }
 
+    public String[] getNombresCaratulas() {
+        return nombresCaratulas;
+    }
+
+    public void setNombresCaratulas(String[] nombresCaratulas) {
+        this.nombresCaratulas = nombresCaratulas;
+    }
+
+    public String[] getNombresProveidos() {
+        return nombresProveidos;
+    }
+
+    public void setNombresProveidos(String[] nombresProveidos) {
+        this.nombresProveidos = nombresProveidos;
+    }
 
     @Override
     public String toString() {
         return "Localidad{" +
                 "caratulas=" + Arrays.toString(caratulas) +
                 ", proveidos=" + Arrays.toString(proveidos) +
+                ", nombresCaratulas=" + Arrays.toString(nombresCaratulas) +
+                ", nombresProveidos=" + Arrays.toString(nombresProveidos) +
                 ", name='" + name + '\'' +
                 '}';
     }
@@ -154,8 +170,120 @@ public class Localidad {
                 "listas/STJ_Sec_2_Cont-Adm_Pro/Sec_2_ContAdm_Pro_",
                 "listas/STJ_Sec_3_Asunt-Const_Pro/Sec_3_AsuntConst_Pro_"};
 
-        listasResistencia.setCaratulas(caratulas);
-        listasResistencia.setProveidos(proveidos);
+        String[] nombreArchivosCaratulas = {
+                "Cam_Civ_Sala_I_",
+                "Cam_Civ_Sala_II_",
+                "Cam_Civ_Sala_III_",
+                "Cam_Civ_Sala_IV_",
+                "Camara_Cont_Adm_Sala_1_",
+                "Camara_Cont_Adm_Sala_2_",
+                "Cam_Lab_Sala_I_",
+                "Cam_Lab_Sala_II_",
+                "Juzgado_Civil_10_",
+                "Juzgado_Civil_11_",
+                "Juzgado_Civil_12_",
+                "Juzgado_Civil_13_",
+                "Juzgado_Civil_14_",
+                "Juzgado_Civil_15_",
+                "Juzgado_Civil_16_",
+                "Juzgado_Civil_17_",
+                "Juzgado_Civil_18_",
+                "Juzgado_Civil_19_",
+                "Juzgado_Civil_1_",
+                "Juzgado_Civil_20_",
+                "Juzgado_Civil_21_",
+                "Juzgado_Civil_22_",
+                "Juzgado_Civil_23_",
+                "Juzgado_Civil_2_",
+                "Juzgado_Civil_3_",
+                "Juzgado_Civil_4_",
+                "Juzgado_Civil_5_",
+                "Juzgado_Civil_6_",
+                "Juzgado_Civil_7_",
+                "Juzgado_Civil_8_",
+                "Juzgado_Civil_9_",
+                "Reg_Publico_Comercio_",
+                "Juzgado_Notarial_",
+                "Juzgado_Laboral_1_",
+                "Juzgado_Laboral_2_",
+                "Juzgado_Laboral_3_",
+                "Juzgado_Laboral_4_",
+                "Juzg_M-y-Familia_1_",
+                "Juzg_M-y-Familia_2_",
+                "Juzg_M-y-Familia_5_",
+                "Juzg_M-y-Familia_6_",
+                "Juzg_M-y-F_SecSoc1_",
+                "Juzg_M-y-F_SecSoc2_",
+                "Juzg_M-y-F_SecSoc6_",
+                "Juzgado_Paz_1_",
+                "Juzgado_Paz_2_",
+                "Juzgado_Paz_Barranqueras_",
+                "Sala_1_Civ-Com-Lab_",
+                "Sala_2_Penal_",
+                "Sec_1_ContAdm_",
+                "Sec_2_ContAdm_",
+                "Sec_3_AsuntConst_"
+        };
+
+        String[] nombreArchivosProveidos = {
+                "Cam_Civ_Sala_I_Pro_",
+                "Cam_Civ_Sala_II_Pro_",
+                "Cam_Civ_Sala_III_Pro_",
+                "Cam_Civ_Sala_IV_Pro_",
+                "Camara_Cont_Adm_Sala_1_Pro_",
+                "Camara_Cont_Adm_Sala_2_Pro_",
+                "Cam_Lab_Sala_I_Pro_",
+                "Cam_Lab_Sala_II_Pro_",
+                "Juzgado_Civil_10_Pro_",
+                "Juzgado_Civil_11_Pro_",
+                "Juzgado_Civil_12_Pro_",
+                "Juzgado_Civil_13_Pro_",
+                "Juzgado_Civil_14_Pro_",
+                "Juzgado_Civil_15_Pro_",
+                "Juzgado_Civil_16_Pro_",
+                "Juzgado_Civil_17_Pro_",
+                "Juzgado_Civil_18_Pro_",
+                "Juzgado_Civil_19_Pro_",
+                "Juzgado_Civil_1_Pro_",
+                "Juzgado_Civil_20_Pro_",
+                "Juzgado_Civil_21_Pro_",
+                "Juzgado_Civil_22_Pro_",
+                "Juzgado_Civil_23_Pro_",
+                "Juzgado_Civil_2_Pro_",
+                "Juzgado_Civil_3_Pro_",
+                "Juzgado_Civil_4_Pro_",
+                "Juzgado_Civil_5_Pro_",
+                "Juzgado_Civil_6_Pro_",
+                "Juzgado_Civil_7_Pro_",
+                "Juzgado_Civil_8_Pro_",
+                "Juzgado_Civil_9_Pro_",
+                "Reg_Publico_Comercio_Pro_",
+                "Juzgado_Notarial_Pro_",
+                "Juzgado_Laboral_1_Pro_",
+                "Juzgado_Laboral_2_Pro_",
+                "Juzgado_Laboral_3_Pro_",
+                "Juzgado_Laboral_4_Pro_",
+                "Juzg_M-y-Familia_1_Pro_",
+                "Juzg_M-y-Familia_2_Pro_",
+                "Juzg_M-y-Familia_5_Pro_",
+                "Juzg_M-y-Familia_6_Pro_",
+                "Juzg_M-y-F_SecSoc1_Pro_",
+                "Juzg_M-y-F_SecSoc2_Pro_",
+                "Juzg_M-y-F_SecSoc6_Pro_",
+                "Juzgado_Paz_1_Pro_",
+                "Juzgado_Paz_2_Pro_",
+                "Juzgado_Paz_Barranqueras_Pro_",
+                "Sala_1_Civ-Com-Lab_Pro_",
+                "Sala_2_Penal_Pro_",
+                "Sec_1_ContAdm_Pro_",
+                "Sec_2_ContAdm_Pro_",
+                "Sec_3_AsuntConst_Pro_"
+        };
+
+        listasResistencia.setLinkCaratulas(caratulas);
+        listasResistencia.setLinkProveidos(proveidos);
+        listasResistencia.setNombresCaratulas(nombreArchivosCaratulas);
+        listasResistencia.setNombresProveidos(nombreArchivosProveidos);
 
         listasResistencia.setName("Resistencia");
 
@@ -197,8 +325,47 @@ public class Localidad {
                 "listas/Saenz_Pena/Juzgado_PECQ_SP/Juzg_pecq_SP_Pro_",
                 "listas/Saenz_Pena/Registro_Pub_Comercio_SP/Reg_Publico_Comercio_SP_Pro_"};
 
-        listasSP.setCaratulas(caratulas);
-        listasSP.setProveidos(proveidos);
+        String[] nombresCaratulas = {
+                "cam_lab_SP_",
+                "cam_civ_sal_II_SP_",
+                "cam_civ_sal_I_SP_",
+                "Juzg_Civ_1_Sec1_SP_",
+                "Juzg_Civ_1_Sec2_SP_",
+                "Juzg_Civ_2_Sec3_SP_",
+                "Juzg_Civ_2_Sec4_SP_",
+                "Juzgado_Laboral_2_SP_",
+                "Juzgado_Laboral_SP_",
+                "Juzg_M_y_Familia_SP_",
+                "Juzg_Notarial_SP_",
+                "Juzg_Paz_Sec1_SP_",
+                "Juzg_Paz_Sec2_SP_",
+                "Juzg_pecq_SP_",
+                "Reg_Publico_Comercio_SP_"
+        };
+
+        String[] nombresProveidos = {
+                "cam_lab_SP_Pro_",
+                "cam_civ_sal_II_SP_Pro_",
+                "cam_civ_sal_I_SP_Pro_",
+                "Juzg_Civ_1_Sec1_SP_Pro_",
+                "Juzg_Civ_1_Sec2_SP_Pro_",
+                "Juzg_Civ_2_Sec3_SP_Pro_",
+                "Juzg_Civ_2_Sec4_SP_Pro_",
+                "Juzgado_Laboral_2_SP_Pro_",
+                "Juzgado_Laboral_SP_Pro_",
+                "Juzg_M_y_Familia_SP_Pro_",
+                "Juzg_Notarial_SP_Pro_",
+                "Juzg_Paz_Sec1_SP_Pro_",
+                "Juzg_Paz_Sec2_SP_Pro_",
+                "Juzg_pecq_SP_Pro_",
+                "Reg_Publico_Comercio_SP_Pro_"
+        };
+
+
+        listasSP.setLinkCaratulas(caratulas);
+        listasSP.setLinkProveidos(proveidos);
+        listasSP.setNombresCaratulas(nombresCaratulas);
+        listasSP.setNombresProveidos(nombresProveidos);
 
         listasSP.setName("SaenzPeña");
 
@@ -220,8 +387,24 @@ public class Localidad {
                 "listas/Villa_Angela/Juzgado_laboral/Juzg_Lab_V_Angela_Pro_",
                 "listas/Villa_Angela/Juzgado_Paz/Juzg_Paz_V_Angela_Pro_"};
 
-        listasVillaAngela.setCaratulas(caratulas);
-        listasVillaAngela.setProveidos(proveidos);
+        String[] nombreCaratulas = {
+                "Juzg_Civil_1_V_Angela_",
+                "Juzg_Civil_2_V_Angela_",
+                "Juzg_Lab_V_Angela_",
+                "Juzg_M_y_Familia_VAngela_",
+                "Juzg_Paz_V_Angela_"};
+
+        String[] nombreProveidos = {
+                "Juzg_Civil_1_V_Angela_Pro_",
+                "Juzg_Civil_2_V_Angela_Pro_",
+                "Juzg_Lab_V_Angela_Pro_",
+                "Juzg_M_y_Familia_VAngela_Pro_",
+                "Juzg_Paz_V_Angela_Pro_"};
+
+        listasVillaAngela.setLinkCaratulas(caratulas);
+        listasVillaAngela.setLinkProveidos(proveidos);
+        listasVillaAngela.setNombresCaratulas(nombreCaratulas);
+        listasVillaAngela.setNombresProveidos(nombreProveidos);
 
         listasVillaAngela.setName("VillaAngela");
 
@@ -254,8 +437,35 @@ public class Localidad {
                 "listas/Charata/Registro_Pub_Comercio/RegistroPC_Charata_Pro_"
         };
 
-        listasCharata.setCaratulas(caratulas);
-        listasCharata.setProveidos(proveidos);
+        String[] nombreCaratulas = {
+                "JCCyL_1_Charata_SecCivil_",
+                "JCCyL_2_Charata_SecCivil_",
+                "JCCyL_2_Charata_SecLab_",
+                "JCCyL_1_Charata_SecLab_",
+                "JCCyL_2_Charata_SecLab_",
+                "Familia_Civil_Charata_",
+                "Familia_Social_Charata_",
+                "Juzgado_Paz_CH_",
+                "RegistroPC_Charata_"
+        };
+
+        String[] nombreProveidos = {
+                "JCCyL_1_Charata_SecCivil_Pro_",
+                "JCCyL_2_Charata_SecCivil_Pro_",
+                "JCCyL_2_Charata_SecLab_Pro_",
+                "JCCyL_1_Charata_SecLab_Pro_",
+                "JCCyL_2_Charata_SecLab_Pro_",
+                "Familia_Civil_Charata_Pro_",
+                "Familia_Social_Charata_Pro_",
+                "Juzgado_Paz_CH_Pro_",
+                "RegistroPC_Charata_Pro_"
+        };
+        
+        
+        listasCharata.setLinkCaratulas(caratulas);
+        listasCharata.setLinkProveidos(proveidos);
+        listasCharata.setNombresCaratulas(nombreCaratulas);
+        listasCharata.setNombresProveidos(nombreProveidos);
 
         listasCharata.setName("Charata");
 
@@ -277,8 +487,21 @@ public class Localidad {
                 "listas/San_Martin/Juzgado_Paz/Juzgado_Paz_Pro_"
         };
 
-        listasSanMartin.setCaratulas(caratulas);
-        listasSanMartin.setProveidos(proveidos);
+        String[] nombreCaratulas = {
+                "Juzgado_Civ_Fam_",
+                "Juzgado_Civ_Lab_",
+                "Juzgado_Paz_"
+        };
+
+        String[] nombreProveidos = {
+                "Juzgado_Civ_Lab_Pro_",
+                "Juzgado_Paz_Pro_"
+        };
+
+        listasSanMartin.setLinkCaratulas(caratulas);
+        listasSanMartin.setLinkProveidos(proveidos);
+        listasSanMartin.setNombresCaratulas(nombreCaratulas);
+        listasSanMartin.setNombresProveidos(nombreProveidos);
 
         listasSanMartin.setName("SanMartin");
 
@@ -302,8 +525,24 @@ public class Localidad {
                 "listas/J_J_Castelli/Juzgado_Paz_JJC/Juzgado_Paz_JJC_Pro_"
         };
 
-        listasCastelli.setCaratulas(caratulas);
-        listasCastelli.setProveidos(proveidos);
+        String[] nombreCaratulas = {
+                "JCCyL_Castelli_JuzgCivil_",
+                "Juzgado_Familia_JJC_",
+                "JCCyL_Castelli_JuzgLab_",
+                "Juzgado_Paz_JJC_"
+        };
+
+        String[] nombreProveidos = {
+                "JCCyL_Castelli_JuzgCivil_Pro_",
+                "Juzgado_Familia_JJC_Pro_",
+                "JCCyL_Castelli_JuzgLab_Pro_",
+                "Juzgado_Paz_JJC_Pro_"
+        };
+
+        listasCastelli.setLinkCaratulas(caratulas);
+        listasCastelli.setLinkProveidos(proveidos);
+        listasCastelli.setNombresCaratulas(nombreCaratulas);
+        listasCastelli.setNombresProveidos(nombreProveidos);
 
         listasCastelli.setName("Castelli");
 

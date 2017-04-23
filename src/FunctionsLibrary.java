@@ -33,29 +33,48 @@ public class FunctionsLibrary {
             if (login) {
                 System.out.println("Connection established...");
 
-                int cont = 1;
                 Scanner sc = new Scanner(System.in);
                 System.out.println("Ingrese la fecha con el siguiente formato: aaaa-mm-dd");
                 String fecha = sc.nextLine();
 
 
-                for (String url : localidad.getCaratulas()){
 
+                for (int i = 0; i < localidad.getLinkCaratulas().length; i++) {
 
-                    fos = new FileOutputStream("./GNUsticia/"+ localidad.getName() +"/archivo"+ cont +".txt");
+                    fos = new FileOutputStream("./GNUsticia/"+ localidad.getName() +"/"+
+                            localidad.getNombresCaratulas()[i] + fecha +".txt");
                     //System.out.println("/" + url + fecha + ".Txt");
 
+                    String caratula = localidad.getNombresCaratulas()[i];
 
-                    boolean download = client1.retrieveFile(url + fecha + ".Txt", fos);
+                    if (!fileExist(localidad, caratula, fecha)){
+
+                        boolean download = client1.retrieveFile(localidad.getLinkCaratulas()[i] + fecha + ".Txt", fos);
+
+                        if (download) {
+                            System.out.println("Archivo descargado correctamente!");
+                        } else {
+                            System.out.println("Error al descargar el archivo o el archivo no existe!");
+                        }
+
+                    }else {
+
+                        System.out.println("archivo: " + localidad.getNombresCaratulas()[i] + fecha +
+                                ".txt" + " ya existente");
+                    }
+
+
+                    /*boolean download = client1.retrieveFile(localidad.getLinkCaratulas()[i] + fecha + ".Txt", fos);
+
                     if (download) {
                         System.out.println("Archivo descargado correctamente!");
                     } else {
                         System.out.println("Error al descargar el archivo o el archivo no existe!");
-                    }
-                    cont++;
-
+                    }*/
+                    
                 }
-
+                
+                
                 // logout the user, returned true if logout successfully
                 boolean logout = client1.logout();
                 client1.disconnect();
@@ -119,23 +138,24 @@ public class FunctionsLibrary {
 
     }
 
-    public static boolean fileExist(String nameFile, FTPClient url) throws IOException {
+    public static boolean fileExist(Localidad localidad,String caratula, String fecha) {
 
-        String[] aux = url.listNames();
-        boolean result = false;
+        boolean result = true;
+        
+        File carpeta = new File("./GNUsticia/" + localidad.getName());
 
-        for (String search : aux){
+        String aux = caratula + fecha + ".txt";
 
-            if (search.equals(nameFile)){
+        for (String search : carpeta.list()){
+
+            if (search.equals(aux)){
+
                 result = true;
-                return result;
-            }else{
-                result = false;
+                break;
+
             }
 
         }
-
-
         return result;
     }
 }

@@ -1,6 +1,7 @@
 import org.apache.commons.net.ftp.FTPClient;
 import org.apache.commons.net.ftp.FTPFile;
 
+import java.io.File;
 import java.io.IOException;
 import java.util.ArrayList;
 
@@ -22,6 +23,17 @@ public class Main {
 
         FunctionsLibrary.generarCarpetas();
         FunctionsLibrary.descargarArchivo(resistencia);
+
+        /*File carpeta = new File("./GNUsticia/" + resistencia.getName());
+
+        System.out.println(carpeta.exists());
+
+        String[] array = carpeta.list();
+
+        for (String a : array){
+            System.out.println(a);
+        }*/
+
 
     }
 

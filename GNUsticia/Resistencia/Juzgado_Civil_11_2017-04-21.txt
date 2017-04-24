@@ -1,0 +1,902 @@
+               JUZGADO CIVIL Y COMERCIAL N  11 - Fecha Despacho: 21/04/2017
+ 
+---------------------------------------------------------------------------------
+Orden  Expediente             Caratula
+---------------------------------------------------------------------------------
+1     139/16          AGUIRRE, CESAR ALFREDO C/DELGADO, ESTELA S/EJECUTIVO
+                      -
+                      VARAS, JUAN MARTIN GUILLERMO(6575)
+----------------------------------------------------------------
+2     1955/14         AGUIRRE, CESAR ALFREDO C/HERRERO, RAUL ALFONSO S/EJECUTIVO
+                      -
+                      VARAS, JUAN MARTIN GUILLERMO(6575)
+----------------------------------------------------------------
+3     3859/16         AGUIRRE, CESAR ALFREDO C/LEZCANO, FRANCISCA S/EJECUTIVO
+                      -
+                      VARAS, JUAN MARTIN GUILLERMO(6575)
+----------------------------------------------------------------
+4     6651/14         AGUIRRE, CESAR ALFREDO C/NAVARRO, ROSALIA S/EJECUTIVO
+                      -
+                      VARAS, JUAN MARTIN GUILLERMO(6575)
+----------------------------------------------------------------
+5     9937/16         AGUIRRE, CESAR ALFREDO C/PRIETO, DANIEL WALTER OSVALDO
+                      S/EJECUTIVO  -
+                      ZURANO MARTINEZ, MIGUEL ANTONIO(2433)
+----------------------------------------------------------------
+6     10097/15        AGUIRRE, CESAR ALFREDO C/RAMIREZ, RITO S/EJECUTIVO
+                      -
+                      VARAS, JUAN MARTIN GUILLERMO(6575)
+----------------------------------------------------------------
+7     6648/14         AGUIRRE, CESAR ALFREDO C/RUDONI, JOSE S/EJECUTIVO
+                      -
+                      VARAS, JUAN MARTIN GUILLERMO(6575)
+----------------------------------------------------------------
+8     14781/16        AGUIRRE, CESAR ALFREDO C/VALDES, MAXIMILIANO ADOLFO
+                      S/EJECUTIVO  -
+                      ZURANO MARTINEZ, MIGUEL ANTONIO(2433)
+----------------------------------------------------------------
+9     13639/14        ALARCON, ISABEL C/TORRES, RAMON DE JESUS S/EJECUTIVO
+                      -
+                      BREARD, GASTON(5009)
+----------------------------------------------------------------
+10    13619/14        ALARCON, ISABEL C/YURKEVICH, OSCAR RAMON S/EJECUTIVO
+                      -
+                      BREARD, GASTON(5009)
+----------------------------------------------------------------
+11    6897/14         ASOCIACION MUTUAL ZONA DE PROTECCION C/ROMERO, LIDIA
+                      BEATRIZ S/EJECUTIVO  -
+                      BARRIONUEVO, SANTIAGO RUBEN(3803)
+----------------------------------------------------------------
+12    11670/14        ASOCIACION MUTUAL ZONA DE PROTECCION C/VELIZ, NELIDA
+                      S/EJECUTIVO  -
+                      VARAS, JUAN MARTIN GUILLERMO(6575)
+----------------------------------------------------------------
+13    5670/14         B Y B S.R.L. C/GONZALEZ, LILIANA ROSA S/EJECUTIVO
+                      -
+                      NUÐEZ, ANALIA DALMIRA(5333)
+----------------------------------------------------------------
+14    2924/08         BANCO COLUMBIA S.A. C/FERNANDEZ, EMILIA LAURA S/EJECUTIVO
+                      -
+                      AVALOS ALURRALDE, MARIANO EDMUNDO(3241); AVALOS
+                      ALURRALDE, EDMUNDO(467)
+----------------------------------------------------------------
+15    2351/14         BANCO HIPOTECARIO S.A. C/RAMIREZ, FRANCISCO JUSTO
+                      S/EJECUTIVO  -
+                      CAUDERER, EMILIO()
+----------------------------------------------------------------
+16    12267/16        BANCO HIPOTECARIO S.A. C/ROBLEDO, JOSE RAMON S/PREPARA VIA
+                      EJECUTIVA  -
+                      CAUDERER, EMILIO()
+----------------------------------------------------------------
+17    16271/10        BANCO PATAGONIA S.A. C/TUR SPRINGER, WALDO MAXIMILIANO
+                      S/EJECUTIVO  -
+                      INGARAMO, GUSTAVO JOSE(964)
+----------------------------------------------------------------
+18    8492/14         BANCO SANTANDER RIO S.A. C/SEGOVIA, GLADYS MABEL
+                      S/EJECUTIVO  -
+                      CAMORS, OMAR DARIO(1406)
+----------------------------------------------------------------
+19    10728/16        BARBONA, LUIS C/DUARTE ARTECONA, JULIA ELENA
+                      S/LEVANTAMIENTO DE EMBARGO  -
+                      
+----------------------------------------------------------------
+20    7180/12         BELOTTI STORERO, NICOLAS GUILLERMO C/FERNANDEZ, RUBEN
+                      ALBERTO S/EJECUTIVO  -
+                      ORCOLA, MARTIN(4123)
+----------------------------------------------------------------
+21    11384/09        BONNETTINI, ANGEL OSCAR C/ORTIGOZA, MIRIAN S/EJECUTIVO
+                      -
+                      GARCIA, GABRIELA VERONICA(3580)
+----------------------------------------------------------------
+22    11085/16        CABRAL, DELIA ALICIA E/A:  "CREDIAR S.A. C/ CABRAL, DELIA
+                      ALICIA S/EJECUTIVO" EXPTE. N  13105/12 
+                      S/LEVANTAMIENTO DE EMBARGO  -
+                      CORGNALI, ENRIQUE RAMON()
+----------------------------------------------------------------
+23    12698/15        CARSA S.A. C/ALEGRE, ROCIO ADRIANA S/EJECUTIVO
+                      -
+                      MAIDANA, SILVIA PATRICIA()
+----------------------------------------------------------------
+24    7582/15         CARSA S.A. C/ARANDA, DIEGO RICARDO S/EJECUTIVO
+                      -
+                      MAIDANA, SILVIA PATRICIA()
+----------------------------------------------------------------
+25    2551/14         CARSA S.A. C/ARANDA, OLGA S/EJECUTIVO
+                      -
+                      CERUSO, DIEGO SEBASTIAN(4077)
+----------------------------------------------------------------
+26    9556/16         CARSA S.A. C/BENEDETTI, GABRIELA MARIA S/EJECUTIVO
+                      -
+                      GARAYO, VICTOR HUGO(4345)
+----------------------------------------------------------------
+27    9320/10         CARSA S.A. C/CELIZ, JUAN CARLOS S/EJECUTIVO
+                      -
+                      
+----------------------------------------------------------------
+28    14561/09        CARSA S.A. C/CHAMORRO, DIEGO EDUARDO S/EJECUTIVO
+                      -
+                      ROBAINA, PABLO CESAR(); MIELNIK, IVAN MATIAS()
+----------------------------------------------------------------
+29    1202/13         CARSA S.A. C/CORONEL, DIONISIO RAFAEL S/EJECUTIVO
+                      -
+                      CERUSO, DIEGO SEBASTIAN(4077)
+----------------------------------------------------------------
+30    12824/09        CARSA S.A. C/ESCOBAR, ELVIRA RAMONA S/EJECUTIVO
+                      -
+                      CERUSO, DIEGO SEBASTIAN(4077); AVALOS ALURRALDE,
+                      MARIANO EDMUNDO(3241)
+----------------------------------------------------------------
+31    12860/09        CARSA S.A. C/FARIAS, JUAN CARLOS S/EJECUTIVO
+                      -
+                      CERUSO, DIEGO SEBASTIAN(4077); AVALOS ALURRALDE,
+                      MARIANO EDMUNDO(3241)
+----------------------------------------------------------------
+32    13688/14        CARSA S.A. C/FERNANDEZ, DIEGO NORBERTO S/EJECUTIVO
+                      -
+                      BANCOFF PETKOFF, EMILCE YAMILE(5731); FERNANDEZ
+                      HUICI, CARLOS MAURICIO(5875)
+----------------------------------------------------------------
+33    13085/09        CARSA S.A. C/FRANCO, ELEUTERIO BERNARDO S/EJECUTIVO
+                      -
+                      CERUSO, DIEGO SEBASTIAN(4077); AVALOS ALURRALDE,
+                      MARIANO EDMUNDO(3241)
+----------------------------------------------------------------
+34    5090/14         CARSA S.A. C/GALLARDO, GUSTAVO EDGARDO S/EJECUTIVO
+                      -
+                      MAIDANA, SILVIA PATRICIA()
+----------------------------------------------------------------
+35    12844/12        CARSA S.A. C/GIMENEZ, ESTELA S/EJECUTIVO
+                      -
+                      ARTIGAS, CECILIA()
+----------------------------------------------------------------
+36    12470/11        CARSA S.A. C/GOMEZ, WALTER JOEL S/EJECUTIVO
+                      -
+                      ARTIGAS, CECILIA()
+----------------------------------------------------------------
+37    10835/08        CARSA S.A. C/GONZALEZ, WALTER HUGO S/EJECUTIVO
+                      -
+                      CERUSO, DIEGO SEBASTIAN(4077); AVALOS ALURRALDE,
+                      MARIANO EDMUNDO(3241)
+----------------------------------------------------------------
+38    10460/10        CARSA S.A. C/MORA, RAMONA MARISA S/EJECUTIVO
+                      -
+                      
+----------------------------------------------------------------
+39    14082/09        CARSA S.A. C/NICZYPORUK, MARIA CARMEN S/EJECUTIVO
+                      -
+                      CERUSO, DIEGO SEBASTIAN(4077); AVALOS ALURRALDE,
+                      EDMUNDO(467) MUNDO(467)
+----------------------------------------------------------------
+40    5478/16         CARSA S.A. C/PRIETO, GERMAN RAMON S/EJECUTIVO
+                      -
+                      MAIDANA, SILVIA PATRICIA()
+----------------------------------------------------------------
+41    7470/08         CARSA S.A. C/QUIROGA, NELSON OSVALDO S/EJECUTIVO
+                      -
+                      CAUDERER, EMILIO()
+----------------------------------------------------------------
+42    10791/08        CARSA S.A. C/RETAMAR, MIRTA BEATRIZ S/EJECUTIVO
+                      -
+                      CERUSO, DIEGO SEBASTIAN(4077); AVALOS ALURRALDE,
+                      MARIANO EDMUNDO(3241)
+----------------------------------------------------------------
+43    10395/10        CARSA S.A. C/ROMANO, SANDRA JAQUELINA S/EJECUTIVO
+                      -
+                      
+----------------------------------------------------------------
+44    14600/09        CARSA S.A. C/ROMERO, LUIS LEONARDO S/EJECUTIVO
+                      -
+                      ROBAINA, PABLO CESAR(); MIELNIK, EUGENIO
+                      (MAT.CANCELADA)() LADA)()
+----------------------------------------------------------------
+45    15677/10        CARSA S.A. C/ROMERO, RAMON RICARDO S/EJECUTIVO
+                      -
+                      CERUSO, DIEGO SEBASTIAN(4077)
+----------------------------------------------------------------
+46    13173/11        CARSA S.A. C/SABUGO, MIRIAN S/EJECUTIVO
+                      -
+                      MORO, RICARDO ENRIQUE(1741)
+----------------------------------------------------------------
+47    7314/14         CARSA S.A. C/TORRES, OMAR CONCEPCION S/EJECUTIVO
+                      -
+                      BROGINI, TOBIAS(4343)
+----------------------------------------------------------------
+48    14586/09        CARSA S.A. C/VACA, MARCELO RUBEN S/EJECUTIVO
+                      -
+                      ROBAINA, PABLO CESAR(); MIELNIK, IVAN MATIAS()
+----------------------------------------------------------------
+49    7467/08         CARSA S.A. C/VALDEZ, ANALIA JACQUELINE S/EJECUTIVO
+                      -
+                      CAUDERER, EMILIO()
+----------------------------------------------------------------
+50    6119/08         CETROGAR S.A. C/ BIASSONI, JUAN ANGEL S/EJECUTIVO
+                      -
+                      KATZ, SILVIA(2891)
+----------------------------------------------------------------
+51    293/12          CETROGAR S.A. C/ALEGRE, TIBURCIO S/EJECUTIVO
+                      -
+                      CERUSO, DIEGO SEBASTIAN(4077)
+----------------------------------------------------------------
+52    5381/12         CETROGAR S.A. C/CAMPOS, ALEJANDRA SOLEDAD S/EJECUTIVO
+                      -
+                      CERUSO, DIEGO SEBASTIAN(4077)
+----------------------------------------------------------------
+53    9835/12         CETROGAR S.A. C/DUARTE, ELIANA ANDREA S/EJECUTIVO
+                      -
+                      CERUSO, DIEGO SEBASTIAN(4077)
+----------------------------------------------------------------
+54    902/13          CETROGAR S.A. C/FRUTOS, ANDREA SOLEDAD S/EJECUTIVO
+                      -
+                      CERUSO, DIEGO SEBASTIAN(4077)
+----------------------------------------------------------------
+55    6004/11         CETROGAR S.A. C/GONZALEZ, CLAUDIO S/EJECUTIVO
+                      -
+                      CERUSO, DIEGO SEBASTIAN(4077)
+----------------------------------------------------------------
+56    8754/16         CETROGAR S.A. C/GONZALEZ, EDGARDO RAMON S/EJECUTIVO
+                      -
+                      CERUSO, DIEGO SEBASTIAN(4077)
+----------------------------------------------------------------
+57    9048/10         CETROGAR S.A. C/INSAURRALDE, PABLO ROLANDO S/EJECUTIVO
+                      -
+                      CERUSO, DIEGO SEBASTIAN(4077)
+----------------------------------------------------------------
+58    3780/14         CETROGAR S.A. C/MEDINA, RAMON ANASTACIO S/EJECUTIVO
+                      -
+                      CERUSO, DIEGO SEBASTIAN(4077)
+----------------------------------------------------------------
+59    5236/08         CETROGAR S.A. C/ROMERO, MARIA OFELIA S/EJECUTIVO
+                      -
+                      KATZ, SILVIA(2891)
+----------------------------------------------------------------
+60    13093/12        CETROGAR S.A. C/YOSHIURA, MIGUEL GERARDO S/EJECUTIVO
+                      -
+                      CERUSO, DIEGO SEBASTIAN(4077)
+----------------------------------------------------------------
+61    12878/15        CFN S.A. C/FERNANDEZ, JORGE FABIAN S/EJECUTIVO
+                      -
+                      BERNAD, JOSE ANTONIO()
+----------------------------------------------------------------
+62    13845/15        CFN S.A. C/MARTINEZ, OMAR ANDRES S/EJECUTIVO
+                      -
+                      BERNAD, JOSE ANTONIO()
+----------------------------------------------------------------
+63    14086/15        CFN S.A. C/PEREYRA, RICARDO LUCIANO S/EJECUTIVO
+                      -
+                      BERNAD, JOSE ANTONIO()
+----------------------------------------------------------------
+64    12045/16        CHEVROLET S.A. DE AHORRO P/FINES DETERM. C/SPAGNOLI, MIRNA
+                      MARINA S/EJECUCION PRENDARIA  -
+                      KNIAZ, MARIA FERNANDA()
+----------------------------------------------------------------
+65    14458/09        COMPAÐIA FINANCIERA ARGENTINA S.A. C/BARICHEVAL, MIRTHA
+                      ISABEL S/EJECUTIVO  -
+                      CERUSO, DIEGO SEBASTIAN(4077); AVALOS ALURRALDE,
+                      EDMUNDO(467) MUNDO(467)
+----------------------------------------------------------------
+66    14765/09        COMPAÐIA FINANCIERA ARGENTINA S.A. C/LEDESMA, MIGUEL ANGEL
+                      S/EJECUTIVO  -
+                      AVALOS ALURRALDE, EDMUNDO(467); CERUSO, DIEGO
+                      SEBASTIAN(4077) TIAN(4077)
+----------------------------------------------------------------
+67    2952/16         COOPERATIVA COOPERCRED LTDA. DE CREDITO, CONSUMO Y
+                      VIVIENDA C/GAMBOA, FRANCISCO S/EJECUTIVO  -
+                      CAMISASCA, MARIA LAURA(5694)
+----------------------------------------------------------------
+68    8017/13         COOPERATIVA COPERVI LTDA. C/MENDOZA, SERGIO AGUSTIN
+                      S/PREPARA VIA EJECUTIVA  -
+                      
+----------------------------------------------------------------
+69    7981/11         COOPERATIVA DE TRABAJO ELECTRICO DE COMUNICACIONES Y DE
+                      CONSUMO "ELECTRICA LIMITADA" C/ESTECHE, SARA 
+                      GRACIELA S/EJECUTIVO  -
+                      CERUSO, DIEGO SEBASTIAN(4077)
+----------------------------------------------------------------
+70    8043/11         COOPERATIVA DE TRABAJO ELECTRICO, DE COMUNICACION Y DE
+                      CONSUMO "ELECTRICA LIMITADA" C/GAMARRA, ABEL Y 
+                      VIANAL, ANA MARIA S/EJECUTIVO  -
+                      CERUSO, DIEGO SEBASTIAN(4077)
+----------------------------------------------------------------
+71    6768/13         COOPERATIVA DE VIVIENDA, CREDITO Y CONSUMO PALMARES LTDA.
+                      C/PEREZ, RAUL ANTONIO S/EJECUTIVO  -
+                      MORO, MATIAS SEBASTIAN(6535)
+----------------------------------------------------------------
+72    3773/08         CORIA, ROBERTO GASTON C/ORTIZ, CRISTINA S/EJECUTIVO
+                      -
+                      SANTOS, EZEQUIEL NICOLAS(4571); GARCIA, GABRIELA
+                      VERONICA(3580) RONICA(3580)
+----------------------------------------------------------------
+73    9647/16         CREDIAR S.A. C/ALVAREZ, NILDA BEATRIZ S/EJECUTIVO
+                      -
+                      COLOMBO, DIEGO EMANUEL()
+----------------------------------------------------------------
+74    5309/16         CREDIAR S.A. C/AVALOS, DORA BEATRIZ S/EJECUTIVO
+                      -
+                      COLOMBO, DIEGO EMANUEL()
+----------------------------------------------------------------
+75    9153/16         CREDIAR S.A. C/BALCAZA, RAMON VICTOR S/EJECUTIVO
+                      -
+                      COLOMBO, DIEGO EMANUEL()
+----------------------------------------------------------------
+76    293/16          CREDIAR S.A. C/CAMPOS, MARCELINO S/EJECUTIVO
+                      -
+                      COLOMBO, DIEGO EMANUEL()
+----------------------------------------------------------------
+77    8426/16         CREDIAR S.A. C/CENTURION, ISABEL ESMILCE S/EJECUTIVO
+                      -
+                      COLOMBO, DIEGO EMANUEL()
+----------------------------------------------------------------
+78    3046/14         CREDIAR S.A. C/ESCALANTE, ROBERTO EZEQUIEL S/EJECUTIVO
+                      -
+                      CERUSO, DIEGO SEBASTIAN(4077)
+----------------------------------------------------------------
+79    2879/15         CREDIAR S.A. C/GALVAN, ESTELA S/EJECUTIVO
+                      -
+                      COLOMBO, DIEGO EMANUEL()
+----------------------------------------------------------------
+80    5116/16         CREDIAR S.A. C/GAUNA, CARLA ROCIO S/EJECUTIVO
+                      -
+                      COLOMBO, DIEGO EMANUEL()
+----------------------------------------------------------------
+81    287/16          CREDIAR S.A. C/GIMENEZ LARA, NOELIA ALEJANDRA S/EJECUTIVO
+                      -
+                      COLOMBO, DIEGO EMANUEL()
+----------------------------------------------------------------
+82    13510/12        CREDIAR S.A. C/GODOY, SANDRA BEATRIZ S/EJECUTIVO
+                      -
+                      CERUSO, DIEGO SEBASTIAN(4077)
+----------------------------------------------------------------
+83    9144/16         CREDIAR S.A. C/GUTIERREZ, SARA MARIELA S/EJECUTIVO
+                      -
+                      COLOMBO, DIEGO EMANUEL()
+----------------------------------------------------------------
+84    7779/15         CREDIAR S.A. C/HIDALGO, JOSE ALBERTO S/EJECUTIVO
+                      -
+                      COLOMBO, DIEGO EMANUEL()
+----------------------------------------------------------------
+85    14683/15        CREDIAR S.A. C/MIEREZ, ERICA S/EJECUTIVO
+                      -
+                      COLOMBO, DIEGO EMANUEL()
+----------------------------------------------------------------
+86    2861/14         CREDIAR S.A. C/SEMENIUK, VALERIA ANTONELLA S/EJECUTIVO
+                      -
+                      CERUSO, DIEGO SEBASTIAN(4077)
+----------------------------------------------------------------
+87    13008/12        CREDIAR S.A. C/SUAREZ, RICARDO ALBERTO S/EJECUTIVO
+                      -
+                      CERUSO, DIEGO SEBASTIAN(4077)
+----------------------------------------------------------------
+88    2836/14         CREDIAR S.A. C/ZAPATA, MONICA EMILCE S/EJECUTIVO
+                      -
+                      CERUSO, DIEGO SEBASTIAN(4077)
+----------------------------------------------------------------
+89    4532/13         CREDIMACO S.A. C/SEGOVIA, RAMONA BEATRIZ S/EJECUTIVO
+                      -
+                      JERABEK, CLAUDIA PATRICIA()
+----------------------------------------------------------------
+90    7400/10         CREDINEA S.A. C/BARBOZA, CARMEN LUCIA S/EJECUTIVO
+                      -
+                      
+----------------------------------------------------------------
+91    12752/15        CREDINEA S.A. C/BEJARANO, CECILIA BEATRIZ S/EJECUTIVO
+                      -
+                      GARAYO, VICTOR HUGO(4345)
+----------------------------------------------------------------
+92    6973/14         CREDINEA S.A. C/BRITEZ, REMIGIA S/EJECUTIVO
+                      -
+                      BROGINI, TOBIAS(4343)
+----------------------------------------------------------------
+93    16430/11        CREDINEA S.A. C/DIAZ, MARTA SUSANA S/EJECUTIVO
+                      -
+                      DURAND, SILVIA RAQUEL(1685)
+----------------------------------------------------------------
+94    7726/16         CREDINEA S.A. C/FLORENTIN, CESAR HUMBERTO S/EJECUTIVO
+                      -
+                      BANCOFF PETKOFF, EMILCE YAMILE(5731)
+----------------------------------------------------------------
+95    9121/12         CREDINEA S.A. C/GIMENEZ LINNELL, VICTOR JAVIER S/EJECUTIVO
+                      -
+                      CERUSO, DIEGO SEBASTIAN(4077)
+----------------------------------------------------------------
+96    11946/15        CREDINEA S.A. C/GOMEZ, SANDRA MARIA S/EJECUTIVO
+                      -
+                      CAUDERER, EMILIO()
+----------------------------------------------------------------
+97    10605/08        CREDINEA S.A. C/GOMEZ, SANTOS S/EJECUTIVO
+                      -
+                      DURAND, SILVIA RAQUEL(1685)
+----------------------------------------------------------------
+98    7617/14         CREDINEA S.A. C/JAIMES, BLANCA DEL VALLE S/EJECUTIVO
+                      -
+                      SEGOVIA, DANIEL ERNESTO()
+----------------------------------------------------------------
+99    6048/11         CREDINEA S.A. C/JIJENA, RICARDO MANUEL S/EJECUTIVO
+                      -
+                      CERUSO, DIEGO SEBASTIAN(4077)
+----------------------------------------------------------------
+100   12743/15        CREDINEA S.A. C/LESCANO, ISABEL BEATRIZ S/EJECUTIVO
+                      -
+                      GARAYO, VICTOR HUGO(4345)
+----------------------------------------------------------------
+101   11952/11        CREDINEA S.A. C/LOPEZ, NANCY MARIELA S/EJECUTIVO
+                      -
+                      CERUSO, DIEGO SEBASTIAN(4077)
+----------------------------------------------------------------
+102   8583/10         CREDINEA S.A. C/LUNA, MARIO FIDEL S/EJECUTIVO
+                      -
+                      
+----------------------------------------------------------------
+103   7990/10         CREDINEA S.A. C/MAMBRIN, NESTOR RAMON S/EJECUTIVO
+                      -
+                      CERUSO, DIEGO SEBASTIAN(4077)
+----------------------------------------------------------------
+104   12135/09        CREDINEA S.A. C/MIRANDA, PEDRO MARTIR S/EJECUTIVO
+                      -
+                      ROBAINA, PABLO CESAR(); MIELNIK, IVAN MATIAS()
+----------------------------------------------------------------
+105   7728/11         CREDINEA S.A. C/MONTERO, MARIA SOLEDAD S/EJECUTIVO
+                      -
+                      ARTIGAS, CECILIA(); DEFENSORIA OFICIAL N°2,
+                      DEFENSORIA OFICIAL N°2()
+----------------------------------------------------------------
+106   4008/11         CREDINEA S.A. C/MORALES, JUAN MANUEL S/EJECUTIVO
+                      -
+                      CERUSO, DIEGO SEBASTIAN(4077)
+----------------------------------------------------------------
+107   8269/10         CREDINEA S.A. C/OSUNA, CLAUDIO DANIEL S/EJECUTIVO
+                      -
+                      
+----------------------------------------------------------------
+108   15055/11        CREDINEA S.A. C/PALOMINO, SILVIA LILIAN S/EJECUTIVO
+                      -
+                      ARTIGAS, CECILIA()
+----------------------------------------------------------------
+109   12702/15        CREDINEA S.A. C/PELOZO, JUAN CARLOS S/EJECUTIVO
+                      -
+                      MAIDANA, SILVIA PATRICIA()
+----------------------------------------------------------------
+110   376/12          CREDINEA S.A. C/RODRIGUEZ BAEZ, ANDRES RAMON S/EJECUTIVO
+                      -
+                      CERUSO, DIEGO SEBASTIAN(4077)
+----------------------------------------------------------------
+111   7225/10         CREDINEA S.A. C/RODRIGUEZ, JULIA SUSANA S/EJECUTIVO
+                      -
+                      
+----------------------------------------------------------------
+112   15659/10        CREDINEA S.A. C/ROMERO, RICARDO RAMON S/EJECUTIVO
+                      -
+                      CERUSO, DIEGO SEBASTIAN(4077)
+----------------------------------------------------------------
+113   4850/14         CREDINEA S.A. C/ROTELA, BENIGNO DIONISIO S/EJECUTIVO
+                      -
+                      ZEINSTEGER, PABLO JAVIER(3483)
+----------------------------------------------------------------
+114   11655/11        CREDINEA S.A. C/SALAS, OMAR ELPIDIO S/EJECUTIVO
+                      -
+                      CERUSO, DIEGO SEBASTIAN(4077)
+----------------------------------------------------------------
+115   15328/09        CREDINEA S.A. C/SANCHEZ, NILDA LUCIA S/EJECUTIVO
+                      -
+                      MORO, RICARDO ENRIQUE(1741)
+----------------------------------------------------------------
+116   10328/08        CREDINEA S.A. C/SOSA, FERNANDO SECUNDINO S/EJECUTIVO
+                      -
+                      CERUSO, DIEGO SEBASTIAN(4077); AVALOS ALURRALDE,
+                      MARIANO EDMUNDO(3241)
+----------------------------------------------------------------
+117   10544/08        CREDINEA S.A. C/SOSA, JULIO HECTOR S/EJECUTIVO
+                      -
+                      DURAND, SILVIA RAQUEL(1685)
+----------------------------------------------------------------
+118   5543/14         CREDINEA S.A. C/STIEMERLING, GISELA ELIANA S/EJECUTIVO
+                      -
+                      MAIDANA, SILVIA PATRICIA()
+----------------------------------------------------------------
+119   16452/11        CREDINEA S.A. C/SUAREZ, JOSE ORLANDO S/EJECUTIVO
+                      -
+                      DURAND, SILVIA RAQUEL(1685)
+----------------------------------------------------------------
+120   4427/12         CREDINEA S.A. C/ZACARIAS, RUBEN S/EJECUTIVO
+                      -
+                      MAIDANA, SILVIA PATRICIA()
+----------------------------------------------------------------
+121   7257/15         CREDITOS EFECTIVOS S.A. C/GOROSITO, LAURA RAMONA YOLANDA
+                      S/EJECUTIVO  -
+                      CACERES, RAUL ALBERTO(5984)
+----------------------------------------------------------------
+122   13288/16        CREDITOS EFECTIVOS S.A. C/RIOS, CESAR AUGUSTO S/EJECUTIVO
+                      -
+                      CACERES, RAUL ALBERTO(5984)
+----------------------------------------------------------------
+123   8897/14         CREDITOS EFECTIVOS S.A. C/SOTO, MARIO FRANCISCO
+                      S/EJECUTIVO  -
+                      CUSTIDIANO, JAVIER HORACIO()
+----------------------------------------------------------------
+124   7371/12         CUADRA, HERIBERTO C/VALLEJOS, NATIVIDAD S/EJECUTIVO
+                      -
+                      DE LEON, ANDRES(2115)
+----------------------------------------------------------------
+125   6063/15         CUEVAS, MARIA BELEN C/RIVAS, NELIDA NATALIA S/EJECUTIVO
+                      -
+                      ARISMENDI, ELVIO ERNESTO(4169)
+----------------------------------------------------------------
+126   12451/12        DIEZ, MANUEL ANTONIO Y MENDEZ, JUAN MANUEL C/DE LEON,
+                      MIRTHA EDITH S/EJECUCION DE SENTENCIAS ART.97 LEY 848 
+                      - CONTENCIOSO ADMINISTRATIVO  -
+                      DIEZ, MANUEL ANTONIO()
+----------------------------------------------------------------
+127   4472/16         DILCAR S.A. C/FERNANDEZ, HERNAN CRISTIAN S/EJECUTIVO
+                      -
+                      MARCHISIO, ANA PAULA(4691)
+----------------------------------------------------------------
+128   13347/16        DOSSO, MARCELO ALEJANDRO C/SERVICIO DE AGUA Y
+                      MANTENIMIENTO EMPRESA DEL ESTADO PROVINCIAL (S.A.M.E.E.P.) 
+                      S/EJECUCION DE HONORARIOS  -
+                      DOSSO, MARCELO ALEJANDRO(3058)
+----------------------------------------------------------------
+129   415/13          EL GALPON MADERAS S.R.L. C/LARIO, JOSE HONORIO S/EJECUTIVO
+                      -
+                      PINTO, JORGE PABLO(2659)
+----------------------------------------------------------------
+130   8940/16         FERNANDEZ, CARLOS C/HUERCAL S.R.L. S/EJECUCION DE
+                      HONORARIOS  -
+                      FERNANDEZ, CARLOS HUMBERTO()
+----------------------------------------------------------------
+131   7574/12         FERNANDEZ, CESAR MARCELO C/ESCALANTE, SANDRA S/EJECUTIVO
+                      -
+                      SARGENTI, ALEJANDRO JOSE()
+----------------------------------------------------------------
+132   4536/12         FERNANDEZ, CESAR MARCELO C/GOMEZ, MERCEDES ANGELICA
+                      S/EJECUTIVO  -
+                      SARGENTI, ALEJANDRO JOSE()
+----------------------------------------------------------------
+133   10501/15        FERNANDEZ, CESAR MARCELO C/MENDOZA, ROCIO CELESTE
+                      S/EJECUTIVO  -
+                      FERNANDEZ, CESAR MARCELO(); ZEINSTEGER, PABLO
+                      JAVIER(3483) R(3483)
+----------------------------------------------------------------
+134   3462/10         FIDEICOMISO PRIVADO FINANCIERO LMF C/PRIETO, JOSE LUIS
+                      S/EJECUTIVO  -
+                      CAUDERER, EMILIO()
+----------------------------------------------------------------
+135   14806/16        FIDUCIARIA DEL NORTE S.A. C/OJEDA, JUAN ALBERTO
+                      S/EJECUTIVO  -
+                      RAFART, PABLO EZEQUIEL(6005)
+----------------------------------------------------------------
+136   11531/11        FIJMAN, RUBEN VICTOR C/CASTRO, ZULMA BEATRIZ S/EJECUTIVO
+                      -
+                      ALARCON, LUIS ANIBAL(); ROTT, RAQUEL ROXANA()
+----------------------------------------------------------------
+137   6856/11         FINANPRO S.R.L. C/ACEVEDO, JULIO CESAR S/EJECUTIVO
+                      -
+                      LAURITA, LORENA MARICEL(3200)
+----------------------------------------------------------------
+138   9706/14         FINANPRO S.R.L. C/AGUIRRE, ELISEO S/EJECUTIVO
+                      -
+                      LAURITA, LORENA MARICEL(3200)
+----------------------------------------------------------------
+139   9349/16         FINANPRO S.R.L. C/CABRERA, OSCAR EUGENIO S/EJECUTIVO
+                      -
+                      LAURITA, LORENA MARICEL(3200)
+----------------------------------------------------------------
+140   10563/15        FINANPRO S.R.L. C/CARDOZO, SERGIO NICOLAS FRANCISCO
+                      S/EJECUTIVO  -
+                      LAURITA, LORENA MARICEL(3200)
+----------------------------------------------------------------
+141   9685/14         FINANPRO S.R.L. C/FIGUEREDO, SILVIA GRACIELA S/EJECUTIVO
+                      -
+                      LAURITA, LORENA MARICEL(3200)
+----------------------------------------------------------------
+142   10/10           FINANPRO S.R.L. C/FLORES, GRACIELA ELIZABETH S/EJECUTIVO
+                      -
+                      LAURITA, LORENA MARICEL(3200)
+----------------------------------------------------------------
+143   9703/14         FINANPRO S.R.L. C/GOMEZ, NESTOR DANIEL S/EJECUTIVO
+                      -
+                      LAURITA, LORENA MARICEL(3200)
+----------------------------------------------------------------
+144   10720/15        FINANPRO S.R.L. C/GUILLEN, OSCAR ALCIDES S/EJECUTIVO
+                      -
+                      CORREA, PEDRO A.(3102)
+----------------------------------------------------------------
+145   32/10           FINANPRO S.R.L. C/LOPEZ, ANTONIO PEDRO S/EJECUTIVO
+                      -
+                      LAURITA, LORENA MARICEL(3200)
+----------------------------------------------------------------
+146   2632/15         FINANPRO S.R.L. C/MACHUCA, RAMONA ESTER S/EJECUTIVO
+                      -
+                      LAURITA, LORENA MARICEL(3200)
+----------------------------------------------------------------
+147   137/16          FINANPRO S.R.L. C/MEZA, MARIO S/EJECUTIVO
+                      -
+                      LAURITA, LORENA MARICEL(3200)
+----------------------------------------------------------------
+148   953/15          FINANPRO S.R.L. C/MIEREZ, RUBEN ALCIDES S/EJECUTIVO
+                      -
+                      LAURITA, LORENA MARICEL(3200)
+----------------------------------------------------------------
+149   9224/16         FINANPRO S.R.L. C/MOLINA, RICARDO RAUL S/EJECUTIVO
+                      -
+                      LAURITA, LORENA MARICEL(3200)
+----------------------------------------------------------------
+150   9165/14         FINANPRO S.R.L. C/NUÐES, JESSICA BEATRIZ S/EJECUTIVO
+                      -
+                      LAURITA, LORENA MARICEL(3200)
+----------------------------------------------------------------
+151   7041/14         FINANPRO S.R.L. C/OJEDA, ELSA BEATRIZ S/EJECUTIVO
+                      -
+                      LAURITA, LORENA MARICEL(3200); GARCIA, ALEJANDRA
+                      MARIEL() RIEL()
+----------------------------------------------------------------
+152   5850/15         FINANPRO S.R.L. C/PICCOLI, MARISEL NOEMI S/EJECUTIVO
+                      -
+                      LAURITA, LORENA MARICEL(3200)
+----------------------------------------------------------------
+153   3221/16         FINANPRO S.R.L. C/ROMERO, ALBERTO FRANCISCO S/EJECUTIVO
+                      -
+                      LAURITA, LORENA MARICEL(3200)
+----------------------------------------------------------------
+154   5800/15         FINANPRO S.R.L. C/SALINAS, LILIAN TERESITA S/EJECUTIVO
+                      -
+                      
+----------------------------------------------------------------
+155   422/16          FINANPRO S.R.L. C/SILVA, MARIA CRISTINA S/EJECUTIVO
+                      -
+                      LAURITA, LORENA MARICEL(3200)
+----------------------------------------------------------------
+156   426/16          FINANPRO S.R.L. C/SOTO, DANIEL ANIBAL S/EJECUTIVO
+                      -
+                      LAURITA, LORENA MARICEL(3200)
+----------------------------------------------------------------
+157   618/15          FINANPRO S.R.L. C/SUAREZ, ANA NOEMI S/EJECUTIVO
+                      -
+                      LAURITA, LORENA MARICEL(3200)
+----------------------------------------------------------------
+158   3772/16         GALUGA, DANIEL EDGARDO C/BIYAGRA, MARIO ALEJANDRO
+                      S/EJECUTIVO  -
+                      GALUGA, DANIEL EDGARDO(4719)
+----------------------------------------------------------------
+159   12726/15        GOMEZ, BENJAMINA ESTHER C/CACERES, CECILIA MARIANELA
+                      S/EJECUTIVO  -
+                      UCERO, WALTER EMMANUEL(6719)
+----------------------------------------------------------------
+160   11026/15        GOMEZ, GUSTAVO MARCELO C/CABRERA, ROLANDO DANIEL
+                      S/EJECUTIVO  -
+                      ORTIZ, JESSICA GISELA(7153)
+----------------------------------------------------------------
+161   10033/14        GONZALEZ ZUND, RICARDO ARIEL C/DUARTE BERTOLI, CLAUDIA
+                      S/EJECUCION DE HONORARIOS  -
+                      GONZALEZ ZUND, RICARDO ARIEL(1354)
+----------------------------------------------------------------
+162   6917/12         GRUPO INSTANCRED S.R.L. C/BASSO, BLANCA JUDITH S/EJECUTIVO
+                      -
+                      OBREGON FASOLA, MARIANO()
+----------------------------------------------------------------
+163   4648/10         HSBC BANK ARGENTINA S.A. C/ SOTO GARCIA, IGNACIO JAVIER Y
+                      OBREGON, SELVA ANAHI S/EJECUTIVO  -
+                      KAPEICA, BENJAMIN EDGARDO(1287); TOLEDO, JOSE
+                      SEBASTIAN() TIAN()
+----------------------------------------------------------------
+164   9337/15         HUERCAL S.R.L. C/BARRIOS, ESTHER S/EJECUTIVO
+                      -
+                      ZURANO MARTINEZ, MIGUEL ANTONIO(2433)
+----------------------------------------------------------------
+165   4092/14         HUERCAL S.R.L. C/GODOY, ANTONIA S/EJECUTIVO
+                      -
+                      ZURANO MARTINEZ, MIGUEL ANTONIO(2433)
+----------------------------------------------------------------
+166   8658/10         HUERCAL S.R.L. C/GONZALEZ, RUBEN DARIO S/EJECUTIVO
+                      -
+                      ZURANO MARTINEZ, MIGUEL ANTONIO(2493)
+----------------------------------------------------------------
+167   9085/11         HUERCAL S.R.L. C/LEZCANO, SILVANA NOEMI Y LEZCANO, FELIPE
+                      S/EJECUTIVO  -
+                      ZURANO MARTINEZ, MIGUEL ANTONIO(2433)
+----------------------------------------------------------------
+168   4689/11         HUERCAL S.R.L. C/MEZA, JOSE Y MEZA, ROSAURA JOSEFINA
+                      S/EJECUTIVO  -
+                      ZURANO MARTINEZ, MIGUEL ANTONIO(2433)
+----------------------------------------------------------------
+169   13992/16        HUERCAL S.R.L. C/RIBLES, ROMAN S/EJECUTIVO
+                      -
+                      ZURANO MARTINEZ, MIGUEL ANTONIO(2433)
+----------------------------------------------------------------
+170   2468/15         INDUSTRIAL Y COMERCIAL S.R.L. C/ABRUZZESE, JUAN MARTIN
+                      S/EJECUTIVO  -
+                      LAURITA, DARIO EDGARDO(); CORRALES FEDERASCO,
+                      SERGIO E.(3547)
+----------------------------------------------------------------
+171   1992/13         LAITAN, LUIS HUMBERTO C/MENDOZA, SABRINA NOELIA
+                      S/EJECUTIVO  -
+                      SANCHEZ, JOSE ALEJANDRO()
+----------------------------------------------------------------
+172   7659/12         LAS CAMELIAS S.A. C/ GALARZA, ROSANA GLADIS S/EJECUTIVO
+                      -
+                      
+----------------------------------------------------------------
+173   12081/10        LOPEZ, JUAN ANGEL C/VERON, SERGIO WALDEMAR S/EJECUTIVO
+                      -
+                      BARRIONUEVO, SANTIAGO RUBEN(3803)
+----------------------------------------------------------------
+174   1229/15         MAFFEI, MARTIN RENATO C/PINTO, MIRIAM BEATRIZ S/EJECUTIVO
+                      -
+                      RAFART, PABLO EZEQUIEL(6005)
+----------------------------------------------------------------
+175   9878/16         MEGACHACO S.R.L. C/ROMERO, RAMON RODOLFO S/EJECUTIVO
+                      -
+                      GARCIA, GABRIELA VERONICA(3580)
+----------------------------------------------------------------
+176   7241/16         MERCONORTH S.A. C/IULIANO, JOSE ANDRES S/EJECUTIVO
+                      -
+                      BROGINI, TOBIAS(4343)
+----------------------------------------------------------------
+177   10572/12        MONZON, LILIANA DEL CARMEN C/LOPEZ, DIANA ITATI
+                      S/EJECUCION DE SENTENCIA ART 492 LEY 1062 Y ART 499 LEY 4538 
+                      - PENAL  -
+                      MONZON, LILIANA IDALINA DEL CARMEN()
+----------------------------------------------------------------
+178   3634/13         MORALES, ALEJANDRO C/RAMIREZ, RODOLFO S/EJECUTIVO
+                      -
+                      BROGINI, TOBIAS(4343)
+----------------------------------------------------------------
+179   20/16           MORALES, ALEJANDRO C/SOTO, GRACIELA LEONOR S/EJECUTIVO
+                      -
+                      BROGINI, TOBIAS(4343)
+----------------------------------------------------------------
+180   17433/09        MUNICIPALIDAD DE RESISTENCIA C/AYALA, WALTER RAMON
+                      S/EJECUCION FISCAL  -
+                      BERON DE ASTRADA, MARTIN ADRIAN(3958)
+----------------------------------------------------------------
+181   13142/08        MUNICIPALIDAD DE RESISTENCIA C/BORDA, MIRTA DELIA Y/O
+                      POSEEDOR,TENEDOR Y/O USUFRUCTUARIO QUIEN RESULTE 
+                      RESPONSABLE S/EJECUCION FISCAL  -
+                      BERON DE ASTRADA, MARTIN ADRIAN(3958)
+----------------------------------------------------------------
+182   14316/08        MUNICIPALIDAD DE RESISTENCIA C/CAÐETE, CARLOS EMILIO
+                      S/EJECUCION FISCAL  -
+                      BERON DE ASTRADA, MARTIN ADRIAN(3958)
+----------------------------------------------------------------
+183   15782/09        MUNICIPALIDAD DE RESISTENCIA C/GODOY, MARIA MATILDE
+                      S/EJECUCION FISCAL  -
+                      BERON DE ASTRADA, MARTIN ADRIAN(3958)
+----------------------------------------------------------------
+184   14295/08        MUNICIPALIDAD DE RESISTENCIA C/JUDKEVICH, ALBERTO MAURICIO
+                      S/EJECUCION FISCAL  -
+                      BERON DE ASTRADA, MARTIN ADRIAN(3958)
+----------------------------------------------------------------
+185   15791/09        MUNICIPALIDAD DE RESISTENCIA C/MENTEGUIAGA A. VICTORIA
+                      S/EJECUCION FISCAL  -
+                      BERON DE ASTRADA, MARTIN ADRIAN(3958)
+----------------------------------------------------------------
+186   12048/10        MUNICIPALIDAD DE RESISTENCIA C/ROMERO, JUAN ENRIQUE
+                      S/EJECUCION FISCAL  -
+                      
+----------------------------------------------------------------
+187   907/10          MUNICIPALIDAD DE RESISTENCIA C/SANDOVAL, MELITON
+                      S/EJECUCION FISCAL  -
+                      NUÐEZ, SOLEDAD()
+----------------------------------------------------------------
+188   17439/09        MUNICIPALIDAD DE RESISTENCIA C/SEGOVIA, DAVID S/EJECUCION
+                      FISCAL  -
+                      BERON DE ASTRADA, MARTIN ADRIAN(3958)
+----------------------------------------------------------------
+189   11366/14        NISSIM, ALEJANDRO MATIAS C/CONTRERAS GARCIA, HUGO JOSE
+                      MAURICIO S/EJECUTIVO  -
+                      BROGINI, TOBIAS(4343)
+----------------------------------------------------------------
+190   12894/16        NOVILLO PIÐERO, CLAUDIA MARCELA C/ROMERO, UBALDINO
+                      S/EJECUTIVO  -
+                      AYALA POZZI, JUAN JOSE(5635)
+----------------------------------------------------------------
+191   9120/11         NUEVO BANCO DE ENTRE RIOS S.A. C/ALARCON, EVA BEATRIZ
+                      TERESA Y FRANCOU, ROBERTO PAUL S/EJECUTIVO  -
+                      CORREA, PEDRO A.(3102); RIOS, DARIO RUBEN(2866);
+                      VITALI, EDUARDO ARIEL(2992)
+----------------------------------------------------------------
+192   5015/16         ORTIZ, ROLANDO LUIS C/VALENZUELA, EGUIDIO S/LEVANTAMIENTO
+                      DE EMBARGO  -
+                      DALINGER CENTENA, EDUARDO MIGUEL()
+----------------------------------------------------------------
+193   14167/16        PABLO ELOY DONNET S.A. C/DIAZ, CELESTINA GRACIELA Y
+                      QUEVEDO, JORGE ANTONIO S/EJECUCION PRENDARIA  -
+                      GABARDINI, LUIS(3206)
+----------------------------------------------------------------
+194   7428/15         PABLO ELOY DONNET S.A. C/LUGO, GASPAR S/EJECUCION
+                      PRENDARIA  -
+                      GABARDINI, LUIS(3206)
+----------------------------------------------------------------
+195   6483/12         PACHECO, MIRTA ALICIA C/MUNICIPALIDAD DE RESISTENCIA
+                      S/EJECUCION DE HONORARIOS  -
+                      PACHECO, MIRTA ALICIA(2905)
+----------------------------------------------------------------
+196   5741/13         PIÐERO, MARIA GABRIELA Y SUCESORES DE JULIO PIÐERO FRANCO
+                      C/MUNICIPALIDAD DE RESISTENCIA S/EJECUCION DE 
+                      SENTENCIAS ART.97 LEY 848 - CONTENCIOSO ADMINISTRATIVO 
+                      -
+                      PIÑERO, MARIA GABRIELA()
+----------------------------------------------------------------
+197   5823/14         PORTILLO, SEBASTIAN C/MACHUCA, NATALIA NERINA S/EJECUTIVO
+                      -
+                      FELDMANN, EDUARDO ALBERTO(2588)
+----------------------------------------------------------------
+198   3024/13         PRACTICA S.R.L. C/GOMEZ, IGNACIO S/EJECUTIVO
+                      -
+                      VARAS, CARLOS GUILLERMO(1713)
+----------------------------------------------------------------
+199   2276/10         PROVINCIA DEL CHACO C/VIRIATO ERNESTO LAFUENTE E HIJOS
+                      S/APREMIO  -
+                      SERRANO, CRISTINA(2727)
+----------------------------------------------------------------
+200   9332/09         ROMERO, PASION C/CORREA, LORENZO ANTONIO S/EJECUTIVO
+                      -
+                      ZAPATA, ROBERTO OSMAR(); CONTRERAS, MARIO
+                      ROBERTO(4273); LOCKETT, OLGA SUSANA()
+----------------------------------------------------------------
+201   2446/12         ROVNER, FERNANDO JOSE C/ACUÐA, LAURA NOEMI S/EJECUTIVO
+                      -
+                      PINTO, JORGE PABLO(2659)
+----------------------------------------------------------------
+202   854/09          ROVNER, FERNANDO JOSE C/SOLIS, ELBA LILIAN S/EJECUTIVO
+                      -
+                      PINTO, JORGE PABLO(2659)
+----------------------------------------------------------------
+203   7761/12         SANCHEZ, EDUARDO C/CARRASCO, LUIS ALBERTO S/EJECUTIVO
+                      -
+                      BARRIONUEVO, SANTIAGO RUBEN(3803)
+----------------------------------------------------------------
+204   199/09          SMARTVISION S.R.L. C/ALEGRE, NOEMI S/EJECUTIVO
+                      -
+                      ZEINSTEGER, PABLO JAVIER(3483); GARAYO, VICTOR
+                      HUGO(4345) (4345)
+----------------------------------------------------------------
+205   194/15          SOTTO CLAUDE, VICTOR ALEJANDRO C/BENITEZ, MANUEL
+                      S/EJECUTIVO  -
+                      SOTTO CLAUDE, VICTOR ALEJANDRO(3520)
+----------------------------------------------------------------
+206   8887/12         TARJETA NARANJA S.A. C/ACEVEDO, MARIA SILVINA S/EJECUTIVO
+                      -
+                      CERUSO, DIEGO SEBASTIAN(4077)
+----------------------------------------------------------------
+207   13490/11        TARJETA NARANJA S.A. C/CONTRERAS, JORGE EDUARDO
+                      S/EJECUTIVO  -
+                      CERUSO, DIEGO SEBASTIAN(4077)
+----------------------------------------------------------------
+208   7897/12         TARJETA NARANJA S.A. C/ESPINOZA, CLAUDIO ALEJANDRO
+                      S/EJECUTIVO  -
+                      CERUSO, DIEGO SEBASTIAN(4077)
+----------------------------------------------------------------
+209   9518/08         TARJETA NARANJA S.A. C/FRANCO, DIONICIO S/EJECUTIVO
+                      -
+                      CERUSO, DIEGO SEBASTIAN(4077); AVALOS ALURRALDE,
+                      MARIANO EDMUNDO(3241)
+----------------------------------------------------------------
+210   4071/14         TARJETA NARANJA S.A. C/SANCHEZ, SUSANA ESTHER S/EJECUTIVO
+                      -
+                      AVALOS ALURRALDE, MARIANO EDMUNDO(3241)
+----------------------------------------------------------------
+211   12993/12        TARJETA NARANJA S.A. C/SOSA, JUAN JOSE S/EJECUTIVO
+                      -
+                      AVALOS ALURRALDE, MARIANO EDMUNDO(3241)
+----------------------------------------------------------------
+212   14802/09        TARJETA NARANJA S.A. C/VAZQUEZ, MARIA AGOSTINA S/PREPARA
+                      VIA EJECUTIVA  -
+                      CERUSO, DIEGO SEBASTIAN(4077); AVALOS ALURRALDE,
+                      EDMUNDO(467) MUNDO(467)
+----------------------------------------------------------------
+213   3065/08         UNICREDITO S.A. C/SANCHEZ, MARCELA S/EJECUTIVO
+                      -
+                      GONZALEZ, DIOGENES IGNACIO(4290); MARTIN, GRISELDA
+                      MARIANELA(4371) MARIANELA(4371)
+----------------------------------------------------------------
+214   14930/15        VALENZUELA, EGUIDIO C/ORTIZ, ROLANDO LUIS S/EJECUTIVO
+                      -
+                      BROGINI, TOBIAS(4343)
+----------------------------------------------------------------
+215   4780/12         VALZINO, RAUL EDGARDO C/FERNANDEZ, JORGE GASTON
+                      S/EJECUTIVO  -
+                      VALZINO, RAUL EDGARDO()
+----------------------------------------------------------------
+216   3851/16         VIAL TEC S.A. C/SUCESORES DE ADELMO BIANCALANI S/EJECUTIVO
+                      -
+                      VARAS, MAXIMINO FACUNDO (H)()
+----------------------------------------------------------------

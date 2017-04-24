@@ -2,61 +2,57 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="279e87bc-8d41-4f0c-b49a-ec08395ea360" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Cam_Civ_Sala_III_2017-04-21.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Cam_Civ_Sala_II_2017-04-21.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Cam_Civ_Sala_IV_2017-04-21.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Cam_Civ_Sala_I_2017-04-21.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Cam_Lab_Sala_II_2017-04-21.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Cam_Lab_Sala_I_2017-04-21.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Camara_Cont_Adm_Sala_1_2017-04-21.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Camara_Cont_Adm_Sala_2_2017-04-21.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzg_M-y-F_SecSoc1_2017-04-21.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzg_M-y-F_SecSoc2_2017-04-21.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzg_M-y-F_SecSoc6_2017-04-21.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzg_M-y-Familia_1_2017-04-21.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzg_M-y-Familia_2_2017-04-21.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzg_M-y-Familia_5_2017-04-21.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzg_M-y-Familia_6_2017-04-21.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Civil_10_2017-04-21.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Civil_11_2017-04-21.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Civil_12_2017-04-21.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Civil_13_2017-04-21.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Civil_14_2017-04-21.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Civil_15_2017-04-21.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Civil_16_2017-04-21.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Civil_17_2017-04-21.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Civil_18_2017-04-21.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Civil_19_2017-04-21.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Civil_1_2017-04-21.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Civil_20_2017-04-21.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Civil_21_2017-04-21.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Civil_22_2017-04-21.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Civil_23_2017-04-21.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Civil_2_2017-04-21.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Civil_3_2017-04-21.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Civil_4_2017-04-21.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Civil_5_2017-04-21.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Civil_6_2017-04-21.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Civil_7_2017-04-21.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Civil_8_2017-04-21.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Civil_9_2017-04-21.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Laboral_1_2017-04-21.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Laboral_2_2017-04-21.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Laboral_3_2017-04-21.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Laboral_4_2017-04-21.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Notarial_2017-04-21.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Paz_1_2017-04-21.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Paz_2_2017-04-21.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Paz_Barranqueras_2017-04-21.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Reg_Publico_Comercio_2017-04-21.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Sala_1_Civ-Com-Lab_2017-04-21.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Sala_2_Penal_2017-04-21.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Sec_1_ContAdm_2017-04-21.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Sec_2_ContAdm_2017-04-21.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Sec_3_AsuntConst_2017-04-21.txt" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/GNUsticia/FunctionsLibrary.class" afterPath="$PROJECT_DIR$/out/production/GNUsticia/FunctionsLibrary.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/GNUsticia/Main.class" afterPath="$PROJECT_DIR$/out/production/GNUsticia/Main.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Cam_Civ_Sala_III_2017-04-21.txt" afterPath="$PROJECT_DIR$/GNUsticia/Resistencia/Cam_Civ_Sala_III_2017-04-21.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Cam_Civ_Sala_II_2017-04-21.txt" afterPath="$PROJECT_DIR$/GNUsticia/Resistencia/Cam_Civ_Sala_II_2017-04-21.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Cam_Civ_Sala_IV_2017-04-21.txt" afterPath="$PROJECT_DIR$/GNUsticia/Resistencia/Cam_Civ_Sala_IV_2017-04-21.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Cam_Civ_Sala_I_2017-04-21.txt" afterPath="$PROJECT_DIR$/GNUsticia/Resistencia/Cam_Civ_Sala_I_2017-04-21.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Cam_Lab_Sala_II_2017-04-21.txt" afterPath="$PROJECT_DIR$/GNUsticia/Resistencia/Cam_Lab_Sala_II_2017-04-21.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Cam_Lab_Sala_I_2017-04-21.txt" afterPath="$PROJECT_DIR$/GNUsticia/Resistencia/Cam_Lab_Sala_I_2017-04-21.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Camara_Cont_Adm_Sala_1_2017-04-21.txt" afterPath="$PROJECT_DIR$/GNUsticia/Resistencia/Camara_Cont_Adm_Sala_1_2017-04-21.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Camara_Cont_Adm_Sala_2_2017-04-21.txt" afterPath="$PROJECT_DIR$/GNUsticia/Resistencia/Camara_Cont_Adm_Sala_2_2017-04-21.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzg_M-y-F_SecSoc1_2017-04-21.txt" afterPath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzg_M-y-F_SecSoc1_2017-04-21.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzg_M-y-F_SecSoc2_2017-04-21.txt" afterPath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzg_M-y-F_SecSoc2_2017-04-21.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzg_M-y-F_SecSoc6_2017-04-21.txt" afterPath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzg_M-y-F_SecSoc6_2017-04-21.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzg_M-y-Familia_1_2017-04-21.txt" afterPath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzg_M-y-Familia_1_2017-04-21.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzg_M-y-Familia_2_2017-04-21.txt" afterPath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzg_M-y-Familia_2_2017-04-21.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzg_M-y-Familia_5_2017-04-21.txt" afterPath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzg_M-y-Familia_5_2017-04-21.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzg_M-y-Familia_6_2017-04-21.txt" afterPath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzg_M-y-Familia_6_2017-04-21.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Civil_10_2017-04-21.txt" afterPath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Civil_10_2017-04-21.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Civil_11_2017-04-21.txt" afterPath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Civil_11_2017-04-21.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Civil_12_2017-04-21.txt" afterPath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Civil_12_2017-04-21.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Civil_13_2017-04-21.txt" afterPath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Civil_13_2017-04-21.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Civil_14_2017-04-21.txt" afterPath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Civil_14_2017-04-21.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Civil_15_2017-04-21.txt" afterPath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Civil_15_2017-04-21.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Civil_16_2017-04-21.txt" afterPath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Civil_16_2017-04-21.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Civil_17_2017-04-21.txt" afterPath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Civil_17_2017-04-21.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Civil_18_2017-04-21.txt" afterPath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Civil_18_2017-04-21.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Civil_19_2017-04-21.txt" afterPath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Civil_19_2017-04-21.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Civil_1_2017-04-21.txt" afterPath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Civil_1_2017-04-21.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Civil_20_2017-04-21.txt" afterPath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Civil_20_2017-04-21.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Civil_21_2017-04-21.txt" afterPath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Civil_21_2017-04-21.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Civil_22_2017-04-21.txt" afterPath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Civil_22_2017-04-21.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Civil_23_2017-04-21.txt" afterPath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Civil_23_2017-04-21.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Civil_2_2017-04-21.txt" afterPath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Civil_2_2017-04-21.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Civil_3_2017-04-21.txt" afterPath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Civil_3_2017-04-21.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Civil_4_2017-04-21.txt" afterPath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Civil_4_2017-04-21.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Civil_5_2017-04-21.txt" afterPath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Civil_5_2017-04-21.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Civil_6_2017-04-21.txt" afterPath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Civil_6_2017-04-21.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Civil_7_2017-04-21.txt" afterPath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Civil_7_2017-04-21.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Civil_8_2017-04-21.txt" afterPath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Civil_8_2017-04-21.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Civil_9_2017-04-21.txt" afterPath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Civil_9_2017-04-21.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Laboral_1_2017-04-21.txt" afterPath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Laboral_1_2017-04-21.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Laboral_2_2017-04-21.txt" afterPath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Laboral_2_2017-04-21.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Laboral_3_2017-04-21.txt" afterPath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Laboral_3_2017-04-21.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Laboral_4_2017-04-21.txt" afterPath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Laboral_4_2017-04-21.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Paz_1_2017-04-21.txt" afterPath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Paz_1_2017-04-21.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Paz_2_2017-04-21.txt" afterPath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Paz_2_2017-04-21.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Paz_Barranqueras_2017-04-21.txt" afterPath="$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Paz_Barranqueras_2017-04-21.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Sala_1_Civ-Com-Lab_2017-04-21.txt" afterPath="$PROJECT_DIR$/GNUsticia/Resistencia/Sala_1_Civ-Com-Lab_2017-04-21.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Sala_2_Penal_2017-04-21.txt" afterPath="$PROJECT_DIR$/GNUsticia/Resistencia/Sala_2_Penal_2017-04-21.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Sec_1_ContAdm_2017-04-21.txt" afterPath="$PROJECT_DIR$/GNUsticia/Resistencia/Sec_1_ContAdm_2017-04-21.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Sec_2_ContAdm_2017-04-21.txt" afterPath="$PROJECT_DIR$/GNUsticia/Resistencia/Sec_2_ContAdm_2017-04-21.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GNUsticia/Resistencia/Sec_3_AsuntConst_2017-04-21.txt" afterPath="$PROJECT_DIR$/GNUsticia/Resistencia/Sec_3_AsuntConst_2017-04-21.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/FunctionsLibrary.java" afterPath="$PROJECT_DIR$/src/FunctionsLibrary.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Main.java" afterPath="$PROJECT_DIR$/src/Main.java" />
     </list>
@@ -77,25 +73,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="393">
-              <caret line="24" column="8" lean-forward="false" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="324">
+              <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FunctionsLibrary.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FunctionsLibrary.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/FunctionsLibrary.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-845">
-              <caret line="42" column="22" lean-forward="false" selection-start-line="42" selection-start-column="22" selection-end-line="42" selection-end-column="22" />
+            <state relative-caret-position="90">
+              <caret line="5" column="32" lean-forward="false" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="method#descargarArchivo#0;class#FunctionsLibrary#0" expanded="false" />
                 <element signature="method#generarCarpetas#0;class#FunctionsLibrary#0" expanded="false" />
                 <element signature="method#fileExist#0;class#FunctionsLibrary#0" expanded="false" />
               </folding>
@@ -106,11 +100,17 @@
       <file leaf-file-name="Localidad.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Localidad.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3959">
-              <caret line="289" column="33" lean-forward="false" selection-start-line="289" selection-start-column="33" selection-end-line="289" selection-end-column="33" />
+            <state relative-caret-position="720">
+              <caret line="292" column="0" lean-forward="false" selection-start-line="292" selection-start-column="0" selection-end-line="292" selection-end-column="0" />
               <folding>
                 <element signature="docComment;class#Localidad#0" expanded="false" />
                 <element signature="method#toString#0;class#Localidad#0" expanded="false" />
+                <element signature="method#resistencia#0;class#Localidad#0" expanded="false" />
+                <element signature="method#saenzP#0;class#Localidad#0" expanded="false" />
+                <element signature="method#villaAngela#0;class#Localidad#0" expanded="false" />
+                <element signature="method#charata#0;class#Localidad#0" expanded="false" />
+                <element signature="method#sanMartin#0;class#Localidad#0" expanded="false" />
+                <element signature="method#Castelli#0;class#Localidad#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -157,8 +157,8 @@
         <option value="$PROJECT_DIR$/src/Auxiliar.java" />
         <option value="$PROJECT_DIR$/src/Localidad.java" />
         <option value="$PROJECT_DIR$/GNUsticia/Resistencia/Cam_Civ_Sala_I_2017-04-21.txt" />
-        <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/FunctionsLibrary.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
       </list>
     </option>
   </component>
@@ -186,6 +186,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -233,8 +235,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -508,13 +508,13 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4628483" sideWeight="0.50278884" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33126935" sideWeight="0.49721116" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33126935" sideWeight="0.49721116" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1816733" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18486056" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -577,19 +577,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
           <caret line="24" column="8" lean-forward="false" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -598,7 +586,52 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="method#descargarArchivo#0;class#FunctionsLibrary#0" expanded="false" />
+            <element signature="method#generarCarpetas#0;class#FunctionsLibrary#0" expanded="false" />
+            <element signature="method#fileExist#0;class#FunctionsLibrary#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Localidad.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5202">
+          <caret line="289" column="33" lean-forward="false" selection-start-line="289" selection-start-column="33" selection-end-line="289" selection-end-column="33" />
+          <folding>
+            <element signature="docComment;class#Localidad#0" expanded="false" />
+            <element signature="method#toString#0;class#Localidad#0" expanded="false" />
+            <element signature="method#resistencia#0;class#Localidad#0" expanded="false" />
+            <element signature="method#saenzP#0;class#Localidad#0" expanded="false" />
+            <element signature="method#villaAngela#0;class#Localidad#0" expanded="false" />
+            <element signature="method#charata#0;class#Localidad#0" expanded="false" />
+            <element signature="method#sanMartin#0;class#Localidad#0" expanded="false" />
+            <element signature="method#Castelli#0;class#Localidad#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="8" lean-forward="false" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FunctionsLibrary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="method#descargarArchivo#0;class#FunctionsLibrary#0" expanded="false" />
             <element signature="method#generarCarpetas#0;class#FunctionsLibrary#0" expanded="false" />
             <element signature="method#fileExist#0;class#FunctionsLibrary#0" expanded="false" />
           </folding>
@@ -609,9 +642,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -620,7 +651,7 @@
         <state relative-caret-position="2196">
           <caret line="122" column="66" lean-forward="false" selection-start-line="122" selection-start-column="66" selection-end-line="122" selection-end-column="66" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="method#descargarArchivo#0;class#FunctionsLibrary#0" expanded="false" />
             <element signature="method#generarCarpetas#0;class#FunctionsLibrary#0" expanded="false" />
             <element signature="method#fileExist#0;class#FunctionsLibrary#0" expanded="false" />
           </folding>
@@ -631,9 +662,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -642,7 +671,7 @@
         <state relative-caret-position="900">
           <caret line="50" column="49" lean-forward="false" selection-start-line="50" selection-start-column="49" selection-end-line="50" selection-end-column="49" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="method#descargarArchivo#0;class#FunctionsLibrary#0" expanded="false" />
             <element signature="method#generarCarpetas#0;class#FunctionsLibrary#0" expanded="false" />
             <element signature="method#fileExist#0;class#FunctionsLibrary#0" expanded="false" />
           </folding>
@@ -653,9 +682,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -664,7 +691,7 @@
         <state relative-caret-position="216">
           <caret line="42" column="5" lean-forward="false" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="method#descargarArchivo#0;class#FunctionsLibrary#0" expanded="false" />
             <element signature="method#generarCarpetas#0;class#FunctionsLibrary#0" expanded="false" />
             <element signature="method#fileExist#0;class#FunctionsLibrary#0" expanded="false" />
           </folding>
@@ -678,6 +705,12 @@
           <folding>
             <element signature="docComment;class#Localidad#0" expanded="false" />
             <element signature="method#toString#0;class#Localidad#0" expanded="false" />
+            <element signature="method#resistencia#0;class#Localidad#0" expanded="false" />
+            <element signature="method#saenzP#0;class#Localidad#0" expanded="false" />
+            <element signature="method#villaAngela#0;class#Localidad#0" expanded="false" />
+            <element signature="method#charata#0;class#Localidad#0" expanded="false" />
+            <element signature="method#sanMartin#0;class#Localidad#0" expanded="false" />
+            <element signature="method#Castelli#0;class#Localidad#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -686,9 +719,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -697,7 +728,7 @@
         <state relative-caret-position="4215">
           <caret line="314" column="0" lean-forward="false" selection-start-line="314" selection-start-column="0" selection-end-line="314" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="method#descargarArchivo#0;class#FunctionsLibrary#0" expanded="false" />
             <element signature="method#generarCarpetas#0;class#FunctionsLibrary#0" expanded="false" />
             <element signature="method#fileExist#0;class#FunctionsLibrary#0" expanded="false" />
           </folding>
@@ -743,30 +774,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Auxiliar.java" />
-    <entry file="file://$PROJECT_DIR$/GNUsticia/Resistencia/algo.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Localidad.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3959">
-          <caret line="289" column="33" lean-forward="false" selection-start-line="289" selection-start-column="33" selection-end-line="289" selection-end-column="33" />
-          <folding>
-            <element signature="docComment;class#Localidad#0" expanded="false" />
-            <element signature="method#toString#0;class#Localidad#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/GNUsticia/Resistencia/algo.txt" />
     <entry file="file://$PROJECT_DIR$/GNUsticia/Resistencia/Cam_Civ_Sala_III_2017-04-21.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -774,7 +786,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -782,7 +793,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -790,7 +800,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -798,7 +807,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -806,7 +814,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -814,7 +821,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -822,7 +828,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -830,7 +835,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -838,7 +842,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -846,7 +849,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -854,7 +856,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -862,7 +863,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -870,7 +870,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -878,7 +877,35 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Localidad.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="292" column="0" lean-forward="false" selection-start-line="292" selection-start-column="0" selection-end-line="292" selection-end-column="0" />
+          <folding>
+            <element signature="docComment;class#Localidad#0" expanded="false" />
+            <element signature="method#toString#0;class#Localidad#0" expanded="false" />
+            <element signature="method#resistencia#0;class#Localidad#0" expanded="false" />
+            <element signature="method#saenzP#0;class#Localidad#0" expanded="false" />
+            <element signature="method#villaAngela#0;class#Localidad#0" expanded="false" />
+            <element signature="method#charata#0;class#Localidad#0" expanded="false" />
+            <element signature="method#sanMartin#0;class#Localidad#0" expanded="false" />
+            <element signature="method#Castelli#0;class#Localidad#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FunctionsLibrary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="32" lean-forward="false" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+          <folding>
+            <element signature="method#descargarArchivo#0;class#FunctionsLibrary#0" expanded="false" />
+            <element signature="method#generarCarpetas#0;class#FunctionsLibrary#0" expanded="false" />
+            <element signature="method#fileExist#0;class#FunctionsLibrary#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -892,23 +919,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
-          <caret line="24" column="8" lean-forward="false" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/FunctionsLibrary.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-845">
-          <caret line="42" column="22" lean-forward="false" selection-start-line="42" selection-start-column="22" selection-end-line="42" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#generarCarpetas#0;class#FunctionsLibrary#0" expanded="false" />
-            <element signature="method#fileExist#0;class#FunctionsLibrary#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="324">
+          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>

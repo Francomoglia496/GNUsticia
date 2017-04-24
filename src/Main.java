@@ -1,10 +1,3 @@
-import org.apache.commons.net.ftp.FTPClient;
-import org.apache.commons.net.ftp.FTPFile;
-
-import java.io.File;
-import java.io.IOException;
-import java.util.ArrayList;
-
 /**
  * Created by franco on 18/04/17.
  */
@@ -17,24 +10,9 @@ public class Main {
         Localidad villaAngela = Localidad.villaAngela();
         Localidad charata = Localidad.charata();*/
 
-
-        /*String sistema = System.getProperty("os.name");
-        System.out.println(sistema);*/
-
-        //FunctionsLibrary.generarCarpetas();
+        FunctionsLibrary.generarCarpetas();
         FunctionsLibrary.descargarArchivo(resistencia);
 
-
-
-        /*for (String a : resistencia.getNombresCaratulas()){
-
-            String aux = a + "2017-04-21.txt";
-
-            File arch = new File("./GNUsticia/" + resistencia.getName() + "/" + aux);
-
-            System.out.println(arch.exists());
-
-        }*/
 
     }
 

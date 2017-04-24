@@ -1,0 +1,706 @@
+               JUZGADO CIVIL Y COMERCIAL N  18 - Fecha Despacho: 21/04/2017
+ 
+---------------------------------------------------------------------------------
+Orden  Expediente             Caratula
+---------------------------------------------------------------------------------
+1     1369/15         DIRECCION DE VIALIDAD PROVINCIAL C/CARINI FIGGINI, DANIEL
+                      ALBERTO Y UNION AGRICOLA DE AVELLANEDA COOP.LTDA. 
+                      S/EJECUCION FISCAL  -
+                      LECLERC, GRACIELA MABEL()
+----------------------------------------------------------------
+2     12245/16        DIRECCION DE VIALIDAD PROVINCIAL C/MONTENEGRO, ALEJANDRO
+                      ANTONIO Y OTROS S/EJECUCION FISCAL  -
+                      ALMIRON, GUILLERMO NICOLAS(5227)
+----------------------------------------------------------------
+3     4652/15         DIRECCION DE VIALIDAD PROVINCIAL C/PARE, IRINEO FIDEL
+                      MARIO; LA LEONESA S.R.L. Y TRADICIONAL GANADERA S.A. 
+                      S/EJECUCION FISCAL  -
+                      ALMIRON, GUILLERMO NICOLAS(5227)
+----------------------------------------------------------------
+4     1434/17         MENDOZA, RODRIGO MARIANO C/MUNICIPALIDAD DE RESISTENCIA
+                      S/EJECUCION DE HONORARIOS  -
+                      MENDOZA, RODRIGO MARIANO()
+----------------------------------------------------------------
+5     9394/11         MUNICIPIO DE LAPACHITO C/ROMERO, LIDIA ELSA S/EJECUCION
+                      FISCAL  -
+                      MORO, RICARDO RUBI()
+----------------------------------------------------------------
+6     87/15           MUNICIPIO DE RESISTENCIA C/ALCARAZ SOTO, GASTON D.
+                      S/EJECUCION FISCAL  -
+                      BROGINI, TOBIAS()
+----------------------------------------------------------------
+7     11592/13        MUNICIPIO DE RESISTENCIA C/ARMENTANO, ROSA VICENTA
+                      S/EJECUCION FISCAL  -
+                      CORIA, ELSA NIEVE()
+----------------------------------------------------------------
+8     592/12          MUNICIPIO DE RESISTENCIA C/BARBETTI, AVELINO ANTONIO
+                      S/EJECUCION FISCAL  -
+                      BROGINI, TOBIAS()
+----------------------------------------------------------------
+9     629/12          MUNICIPIO DE RESISTENCIA C/BARBETTI, AVELINO ANTONIO Y
+                      CASAFUS, PAMELA ALICIA S/EJECUCION FISCAL  -
+                      BROGINI, TOBIAS()
+----------------------------------------------------------------
+10    10714/16        MUNICIPIO DE RESISTENCIA C/DALMASO, ELENA GUADALUPE
+                      S/EJECUCION FISCAL  -
+                      GUITART, PATRICIA ELENA()
+----------------------------------------------------------------
+11    17944/10        MUNICIPIO DE RESISTENCIA C/ESPINDOLA, SINDOLFO; MIEREZ,
+                      OSVALDO DEL ROSARIO Y VARGAS, MIGUELINA S/EJECUCION 
+                      FISCAL  -
+                      NICOLOFF, SILVIO ABEL()
+----------------------------------------------------------------
+12    9115/16         MUNICIPIO DE RESISTENCIA C/ESPORA, MANUEL S/EJECUCION
+                      FISCAL  -
+                      GUITART, PATRICIA ELENA()
+----------------------------------------------------------------
+13    17822/10        MUNICIPIO DE RESISTENCIA C/FARIAS, HECTOR ALBERTO;
+                      GONZALEZ, RAMONA MARIA ITATI Y COMPAÐIA GENERAL FABRIL 
+                      FINANCIERA S/EJECUCION FISCAL  -
+                      OLIVAR, PATRICIA ROXANA(5702)
+----------------------------------------------------------------
+14    12601/12        MUNICIPIO DE RESISTENCIA C/FLORES, ABEL SEBASTIAN
+                      S/EJECUCION FISCAL  -
+                      BROGINI, TOBIAS()
+----------------------------------------------------------------
+15    709/11          MUNICIPIO DE RESISTENCIA C/GIRON, JUAN CARLOS S/EJECUCION
+                      FISCAL  -
+                      OLASCUAGA NALERIO, MARTIN APARICIO()
+----------------------------------------------------------------
+16    13500/14        MUNICIPIO DE RESISTENCIA C/HERRAEZ, CHRISTIAN ARIEL
+                      S/EJECUCION FISCAL  -
+                      MEIRIÐO, VERONICA CECILIA()
+----------------------------------------------------------------
+17    9205/15         MUNICIPIO DE RESISTENCIA C/I.P.D.U.V. S/EJECUCION FISCAL
+                      -
+                      GARRIGA, CLAUDIA LILIANA()
+----------------------------------------------------------------
+18    15535/15        MUNICIPIO DE RESISTENCIA C/INST. PROV. DES. URB. Y VIV.
+                      S/EJECUCION FISCAL  -
+                      GUITART, PATRICIA ELENA()
+----------------------------------------------------------------
+19    15986/15        MUNICIPIO DE RESISTENCIA C/INST. PROV. DES. URB. Y VIV.
+                      S/EJECUCION FISCAL  -
+                      ACEVEDO, NATALIA GABRIELA()
+----------------------------------------------------------------
+20    1191/16         MUNICIPIO DE RESISTENCIA C/INST.PROV.DES.URB.Y VIV.
+                      S/EJECUCION FISCAL  -
+                      ACEVEDO, NATALIA GABRIELA()
+----------------------------------------------------------------
+21    16700/15        MUNICIPIO DE RESISTENCIA C/INST.PROV.DES.URB.Y VIV.
+                      S/EJECUCION FISCAL  -
+                      GUITART, PATRICIA ELENA()
+----------------------------------------------------------------
+22    16832/15        MUNICIPIO DE RESISTENCIA C/INST.PROV.DES.URB.Y VIV.
+                      S/EJECUCION FISCAL  -
+                      GUITART, PATRICIA ELENA()
+----------------------------------------------------------------
+23    17554/15        MUNICIPIO DE RESISTENCIA C/INST.PROV.DES.URB.Y VIV.
+                      S/EJECUCION FISCAL  -
+                      GUITART, PATRICIA ELENA()
+----------------------------------------------------------------
+24    17817/15        MUNICIPIO DE RESISTENCIA C/INST.PROV.DES.URB.Y VIV.
+                      S/EJECUCION FISCAL  -
+                      GUITART, PATRICIA ELENA()
+----------------------------------------------------------------
+25    17852/15        MUNICIPIO DE RESISTENCIA C/INST.PROV.DES.URB.Y VIV.
+                      S/EJECUCION FISCAL  -
+                      GUITART, PATRICIA ELENA()
+----------------------------------------------------------------
+26    17871/15        MUNICIPIO DE RESISTENCIA C/INST.PROV.DES.URB.Y VIV.
+                      S/EJECUCION FISCAL  -
+                      GUITART, PATRICIA ELENA()
+----------------------------------------------------------------
+27    17880/15        MUNICIPIO DE RESISTENCIA C/INST.PROV.DES.URB.Y VIV.
+                      S/EJECUCION FISCAL  -
+                      GUITART, PATRICIA ELENA()
+----------------------------------------------------------------
+28    17884/15        MUNICIPIO DE RESISTENCIA C/INST.PROV.DES.URB.Y VIV.
+                      S/EJECUCION FISCAL  -
+                      GUITART, PATRICIA ELENA()
+----------------------------------------------------------------
+29    3793/16         MUNICIPIO DE RESISTENCIA C/INST.PROV.DES.URB.Y VIV.
+                      S/EJECUCION FISCAL  -
+                      MEIRIÐO, CAROLINA BEATRIZ()
+----------------------------------------------------------------
+30    4611/16         MUNICIPIO DE RESISTENCIA C/INST.PROV.DES.URB.Y VIV.
+                      S/EJECUCION FISCAL  -
+                      GUITART, PATRICIA ELENA()
+----------------------------------------------------------------
+31    4613/16         MUNICIPIO DE RESISTENCIA C/INST.PROV.DES.URB.Y VIV.
+                      S/EJECUCION FISCAL  -
+                      ACEVEDO, NATALIA GABRIELA()
+----------------------------------------------------------------
+32    6294/16         MUNICIPIO DE RESISTENCIA C/INST.PROV.DES.URB.Y VIV.
+                      S/EJECUCION FISCAL  -
+                      ACEVEDO, NATALIA GABRIELA()
+----------------------------------------------------------------
+33    7263/16         MUNICIPIO DE RESISTENCIA C/INST.PROV.DES.URB.Y VIV.
+                      S/EJECUCION FISCAL  -
+                      DELOVO, ANGEL MARCELO()
+----------------------------------------------------------------
+34    9050/16         MUNICIPIO DE RESISTENCIA C/INST.PROV.DES.URB.Y VIV.
+                      S/EJECUCION FISCAL  -
+                      GUITART, PATRICIA ELENA()
+----------------------------------------------------------------
+35    9090/16         MUNICIPIO DE RESISTENCIA C/INST.PROV.DES.URB.Y VIV.
+                      S/EJECUCION FISCAL  -
+                      GUITART, PATRICIA ELENA()
+----------------------------------------------------------------
+36    17979/15        MUNICIPIO DE RESISTENCIA C/INSTITUTO DE COLONIZACION
+                      S/EJECUCION FISCAL  -
+                      GUITART, PATRICIA ELENA()
+----------------------------------------------------------------
+37    1064/14         MUNICIPIO DE RESISTENCIA C/INSTITUTO PROVINCIAL DE
+                      DESARROLLO URBANO Y VIVIENDA (I.P.D.U.V.) S/EJECUCION 
+                      FISCAL  -
+                      BROGINI, TOBIAS()
+----------------------------------------------------------------
+38    9204/15         MUNICIPIO DE RESISTENCIA C/INSTITUTO PROVINCIAL DE
+                      DESARROLLO URBANO Y VIVIENDA (I.P.D.U.V.) S/EJECUCION 
+                      FISCAL  -
+                      CERRUDO MARTIN, MARIA FERNANDA()
+----------------------------------------------------------------
+39    11725/16        MUNICIPIO DE RESISTENCIA C/INSTITUTO PROVINCIAL DESARROLLO
+                      URBANO Y VIVIENDA S/EJECUCION FISCAL  -
+                      ACEVEDO, NATALIA GABRIELA()
+----------------------------------------------------------------
+40    7226/16         MUNICIPIO DE RESISTENCIA C/JARA, ANTONIO BASILIO
+                      S/EJECUCION FISCAL  -
+                      GUITART, PATRICIA ELENA()
+----------------------------------------------------------------
+41    2085/14         MUNICIPIO DE RESISTENCIA C/LEON, GRACIELA S/EJECUCION
+                      FISCAL  -
+                      AGUZIN, HORACIO PABLO()
+----------------------------------------------------------------
+42    5386/16         MUNICIPIO DE RESISTENCIA C/MINISTERIO DE DESARROLLO URBANO
+                      Y TERRIT S/EJECUCION FISCAL  -
+                      DELOVO, ANGEL MARCELO()
+----------------------------------------------------------------
+43    1214/16         MUNICIPIO DE RESISTENCIA C/MINISTERIO DE SALUD PUBLI
+                      S/EJECUCION FISCAL  -
+                      GUITART, PATRICIA ELENA()
+----------------------------------------------------------------
+44    13543/14        MUNICIPIO DE RESISTENCIA C/MOCOBI HOGAR S.A. S/EJECUCION
+                      FISCAL  -
+                      GUITART, PATRICIA ELENA(); MEIRIÐO, CAROLINA
+                      BEATRIZ(); NUÐEZ, SOLEDAD()
+----------------------------------------------------------------
+45    1491/15         MUNICIPIO DE RESISTENCIA C/MORALES, RICARDO DANIEL
+                      S/EJECUCION FISCAL  -
+                      BROGINI, TOBIAS()
+----------------------------------------------------------------
+46    406/15          MUNICIPIO DE RESISTENCIA C/NICOLI, CARLOS ALBERTO
+                      S/EJECUCION FISCAL  -
+                      ACEVEDO, NATALIA GABRIELA()
+----------------------------------------------------------------
+47    14268/16        MUNICIPIO DE RESISTENCIA C/RIOS, GASTON G. S/EJECUCION
+                      FISCAL  -
+                      GUITART, PATRICIA ELENA()
+----------------------------------------------------------------
+48    13649/14        MUNICIPIO DE RESISTENCIA C/SOLER, GRACIELA CARMEN
+                      S/EJECUCION FISCAL  -
+                      SASOWSKI, ALEJANDRO FEDERICO()
+----------------------------------------------------------------
+49    1837/12         MUNICIPIO DE RESISTENCIA C/SOTELO, IRMA LIDIA Y FLEYTA,
+                      MIGUEL ANGEL S/EJECUCION FISCAL  -
+                      ZEINSTEGER, PABLO JAVIER()
+----------------------------------------------------------------
+50    17065/10        MUNICIPIO DE RESISTENCIA C/SOTO, ROBERTO DANIEL
+                      S/EJECUCION FISCAL  -
+                      ZEINSTEGER, PABLO JAVIER(); MENDOZA, RODRIGO
+                      MARIANO() O()
+----------------------------------------------------------------
+51    16814/15        MUNICIPIO DE RESISTENCIA C/SUP. GOB. DE LA PROVINCIA
+                      S/EJECUCION FISCAL  -
+                      GUITART, PATRICIA ELENA()
+----------------------------------------------------------------
+52    9125/16         MUNICIPIO DE RESISTENCIA C/SUP. GOB. DE LA PROVINCIA
+                      S/EJECUCION FISCAL  -
+                      GUITART, PATRICIA ELENA()
+----------------------------------------------------------------
+53    17768/15        MUNICIPIO DE RESISTENCIA C/SUP.GOB. DE LA PROVINCIA
+                      S/EJECUCION FISCAL  -
+                      GUITART, PATRICIA ELENA()
+----------------------------------------------------------------
+54    14100/16        PODER JUDICIAL DE LA PROVINCIA DEL CHACO
+                      C/COOP.AGROPECUARIA R.SAENZ PEÐA LTDA. S/EJECUCION FISCAL  -
+                      RUNDIO, ALICIA ESTHER(5235)
+----------------------------------------------------------------
+55    12457/15        PODER JUDICIAL DE LA PROVINCIA DEL CHACO C/PISARELLO,
+                      REYNALDO ELISEO S/EJECUCION FISCAL  -
+                      RUNDIO, ALICIA ESTHER(5235)
+----------------------------------------------------------------
+56    1797/16         PROVINCIA DEL CHACO C/ACOSTA TOLEDO, ORLANDO ADRIAN
+                      S/EJECUCION FISCAL  -
+                      COTTERLI, GUIDO()
+----------------------------------------------------------------
+57    10543/14        PROVINCIA DEL CHACO C/AGROMARKET S.R.L. S/EJECUCION FISCAL
+                      -
+                      ZORRILLA, LAURA HAYDEE()
+----------------------------------------------------------------
+58    4808/15         PROVINCIA DEL CHACO C/ALFIN SOCIEDAD EN COMANDITA POR
+                      ACCIONES S/EJECUCION FISCAL  -
+                      SERRANO, CRISTINA()
+----------------------------------------------------------------
+59    14330/16        PROVINCIA DEL CHACO C/AMOROSO, FERNANDO ARIEL S/EJECUCION
+                      FISCAL  -
+                      KURAY, MATIAS DANIEL()
+----------------------------------------------------------------
+60    8633/16         PROVINCIA DEL CHACO C/ARCORE S.A. S/EJECUCION FISCAL
+                      -
+                      ZORRILLA, LAURA HAYDEE()
+----------------------------------------------------------------
+61    5057/16         PROVINCIA DEL CHACO C/ARECO, ALEXIS ABEL S/EJECUCION
+                      FISCAL  -
+                      MOZZATI, MARIA OFELIA()
+----------------------------------------------------------------
+62    5892/11         PROVINCIA DEL CHACO C/AYALA, HUGO JOSE S/EJECUCION FISCAL
+                      -
+                      SERRANO, CRISTINA()
+----------------------------------------------------------------
+63    15430/16        PROVINCIA DEL CHACO C/AYALA, RUBEN OSCAR S/EJECUCION
+                      FISCAL  -
+                      ROMERO, MARIA DEL CARMEN()
+----------------------------------------------------------------
+64    15255/16        PROVINCIA DEL CHACO C/BARRIOS, SILVANA VALERIA S/EJECUCION
+                      FISCAL  -
+                      UMANSKY, NICOLAS IVAN()
+----------------------------------------------------------------
+65    11222/16        PROVINCIA DEL CHACO C/BERCLEAN S.A. S/EJECUCION FISCAL
+                      -
+                      ZORRILLA, LAURA HAYDEE()
+----------------------------------------------------------------
+66    10000/16        PROVINCIA DEL CHACO C/BERNAD, JOSE ANTONIO S/EJECUCION
+                      FISCAL  -
+                      ALONSO, CLAUDIA CECILIA()
+----------------------------------------------------------------
+67    16078/16        PROVINCIA DEL CHACO C/BETELLO, NORBERTO OSCAR S/EJECUCION
+                      FISCAL  -
+                      BENTOLILA, DANIEL FERNANDO()
+----------------------------------------------------------------
+68    4564/15         PROVINCIA DEL CHACO C/BUYATTI, HILDA ANDREA S/EJECUCION
+                      FISCAL  -
+                      ZORRILLA, LAURA HAYDEE()
+----------------------------------------------------------------
+69    2862/15         PROVINCIA DEL CHACO C/CABALLERO, JOSE LUIS S/EJECUCION
+                      FISCAL  -
+                      LEDESMA, LUIS ENRIQUE()
+----------------------------------------------------------------
+70    2561/15         PROVINCIA DEL CHACO C/CARDOZO, DANIEL HORACIO S/EJECUCION
+                      FISCAL  -
+                      GUZZI, JOHANNA JESSIE()
+----------------------------------------------------------------
+71    11060/12        PROVINCIA DEL CHACO C/CARRIZO, RICARDO ATILIO S/EJECUCION
+                      FISCAL  -
+                      GUZZI, JOHANNA JESSIE(); BENITEZ, SABINO(5285)
+----------------------------------------------------------------
+72    2345/15         PROVINCIA DEL CHACO C/COMPAGNIA PIEMONTORO S.A.
+                      S/EJECUCION FISCAL  -
+                      RODRIGUEZ, RUBEN ARIEL()
+----------------------------------------------------------------
+73    13670/15        PROVINCIA DEL CHACO C/CONSTRUCONECTION S.A. S/EJECUCION
+                      FISCAL  -
+                      SANTANGELO, MARIA DE LAS MERCEDES()
+----------------------------------------------------------------
+74    4813/12         PROVINCIA DEL CHACO C/COOPERATIVA AGROPECUARIA DE CHARATA
+                      LTDA S/EJECUCION FISCAL  -
+                      SERRANO, CRISTINA()
+----------------------------------------------------------------
+75    7405/15         PROVINCIA DEL CHACO C/CORRIENTES AURORA GROUP S.A.
+                      S/EJECUCION FISCAL  -
+                      GUZZI, JOHANNA JESSIE()
+----------------------------------------------------------------
+76    13129/15        PROVINCIA DEL CHACO C/CREACIONES FM S.R.L. S/EJECUCION
+                      FISCAL  -
+                      SERRANO, CRISTINA()
+----------------------------------------------------------------
+77    5924/16         PROVINCIA DEL CHACO C/DAVIES, MYRYAM YAQUELINE S/EJECUCION
+                      FISCAL  -
+                      ZORRILLA, LAURA HAYDEE()
+----------------------------------------------------------------
+78    10355/16        PROVINCIA DEL CHACO C/DAVIS, RICARDO SEBASTIAN S/EJECUCION
+                      FISCAL  -
+                      PETRI, FERNANDO YAMIL()
+----------------------------------------------------------------
+79    10356/16        PROVINCIA DEL CHACO C/DAVIS, RICARDO SEBASTIAN S/EJECUCION
+                      FISCAL  -
+                      PETRI, FERNANDO YAMIL()
+----------------------------------------------------------------
+80    14392/15        PROVINCIA DEL CHACO C/DELLAMEA, ALEJANDRO JAVIER
+                      S/EJECUCION FISCAL  -
+                      SANTANGELO, MARIA DE LAS MERCEDES()
+----------------------------------------------------------------
+81    3566/11         PROVINCIA DEL CHACO C/DISTRIBUIDORA 3M DE VIRGONA HNOS.
+                      S.H. S/EJECUCION FISCAL  -
+                      SERRANO, CRISTINA()
+----------------------------------------------------------------
+82    9509/16         PROVINCIA DEL CHACO C/DISTRIBUIDORA MAI FAC S.R.L.
+                      S/EJECUCION FISCAL  -
+                      RODRIGUEZ, RUBEN ARIEL()
+----------------------------------------------------------------
+83    1796/14         PROVINCIA DEL CHACO C/DOBLE CH S.A.C.I.I.A.F. S/EJECUCION
+                      FISCAL  -
+                      SANTANGELO, MARIA DE LAS MERCEDES()
+----------------------------------------------------------------
+84    11719/14        PROVINCIA DEL CHACO C/DOMINGUEZ, MAURICIO S/EJECUCION
+                      FISCAL  -
+                      RODRIGUEZ, RUBEN ARIEL()
+----------------------------------------------------------------
+85    11561/16        PROVINCIA DEL CHACO C/DONAIRE, NANCY BEATRIZ S/EJECUCION
+                      FISCAL  -
+                      ZORRILLA, LAURA HAYDEE()
+----------------------------------------------------------------
+86    9429/15         PROVINCIA DEL CHACO C/DUDIK, PABLO S/EJECUCION FISCAL
+                      -
+                      ZORRILLA, LAURA HAYDEE()
+----------------------------------------------------------------
+87    8796/15         PROVINCIA DEL CHACO C/EL ESTRIBO S.R.L. S/EJECUCION FISCAL
+                      -
+                      ZORRILLA, LAURA HAYDEE()
+----------------------------------------------------------------
+88    9873/16         PROVINCIA DEL CHACO C/ERCEG VERA, ANTONIO GABRIEL
+                      S/EJECUCION FISCAL  -
+                      ALONSO, CLAUDIA CECILIA()
+----------------------------------------------------------------
+89    15312/16        PROVINCIA DEL CHACO C/FERNANDEZ, MARCELO ANTONIO
+                      S/EJECUCION FISCAL  -
+                      ROMERO, MARIA DEL CARMEN()
+----------------------------------------------------------------
+90    12858/14        PROVINCIA DEL CHACO C/FERNANDEZ, SENON S/EJECUCION FISCAL
+                      -
+                      ZORRILLA, LAURA HAYDEE()
+----------------------------------------------------------------
+91    2485/15         PROVINCIA DEL CHACO C/FERNANDEZ, SERGIO DANTE S/EJECUCION
+                      FISCAL  -
+                      SANTANGELO, MARIA DE LAS MERCEDES()
+----------------------------------------------------------------
+92    6565/16         PROVINCIA DEL CHACO C/FERRUCCI, RODOLFO RAUL S/EJECUCION
+                      FISCAL  -
+                      SANTANGELO, MARIA DE LAS MERCEDES()
+----------------------------------------------------------------
+93    15444/16        PROVINCIA DEL CHACO C/FIGUEROA, RAMIRO S/EJECUCION FISCAL
+                      -
+                      BENTOLILA, DANIEL FERNANDO()
+----------------------------------------------------------------
+94    1557/15         PROVINCIA DEL CHACO C/FLORES, GERMAN MAXIMILIANO
+                      S/EJECUCION FISCAL  -
+                      GONZALEZ, PABLO SEBASTIAN()
+----------------------------------------------------------------
+95    5882/11         PROVINCIA DEL CHACO C/FOSCHIATTI, MANUELA AGUSTINA
+                      S/EJECUCION FISCAL  -
+                      SERRANO, CRISTINA()
+----------------------------------------------------------------
+96    6143/16         PROVINCIA DEL CHACO C/FRANQUEIRO, SANDRA CAROLINA
+                      S/EJECUCION FISCAL  -
+                      RODRIGUEZ, RUBEN ARIEL()
+----------------------------------------------------------------
+97    8891/14         PROVINCIA DEL CHACO C/FRONTERA BUS S.R.L. S/EJECUCION
+                      FISCAL  -
+                      SERRANO, CRISTINA()
+----------------------------------------------------------------
+98    8426/15         PROVINCIA DEL CHACO C/FUNES, CRISTIAN S/EJECUCION FISCAL
+                      -
+                      MILDENBERGER, ROSANA()
+----------------------------------------------------------------
+99    9240/15         PROVINCIA DEL CHACO C/FUNES, JOSE AUGUSTO S/EJECUCION
+                      FISCAL  -
+                      LEDESMA, LUIS ENRIQUE()
+----------------------------------------------------------------
+100   5305/15         PROVINCIA DEL CHACO C/GALARZA, CLAUDIO GABRIEL ANGEL
+                      S/EJECUCION FISCAL  -
+                      AGUIRRE, ISRAEL ANGEL ARIEL()
+----------------------------------------------------------------
+101   2746/15         PROVINCIA DEL CHACO C/GALARZA, VALENTIN RITO S/EJECUCION
+                      FISCAL  -
+                      MILDENBERGER, ROSANA()
+----------------------------------------------------------------
+102   15424/16        PROVINCIA DEL CHACO C/GALLARDO, CARLOS ADRIAN S/EJECUCION
+                      FISCAL  -
+                      ROMERO, MARIA DEL CARMEN()
+----------------------------------------------------------------
+103   14884/16        PROVINCIA DEL CHACO C/GANDOLA, SEBASTIAN RAMON S/EJECUCION
+                      FISCAL  -
+                      ROMERO, MARIA DEL CARMEN()
+----------------------------------------------------------------
+104   7903/16         PROVINCIA DEL CHACO C/GARCIA EBERHARDT, FRANCO MARTIN
+                      S/EJECUCION FISCAL  -
+                      RODRIGUEZ, RUBEN ARIEL()
+----------------------------------------------------------------
+105   7675/15         PROVINCIA DEL CHACO C/GARCIA, ALBERTO JULIO S/EJECUCION
+                      FISCAL  -
+                      LEDESMA, LUIS ENRIQUE()
+----------------------------------------------------------------
+106   15625/15        PROVINCIA DEL CHACO C/GARRAFA, JORGE EDUARDO S/EJECUCION
+                      FISCAL  -
+                      SANTANGELO, MARIA DE LAS MERCEDES()
+----------------------------------------------------------------
+107   11524/12        PROVINCIA DEL CHACO C/GLIBOTA DE MORAND, FLORA CATALINA
+                      S/EJECUCION FISCAL  -
+                      SANTANGELO, MARIA DE LAS MERCEDES()
+----------------------------------------------------------------
+108   3709/16         PROVINCIA DEL CHACO C/GOMEZ, RUBEN DARIO S/EJECUCION
+                      FISCAL  -
+                      RODRIGUEZ, RUBEN ARIEL()
+----------------------------------------------------------------
+109   338/14          PROVINCIA DEL CHACO C/JACOB, VICENTE DANIEL S/EJECUCION
+                      FISCAL  -
+                      GONZALEZ, PABLO SEBASTIAN()
+----------------------------------------------------------------
+110   982/16          PROVINCIA DEL CHACO C/LAFUENTE, JORGE MANUEL S/EJECUCION
+                      FISCAL  -
+                      ALONSO, CLAUDIA CECILIA()
+----------------------------------------------------------------
+111   8683/15         PROVINCIA DEL CHACO C/LEDESMA, RODRIGO SEBASTIAN
+                      S/EJECUCION FISCAL  -
+                      SANTANGELO, MARIA DE LAS MERCEDES()
+----------------------------------------------------------------
+112   5288/15         PROVINCIA DEL CHACO C/LEGUIZA, GUSTAVO OSCAR S/EJECUCION
+                      FISCAL  -
+                      AGUIRRE, ISRAEL ANGEL ARIEL()
+----------------------------------------------------------------
+113   5445/16         PROVINCIA DEL CHACO C/LEGUIZAMON, ESTHER S/EJECUCION
+                      FISCAL  -
+                      SANTANGELO, MARIA DE LAS MERCEDES()
+----------------------------------------------------------------
+114   12377/12        PROVINCIA DEL CHACO C/LEIVA, ORLANDO RICARDO S/EJECUCION
+                      FISCAL  -
+                      ROMERO, MARIA DEL CARMEN()
+----------------------------------------------------------------
+115   7889/16         PROVINCIA DEL CHACO C/LENA, CRISTIAN EDGARDO S/EJECUCION
+                      FISCAL  -
+                      RODRIGUEZ, RUBEN ARIEL()
+----------------------------------------------------------------
+116   12473/12        PROVINCIA DEL CHACO C/LIECHTI, CARLOS GUILLERMO
+                      S/EJECUCION FISCAL  -
+                      RUESJAS VILLADA, MARIA JUDITH()
+----------------------------------------------------------------
+117   12505/12        PROVINCIA DEL CHACO C/LOPEZ OJEDA, MATIAS ALEJANDRO
+                      S/EJECUCION FISCAL  -
+                      RODRIGUEZ, LAURA MABEL()
+----------------------------------------------------------------
+118   10220/12        PROVINCIA DEL CHACO C/LOPEZ, MANUEL ALEJANDRO S/EJECUCION
+                      FISCAL  -
+                      SUDAR KLAPPENBACH, MARGARITA V.()
+----------------------------------------------------------------
+119   10426/12        PROVINCIA DEL CHACO C/LOPEZ, MANUEL ALEJANDRO S/EJECUCION
+                      FISCAL  -
+                      TOURN, MIGUEL ALBERTO()
+----------------------------------------------------------------
+120   11761/12        PROVINCIA DEL CHACO C/LUGO, AMADO S/EJECUCION FISCAL
+                      -
+                      BALBIS, LAURA ALICIA()
+----------------------------------------------------------------
+121   7861/14         PROVINCIA DEL CHACO C/LUGO, AMADO S/EJECUCION FISCAL
+                      -
+                      BALBIS, LAURA ALICIA()
+----------------------------------------------------------------
+122   12471/12        PROVINCIA DEL CHACO C/MACULIA, ORLANDO RAUL S/EJECUCION
+                      FISCAL  -
+                      RODRIGUEZ, LAURA MABEL()
+----------------------------------------------------------------
+123   5605/16         PROVINCIA DEL CHACO C/MANSO, JOSE S/EJECUCION FISCAL
+                      -
+                      ALONSO, CLAUDIA CECILIA()
+----------------------------------------------------------------
+124   6258/16         PROVINCIA DEL CHACO C/MAÐANES, ADOLFO ROLANDO S/EJECUCION
+                      FISCAL  -
+                      ZORRILLA, LAURA HAYDEE()
+----------------------------------------------------------------
+125   5378/14         PROVINCIA DEL CHACO C/MARTINA, MARIA PAULA S/EJECUCION
+                      FISCAL  -
+                      PETRI, FERNANDO YAMIL()
+----------------------------------------------------------------
+126   13312/16        PROVINCIA DEL CHACO C/MARTINEZ CORTEZ, FRANCO HERNAN
+                      S/EJECUCION FISCAL  -
+                      MOZZATI, MARIA OFELIA()
+----------------------------------------------------------------
+127   1323/15         PROVINCIA DEL CHACO C/MARTINEZ, GERARDO ARIEL S/EJECUCION
+                      FISCAL  -
+                      MILDENBERGER, ROSANA()
+----------------------------------------------------------------
+128   11715/14        PROVINCIA DEL CHACO C/MEDINA, KARINA EDIT S/EJECUCION
+                      FISCAL  -
+                      RODRIGUEZ, RUBEN ARIEL()
+----------------------------------------------------------------
+129   8707/13         PROVINCIA DEL CHACO C/MELON, SIXTO JUAN CARLOS S/EJECUCION
+                      FISCAL  -
+                      RODRIGUEZ, RUBEN ARIEL()
+----------------------------------------------------------------
+130   12744/12        PROVINCIA DEL CHACO C/MENDEZ, MIGUEL ANGEL S/EJECUCION
+                      FISCAL  -
+                      ALMIRON, MARIANA INES()
+----------------------------------------------------------------
+131   8075/14         PROVINCIA DEL CHACO C/MEUCCI, FABIANA ANTONELLA
+                      S/EJECUCION FISCAL  -
+                      RODRIGUEZ, LAURA MABEL()
+----------------------------------------------------------------
+132   11868/12        PROVINCIA DEL CHACO C/MILLAN FORD, JULIA LILIA S/EJECUCION
+                      FISCAL  -
+                      PETRI, FERNANDO YAMIL()
+----------------------------------------------------------------
+133   12722/12        PROVINCIA DEL CHACO C/MOLINA, JORGE VICTOR S/EJECUCION
+                      FISCAL  -
+                      DURAN, MARIA MARCELA()
+----------------------------------------------------------------
+134   12865/12        PROVINCIA DEL CHACO C/MOLINA, LEONARDO DAVID S/EJECUCION
+                      FISCAL  -
+                      ROMERO, MARIA DEL CARMEN()
+----------------------------------------------------------------
+135   2379/16         PROVINCIA DEL CHACO C/MONTENEGRO, ALEJANDRO EDUARDO
+                      S/EJECUCION FISCAL  -
+                      VALLEJOS, SILVINA MARIEL()
+----------------------------------------------------------------
+136   9874/16         PROVINCIA DEL CHACO C/MONZON, ORLANDO OSCAR S/EJECUCION
+                      FISCAL  -
+                      ALONSO, CLAUDIA CECILIA()
+----------------------------------------------------------------
+137   4729/11         PROVINCIA DEL CHACO C/MUNICIPALIDAD DE COLONIAS UNIDAS
+                      S/EJECUCION FISCAL  -
+                      SERRANO, CRISTINA()
+----------------------------------------------------------------
+138   4129/11         PROVINCIA DEL CHACO C/MUNICIPALIDAD DE LA EDUVIGIS
+                      S/EJECUCION FISCAL  -
+                      ALONSO, CLAUDIA CECILIA()
+----------------------------------------------------------------
+139   15309/16        PROVINCIA DEL CHACO C/OBREGON, ANGEL GABRIEL S/EJECUCION
+                      FISCAL  -
+                      ROMERO, MARIA DEL CARMEN()
+----------------------------------------------------------------
+140   15467/15        PROVINCIA DEL CHACO C/OLIVA HNOS. S.R.L. S/EJECUCION
+                      FISCAL  -
+                      SERRANO, CRISTINA()
+----------------------------------------------------------------
+141   15023/16        PROVINCIA DEL CHACO C/OVIEDO, CARLOS CESAR S/EJECUCION
+                      FISCAL  -
+                      PETRI, FERNANDO YAMIL()
+----------------------------------------------------------------
+142   11265/15        PROVINCIA DEL CHACO C/PEGORARO, ALFREDO CARLOS S/EJECUCION
+                      FISCAL  -
+                      SANTANGELO, MARIA DE LAS MERCEDES()
+----------------------------------------------------------------
+143   11708/14        PROVINCIA DEL CHACO C/PEGORARO, MARCELO RUBEN S/EJECUCION
+                      FISCAL  -
+                      SERRANO, CRISTINA()
+----------------------------------------------------------------
+144   13952/16        PROVINCIA DEL CHACO C/QUINTANA, ELIAS EMANUEL S/EJECUCION
+                      FISCAL  -
+                      GONZALEZ, PABLO SEBASTIAN()
+----------------------------------------------------------------
+145   14883/16        PROVINCIA DEL CHACO C/QUIROZ, SANDRO FABIAN S/EJECUCION
+                      FISCAL  -
+                      ROMERO, MARIA DEL CARMEN()
+----------------------------------------------------------------
+146   3125/15         PROVINCIA DEL CHACO C/RAMON O.LUNA E HIJOS S.R.L.
+                      S/EJECUCION FISCAL  -
+                      ZORRILLA, LAURA HAYDEE()
+----------------------------------------------------------------
+147   4551/14         PROVINCIA DEL CHACO C/REY, RENE EMMANUEL S/EJECUCION
+                      FISCAL  -
+                      PFAHL, JOHANNA PAMELA()
+----------------------------------------------------------------
+148   14885/16        PROVINCIA DEL CHACO C/RIOS, CLARA MABEL S/EJECUCION FISCAL
+                      -
+                      ROMERO, MARIA DEL CARMEN()
+----------------------------------------------------------------
+149   14889/16        PROVINCIA DEL CHACO C/RODRIGUEZ, ISMAEL ARGENTINO
+                      S/EJECUCION FISCAL  -
+                      ROMERO, MARIA DEL CARMEN()
+----------------------------------------------------------------
+150   13938/15        PROVINCIA DEL CHACO C/ROMERO, CESAR RAUL S/EJECUCION
+                      FISCAL  -
+                      GARCIA, MIRTHA RAMONA()
+----------------------------------------------------------------
+151   8666/12         PROVINCIA DEL CHACO C/RUESTA, ANDREA PAOLA S/EJECUCION
+                      FISCAL  -
+                      ALONSO, CLAUDIA CECILIA()
+----------------------------------------------------------------
+152   14774/15        PROVINCIA DEL CHACO C/RULFO, GLADYS MABEL S/EJECUCION
+                      FISCAL  -
+                      RODRIGUEZ, RUBEN ARIEL()
+----------------------------------------------------------------
+153   8797/15         PROVINCIA DEL CHACO C/SALGUEIRA, HECTOR S/EJECUCION FISCAL
+                      -
+                      ZORRILLA, LAURA HAYDEE()
+----------------------------------------------------------------
+154   11120/12        PROVINCIA DEL CHACO C/SAUCE S.R.L. S/EJECUCION FISCAL
+                      -
+                      ALONSO, CLAUDIA CECILIA()
+----------------------------------------------------------------
+155   11281/15        PROVINCIA DEL CHACO C/STECHER, JOSE LUIS S/EJECUCION
+                      FISCAL  -
+                      GUZZI, JOHANNA JESSIE()
+----------------------------------------------------------------
+156   7513/16         PROVINCIA DEL CHACO C/STECON S.R.L. S/EJECUCION FISCAL
+                      -
+                      ZORRILLA, LAURA HAYDEE()
+----------------------------------------------------------------
+157   15043/15        PROVINCIA DEL CHACO C/STRUS, BASILIO S/EJECUCION FISCAL
+                      -
+                      SANTANGELO, MARIA DE LAS MERCEDES()
+----------------------------------------------------------------
+158   2140/16         PROVINCIA DEL CHACO C/SUPERMERCADO MAYORISTA YAGUAR S.A.
+                      S/EJECUCION FISCAL  -
+                      PORTELA, JULIA ANDREA()
+----------------------------------------------------------------
+159   4738/11         PROVINCIA DEL CHACO C/TANONI HERMANOS S.A. S/EJECUCION
+                      FISCAL  -
+                      SERRANO, CRISTINA()
+----------------------------------------------------------------
+160   6170/14         PROVINCIA DEL CHACO C/TELECOM PERSONAL S.A. S/EJECUCION
+                      FISCAL  -
+                      KURAY, MATIAS DANIEL()
+----------------------------------------------------------------
+161   11034/13        PROVINCIA DEL CHACO C/TIMBO S.A.G.F. S/EJECUCION FISCAL
+                      -
+                      SANTANGELO, MARIA DE LAS MERCEDES()
+----------------------------------------------------------------
+162   11345/13        PROVINCIA DEL CHACO C/TONCHEFF, NESTOR GUILLERMO
+                      S/EJECUCION FISCAL  -
+                      ALONSO, CLAUDIA CECILIA()
+----------------------------------------------------------------
+163   7985/16         PROVINCIA DEL CHACO C/TRUSARELLI, CARLOS ALBERTO
+                      S/EJECUCION FISCAL  -
+                      ALONSO, CLAUDIA CECILIA()
+----------------------------------------------------------------
+164   7887/16         PROVINCIA DEL CHACO C/UEZ, RUBEN MAXIMILIANO S/EJECUCION
+                      FISCAL  -
+                      RODRIGUEZ, RUBEN ARIEL()
+----------------------------------------------------------------
+165   618/11          PROVINCIA DEL CHACO C/VALUSSI, JORGE LUIS S/EJECUCION
+                      FISCAL  -
+                      SERRANO, CRISTINA()
+----------------------------------------------------------------
+166   10457/15        PROVINCIA DEL CHACO C/VERGARA, OSCAR CARLOS S/EJECUCION
+                      FISCAL  -
+                      RODRIGUEZ, RUBEN ARIEL()
+----------------------------------------------------------------
+167   11412/16        PROVINCIA DEL CHACO C/VIDENOFF, GUSTAVO HERNAN S/EJECUCION
+                      FISCAL  -
+                      ZORRILLA, LAURA HAYDEE()
+----------------------------------------------------------------
+168   11714/15        PROVINCIA DEL CHACO C/VIÐUELA, ALVARO ARIEL S/EJECUCION
+                      FISCAL  -
+                      RODRIGUEZ, RUBEN ARIEL()
+----------------------------------------------------------------
+169   6135/16         PROVINCIA DEL CHACO C/VISGARRA, ESTER LILIANA S/EJECUCION
+                      FISCAL  -
+                      RODRIGUEZ, RUBEN ARIEL()
+----------------------------------------------------------------
+170   11529/16        PROVINCIA DEL CHACO C/ZACARIAS, RUBEN ALEJANDRO
+                      S/EJECUCION FISCAL  -
+                      PORTELA, JULIA ANDREA()
+----------------------------------------------------------------
+171   6855/15         PROVINCIA DEL CHACO C/ZAPATA, NICOLAS EUSEBIO S/EJECUCION
+                      FISCAL  -
+                      RODRIGUEZ, LAURA MABEL()
+----------------------------------------------------------------
+172   2269/12         PROVINCIA DEL CHACO C/ZUK, NICOLAS S/EJECUCION FISCAL
+                      -
+                      SANTANGELO, MARIA DE LAS MERCEDES(); ZORRILLA,
+                      LAURA HAYDEE()
+----------------------------------------------------------------
+173   11617/15        SUAREZ, FLORENCIO FORTUNATO Y MEZA, MARCELA SUSANA
+                      C/MUNICIPIO DE RESISTENCIA S/EJECUCION DE HONORARIOS  -
+                      MEZA, MARCELA SUSANA()
+----------------------------------------------------------------

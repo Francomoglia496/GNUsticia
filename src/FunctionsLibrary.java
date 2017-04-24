@@ -37,17 +37,15 @@ public class FunctionsLibrary {
                 System.out.println("Ingrese la fecha con el siguiente formato: aaaa-mm-dd");
                 String fecha = sc.nextLine();
 
-
-
                 for (int i = 0; i < localidad.getLinkCaratulas().length; i++) {
+
+
+                    //String caratula = localidad.getNombresCaratulas()[i];
 
                     fos = new FileOutputStream("./GNUsticia/"+ localidad.getName() +"/"+
                             localidad.getNombresCaratulas()[i] + fecha +".txt");
-                    //System.out.println("/" + url + fecha + ".Txt");
 
-                    String caratula = localidad.getNombresCaratulas()[i];
-
-                    if (!fileExist(localidad, caratula, fecha)){
+                    //if (!fileExist(localidad, caratula, fecha)){
 
                         boolean download = client1.retrieveFile(localidad.getLinkCaratulas()[i] + fecha + ".Txt", fos);
 
@@ -57,11 +55,11 @@ public class FunctionsLibrary {
                             System.out.println("Error al descargar el archivo o el archivo no existe!");
                         }
 
-                    }else {
+                    //}else {
 
-                        System.out.println("archivo: " + localidad.getNombresCaratulas()[i] + fecha +
-                                ".txt" + " ya existente");
-                    }
+                        /*System.out.println("archivo: " + localidad.getNombresCaratulas()[i] + fecha +
+                                ".txt" + " ya existente");*/
+                    //}
 
 
                     /*boolean download = client1.retrieveFile(localidad.getLinkCaratulas()[i] + fecha + ".Txt", fos);
@@ -140,22 +138,18 @@ public class FunctionsLibrary {
 
     public static boolean fileExist(Localidad localidad,String caratula, String fecha) {
 
-        boolean result = true;
-        
-        File carpeta = new File("./GNUsticia/" + localidad.getName());
+        boolean result = false;
 
-        String aux = caratula + fecha + ".txt";
+        String nombreArchivo = caratula + fecha + ".txt";
 
-        for (String search : carpeta.list()){
+        File archivo = new File("./GNUsticia/" + localidad.getName() + "/" + nombreArchivo);
 
-            if (search.equals(aux)){
-
-                result = true;
-                break;
-
-            }
-
+        if (archivo.length() != 0){
+            result = true;
         }
+
+        System.out.println(archivo.length());
+
         return result;
     }
 }

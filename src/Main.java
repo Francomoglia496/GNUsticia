@@ -21,19 +21,20 @@ public class Main {
         /*String sistema = System.getProperty("os.name");
         System.out.println(sistema);*/
 
-        FunctionsLibrary.generarCarpetas();
+        //FunctionsLibrary.generarCarpetas();
         FunctionsLibrary.descargarArchivo(resistencia);
 
-        /*File carpeta = new File("./GNUsticia/" + resistencia.getName());
 
-        System.out.println(carpeta.exists());
 
-        String[] array = carpeta.list();
+        /*for (String a : resistencia.getNombresCaratulas()){
 
-        for (String a : array){
-            System.out.println(a);
+            String aux = a + "2017-04-21.txt";
+
+            File arch = new File("./GNUsticia/" + resistencia.getName() + "/" + aux);
+
+            System.out.println(arch.exists());
+
         }*/
-
 
     }
 

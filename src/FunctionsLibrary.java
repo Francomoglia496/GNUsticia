@@ -1,9 +1,11 @@
 import org.apache.commons.net.ftp.FTPClient;
-
 import java.io.File;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.net.SocketException;
+import java.sql.*;
+import java.sql.Connection;
+import java.sql.Statement;
 import java.util.Scanner;
 
 /**
@@ -147,4 +149,42 @@ public class FunctionsLibrary {
 
         return result;
     }
+
+    public  static void connectionDB(){
+
+        try {
+            Class.forName("com.mysql.jdbc.Driver").newInstance();
+
+            Connection conexion = DriverManager.getConnection("jdbc:mysql://mysql.hostinger.com.ar:3306/u355331570_gnust",
+                    "u355331570_gnust","gnusticia2017");
+
+            if (conexion != null){
+                System.out.println("conexion establecida");
+            }else System.out.println("conexion fallida");
+
+            // Preparamos la consulta
+            Statement s = conexion.createStatement();
+            ResultSet rs = s.executeQuery("SELECT * FROM expedientes");
+
+            while (rs.next()){
+
+                System.out.println("clave: " + rs.getString(1) + " expte: "  + rs.getString(2));
+
+            }
+
+            conexion.close();
+
+        } catch (ClassNotFoundException e) {
+            e.printStackTrace();
+        } catch (SQLException e) {
+            e.printStackTrace();
+        } catch (IllegalAccessException e) {
+            e.printStackTrace();
+        } catch (InstantiationException e) {
+            e.printStackTrace();
+        }
+
+
+    }
+
 }

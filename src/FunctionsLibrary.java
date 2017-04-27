@@ -6,6 +6,7 @@ import java.net.SocketException;
 import java.sql.*;
 import java.sql.Connection;
 import java.sql.Statement;
+import java.util.ArrayList;
 import java.util.Scanner;
 
 /**
@@ -150,13 +151,15 @@ public class FunctionsLibrary {
         return result;
     }
 
-    public  static void connectionDB(){
+    public  static ArrayList<String> selectFromDB(){
+
+        ArrayList<String> exptes = new ArrayList<>();
 
         try {
-            Class.forName("com.mysql.jdbc.Driver").newInstance();
+            Class.forName("com.mysql.jdbc.Driver");
 
-            Connection conexion = DriverManager.getConnection("jdbc:mysql://mysql.hostinger.com.ar:3306/u355331570_gnust",
-                    "u355331570_gnust","gnusticia2017");
+            Connection conexion = DriverManager.getConnection("jdbc:mysql://tugal.com.ar:3306/tugal_gnu",
+                    "tugal_franco","franco");
 
             if (conexion != null){
                 System.out.println("conexion establecida");
@@ -164,11 +167,43 @@ public class FunctionsLibrary {
 
             // Preparamos la consulta
             Statement s = conexion.createStatement();
-            ResultSet rs = s.executeQuery("SELECT * FROM expedientes");
+            ResultSet rs = s.executeQuery("SELECT * FROM gnu");
 
+            int i = 0;
             while (rs.next()){
+                exptes.add(rs.getString(2));
+            }
 
-                System.out.println("clave: " + rs.getString(1) + " expte: "  + rs.getString(2));
+            conexion.close();
+            return exptes;
+
+        } catch (ClassNotFoundException e) {
+            e.printStackTrace();
+        } catch (SQLException e) {
+            e.printStackTrace();
+        }
+        return exptes;
+    }
+
+    public static void insertIntoDB(String[] expedientes){
+
+        try {
+            Class.forName("com.mysql.jdbc.Driver");
+
+            Connection conexion = DriverManager.getConnection("jdbc:mysql://tugal.com.ar:3306/tugal_gnu",
+                    "tugal_franco","franco");
+
+            if (conexion != null){
+                System.out.println("conexion establecida");
+            }else System.out.println("conexion fallida");
+
+
+            for (String expediente : expedientes){
+
+                // Preparamos la consulta
+                Statement s = conexion.createStatement();
+                s.executeUpdate("INSERT INTO gnu (descripcion) VALUES ('" + expediente + "')");
+
 
             }
 
@@ -178,13 +213,40 @@ public class FunctionsLibrary {
             e.printStackTrace();
         } catch (SQLException e) {
             e.printStackTrace();
-        } catch (IllegalAccessException e) {
+        }
+    }
+
+    public static void updateDB(){
+
+        try {
+            Class.forName("com.mysql.jdbc.Driver");
+
+            Connection conexion = DriverManager.getConnection("jdbc:mysql://tugal.com.ar:3306/tugal_gnu",
+                    "tugal_franco","franco");
+
+            if (conexion != null){
+                System.out.println("conexion establecida");
+            }else System.out.println("conexion fallida");
+
+
+            // Preparamos la consulta
+            PreparedStatement s = conexion.prepareStatement("UPDATE gnu SET ");
+
+
+            conexion.close();
+
+        } catch (ClassNotFoundException e) {
             e.printStackTrace();
-        } catch (InstantiationException e) {
+        } catch (SQLException e) {
             e.printStackTrace();
         }
 
 
+
+
+
+
     }
+
 
 }

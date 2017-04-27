@@ -2,11 +2,858 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="279e87bc-8d41-4f0c-b49a-ec08395ea360" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/GNUsticia/FunctionsLibrary.class" afterPath="$PROJECT_DIR$/out/production/GNUsticia/FunctionsLibrary.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/GNUsticia/Main.class" afterPath="$PROJECT_DIR$/out/production/GNUsticia/Main.class" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6-bin.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/NOTICE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/RELEASE-NOTES.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/allclasses-frame.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/allclasses-noframe.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/constant-values.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/deprecated-list.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/examples/Main.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/examples/class-use/Main.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/examples/package-frame.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/examples/package-summary.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/examples/package-tree.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/examples/package-use.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/help-doc.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/index-all.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/DatagramSocketClient.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/DatagramSocketFactory.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/DefaultDatagramSocketFactory.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/DefaultSocketFactory.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/MalformedServerReplyException.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/PrintCommandListener.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ProtocolCommandEvent.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ProtocolCommandListener.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ProtocolCommandSupport.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/SocketClient.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/bsd/RCommandClient.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/bsd/RExecClient.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/bsd/RLoginClient.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/bsd/class-use/RCommandClient.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/bsd/class-use/RExecClient.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/bsd/class-use/RLoginClient.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/bsd/package-frame.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/bsd/package-summary.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/bsd/package-tree.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/bsd/package-use.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/chargen/CharGenTCPClient.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/chargen/CharGenUDPClient.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/chargen/class-use/CharGenTCPClient.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/chargen/class-use/CharGenUDPClient.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/chargen/package-frame.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/chargen/package-summary.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/chargen/package-tree.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/chargen/package-use.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/class-use/DatagramSocketClient.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/class-use/DatagramSocketFactory.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/class-use/DefaultDatagramSocketFactory.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/class-use/DefaultSocketFactory.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/class-use/MalformedServerReplyException.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/class-use/PrintCommandListener.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/class-use/ProtocolCommandEvent.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/class-use/ProtocolCommandListener.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/class-use/ProtocolCommandSupport.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/class-use/SocketClient.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/daytime/DaytimeTCPClient.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/daytime/DaytimeUDPClient.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/daytime/class-use/DaytimeTCPClient.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/daytime/class-use/DaytimeUDPClient.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/daytime/package-frame.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/daytime/package-summary.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/daytime/package-tree.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/daytime/package-use.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/discard/DiscardTCPClient.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/discard/DiscardUDPClient.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/discard/class-use/DiscardTCPClient.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/discard/class-use/DiscardUDPClient.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/discard/package-frame.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/discard/package-summary.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/discard/package-tree.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/discard/package-use.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/echo/EchoTCPClient.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/echo/EchoUDPClient.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/echo/class-use/EchoTCPClient.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/echo/class-use/EchoUDPClient.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/echo/package-frame.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/echo/package-summary.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/echo/package-tree.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/echo/package-use.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/finger/FingerClient.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/finger/class-use/FingerClient.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/finger/package-frame.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/finger/package-summary.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/finger/package-tree.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/finger/package-use.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/Configurable.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/FTP.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/FTPClient.HostnameResolver.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/FTPClient.NatServerResolverImpl.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/FTPClient.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/FTPClientConfig.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/FTPCmd.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/FTPCommand.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/FTPConnectionClosedException.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/FTPFile.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/FTPFileEntryParser.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/FTPFileEntryParserImpl.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/FTPFileFilter.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/FTPFileFilters.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/FTPHTTPClient.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/FTPListParseEngine.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/FTPReply.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/FTPSClient.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/FTPSCommand.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/FTPSServerSocketFactory.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/FTPSSocketFactory.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/FTPSTrustManager.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/class-use/Configurable.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/class-use/FTP.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/class-use/FTPClient.HostnameResolver.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/class-use/FTPClient.NatServerResolverImpl.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/class-use/FTPClient.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/class-use/FTPClientConfig.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/class-use/FTPCmd.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/class-use/FTPCommand.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/class-use/FTPConnectionClosedException.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/class-use/FTPFile.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/class-use/FTPFileEntryParser.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/class-use/FTPFileEntryParserImpl.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/class-use/FTPFileFilter.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/class-use/FTPFileFilters.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/class-use/FTPHTTPClient.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/class-use/FTPListParseEngine.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/class-use/FTPReply.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/class-use/FTPSClient.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/class-use/FTPSCommand.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/class-use/FTPSServerSocketFactory.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/class-use/FTPSSocketFactory.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/class-use/FTPSTrustManager.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/package-frame.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/package-summary.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/package-tree.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/package-use.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/parser/CompositeFileEntryParser.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/parser/ConfigurableFTPFileEntryParserImpl.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/parser/DefaultFTPFileEntryParserFactory.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/parser/EnterpriseUnixFTPEntryParser.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/parser/FTPFileEntryParserFactory.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/parser/FTPTimestampParser.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/parser/FTPTimestampParserImpl.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/parser/MLSxEntryParser.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/parser/MVSFTPEntryParser.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/parser/MacOsPeterFTPEntryParser.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/parser/NTFTPEntryParser.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/parser/NetwareFTPEntryParser.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/parser/OS2FTPEntryParser.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/parser/OS400FTPEntryParser.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/parser/ParserInitializationException.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/parser/RegexFTPFileEntryParserImpl.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/parser/UnixFTPEntryParser.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/parser/VMSFTPEntryParser.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/parser/VMSVersioningFTPEntryParser.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/parser/class-use/CompositeFileEntryParser.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/parser/class-use/ConfigurableFTPFileEntryParserImpl.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/parser/class-use/DefaultFTPFileEntryParserFactory.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/parser/class-use/EnterpriseUnixFTPEntryParser.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/parser/class-use/FTPFileEntryParserFactory.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/parser/class-use/FTPTimestampParser.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/parser/class-use/FTPTimestampParserImpl.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/parser/class-use/MLSxEntryParser.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/parser/class-use/MVSFTPEntryParser.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/parser/class-use/MacOsPeterFTPEntryParser.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/parser/class-use/NTFTPEntryParser.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/parser/class-use/NetwareFTPEntryParser.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/parser/class-use/OS2FTPEntryParser.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/parser/class-use/OS400FTPEntryParser.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/parser/class-use/ParserInitializationException.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/parser/class-use/RegexFTPFileEntryParserImpl.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/parser/class-use/UnixFTPEntryParser.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/parser/class-use/VMSFTPEntryParser.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/parser/class-use/VMSVersioningFTPEntryParser.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/parser/package-frame.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/parser/package-summary.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/parser/package-tree.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/parser/package-use.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/imap/AuthenticatingIMAPClient.AUTH_METHOD.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/imap/AuthenticatingIMAPClient.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/imap/IMAP.IMAPChunkListener.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/imap/IMAP.IMAPState.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/imap/IMAP.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/imap/IMAPClient.FETCH_ITEM_NAMES.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/imap/IMAPClient.SEARCH_CRITERIA.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/imap/IMAPClient.STATUS_DATA_ITEMS.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/imap/IMAPClient.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/imap/IMAPCommand.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/imap/IMAPReply.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/imap/IMAPSClient.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/imap/class-use/AuthenticatingIMAPClient.AUTH_METHOD.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/imap/class-use/AuthenticatingIMAPClient.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/imap/class-use/IMAP.IMAPChunkListener.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/imap/class-use/IMAP.IMAPState.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/imap/class-use/IMAP.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/imap/class-use/IMAPClient.FETCH_ITEM_NAMES.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/imap/class-use/IMAPClient.SEARCH_CRITERIA.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/imap/class-use/IMAPClient.STATUS_DATA_ITEMS.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/imap/class-use/IMAPClient.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/imap/class-use/IMAPCommand.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/imap/class-use/IMAPReply.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/imap/class-use/IMAPSClient.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/imap/package-frame.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/imap/package-summary.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/imap/package-tree.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/imap/package-use.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/io/CRLFLineReader.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/io/CopyStreamAdapter.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/io/CopyStreamEvent.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/io/CopyStreamException.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/io/CopyStreamListener.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/io/DotTerminatedMessageReader.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/io/DotTerminatedMessageWriter.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/io/FromNetASCIIInputStream.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/io/FromNetASCIIOutputStream.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/io/SocketInputStream.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/io/SocketOutputStream.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/io/ToNetASCIIInputStream.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/io/ToNetASCIIOutputStream.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/io/Util.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/io/class-use/CRLFLineReader.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/io/class-use/CopyStreamAdapter.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/io/class-use/CopyStreamEvent.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/io/class-use/CopyStreamException.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/io/class-use/CopyStreamListener.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/io/class-use/DotTerminatedMessageReader.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/io/class-use/DotTerminatedMessageWriter.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/io/class-use/FromNetASCIIInputStream.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/io/class-use/FromNetASCIIOutputStream.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/io/class-use/SocketInputStream.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/io/class-use/SocketOutputStream.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/io/class-use/ToNetASCIIInputStream.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/io/class-use/ToNetASCIIOutputStream.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/io/class-use/Util.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/io/package-frame.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/io/package-summary.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/io/package-tree.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/io/package-use.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/nntp/Article.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/nntp/ArticleInfo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/nntp/ArticlePointer.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/nntp/NNTP.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/nntp/NNTPClient.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/nntp/NNTPCommand.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/nntp/NNTPConnectionClosedException.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/nntp/NNTPReply.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/nntp/NewGroupsOrNewsQuery.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/nntp/NewsgroupInfo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/nntp/SimpleNNTPHeader.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/nntp/Threadable.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/nntp/Threader.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/nntp/class-use/Article.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/nntp/class-use/ArticleInfo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/nntp/class-use/ArticlePointer.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/nntp/class-use/NNTP.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/nntp/class-use/NNTPClient.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/nntp/class-use/NNTPCommand.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/nntp/class-use/NNTPConnectionClosedException.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/nntp/class-use/NNTPReply.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/nntp/class-use/NewGroupsOrNewsQuery.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/nntp/class-use/NewsgroupInfo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/nntp/class-use/SimpleNNTPHeader.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/nntp/class-use/Threadable.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/nntp/class-use/Threader.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/nntp/package-frame.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/nntp/package-summary.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/nntp/package-tree.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/nntp/package-use.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ntp/NTPUDPClient.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ntp/NtpUtils.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ntp/NtpV3Impl.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ntp/NtpV3Packet.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ntp/TimeInfo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ntp/TimeStamp.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ntp/class-use/NTPUDPClient.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ntp/class-use/NtpUtils.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ntp/class-use/NtpV3Impl.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ntp/class-use/NtpV3Packet.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ntp/class-use/TimeInfo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ntp/class-use/TimeStamp.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ntp/package-frame.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ntp/package-summary.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ntp/package-tree.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ntp/package-use.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/package-frame.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/package-summary.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/package-tree.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/package-use.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/pop3/ExtendedPOP3Client.AUTH_METHOD.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/pop3/ExtendedPOP3Client.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/pop3/POP3.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/pop3/POP3Client.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/pop3/POP3Command.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/pop3/POP3MessageInfo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/pop3/POP3Reply.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/pop3/POP3SClient.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/pop3/class-use/ExtendedPOP3Client.AUTH_METHOD.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/pop3/class-use/ExtendedPOP3Client.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/pop3/class-use/POP3.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/pop3/class-use/POP3Client.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/pop3/class-use/POP3Command.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/pop3/class-use/POP3MessageInfo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/pop3/class-use/POP3Reply.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/pop3/class-use/POP3SClient.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/pop3/package-frame.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/pop3/package-summary.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/pop3/package-tree.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/pop3/package-use.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/smtp/AuthenticatingSMTPClient.AUTH_METHOD.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/smtp/AuthenticatingSMTPClient.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/smtp/RelayPath.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/smtp/SMTP.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/smtp/SMTPClient.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/smtp/SMTPCommand.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/smtp/SMTPConnectionClosedException.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/smtp/SMTPReply.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/smtp/SMTPSClient.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/smtp/SimpleSMTPHeader.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/smtp/class-use/AuthenticatingSMTPClient.AUTH_METHOD.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/smtp/class-use/AuthenticatingSMTPClient.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/smtp/class-use/RelayPath.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/smtp/class-use/SMTP.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/smtp/class-use/SMTPClient.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/smtp/class-use/SMTPCommand.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/smtp/class-use/SMTPConnectionClosedException.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/smtp/class-use/SMTPReply.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/smtp/class-use/SMTPSClient.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/smtp/class-use/SimpleSMTPHeader.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/smtp/package-frame.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/smtp/package-summary.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/smtp/package-tree.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/smtp/package-use.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/telnet/EchoOptionHandler.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/telnet/InvalidTelnetOptionException.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/telnet/SimpleOptionHandler.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/telnet/SuppressGAOptionHandler.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/telnet/TelnetClient.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/telnet/TelnetCommand.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/telnet/TelnetInputListener.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/telnet/TelnetNotificationHandler.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/telnet/TelnetOption.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/telnet/TelnetOptionHandler.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/telnet/TerminalTypeOptionHandler.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/telnet/WindowSizeOptionHandler.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/telnet/class-use/EchoOptionHandler.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/telnet/class-use/InvalidTelnetOptionException.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/telnet/class-use/SimpleOptionHandler.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/telnet/class-use/SuppressGAOptionHandler.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/telnet/class-use/TelnetClient.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/telnet/class-use/TelnetCommand.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/telnet/class-use/TelnetInputListener.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/telnet/class-use/TelnetNotificationHandler.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/telnet/class-use/TelnetOption.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/telnet/class-use/TelnetOptionHandler.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/telnet/class-use/TerminalTypeOptionHandler.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/telnet/class-use/WindowSizeOptionHandler.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/telnet/package-frame.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/telnet/package-summary.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/telnet/package-tree.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/telnet/package-use.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/tftp/TFTP.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/tftp/TFTPAckPacket.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/tftp/TFTPClient.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/tftp/TFTPDataPacket.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/tftp/TFTPErrorPacket.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/tftp/TFTPPacket.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/tftp/TFTPPacketException.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/tftp/TFTPReadRequestPacket.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/tftp/TFTPRequestPacket.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/tftp/TFTPWriteRequestPacket.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/tftp/class-use/TFTP.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/tftp/class-use/TFTPAckPacket.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/tftp/class-use/TFTPClient.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/tftp/class-use/TFTPDataPacket.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/tftp/class-use/TFTPErrorPacket.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/tftp/class-use/TFTPPacket.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/tftp/class-use/TFTPPacketException.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/tftp/class-use/TFTPReadRequestPacket.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/tftp/class-use/TFTPRequestPacket.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/tftp/class-use/TFTPWriteRequestPacket.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/tftp/package-frame.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/tftp/package-summary.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/tftp/package-tree.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/tftp/package-use.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/time/TimeTCPClient.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/time/TimeUDPClient.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/time/class-use/TimeTCPClient.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/time/class-use/TimeUDPClient.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/time/package-frame.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/time/package-summary.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/time/package-tree.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/time/package-use.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/util/Base64.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/util/Charsets.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/util/KeyManagerUtils.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/util/ListenerList.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/util/SSLContextUtils.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/util/SSLSocketUtils.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/util/SubnetUtils.SubnetInfo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/util/SubnetUtils.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/util/TrustManagerUtils.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/util/class-use/Base64.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/util/class-use/Charsets.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/util/class-use/KeyManagerUtils.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/util/class-use/ListenerList.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/util/class-use/SSLContextUtils.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/util/class-use/SSLSocketUtils.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/util/class-use/SubnetUtils.SubnetInfo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/util/class-use/SubnetUtils.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/util/class-use/TrustManagerUtils.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/util/package-frame.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/util/package-summary.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/util/package-tree.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/util/package-use.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/whois/WhoisClient.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/whois/class-use/WhoisClient.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/whois/package-frame.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/whois/package-summary.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/whois/package-tree.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/whois/package-use.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/overview-frame.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/overview-summary.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/overview-tree.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/package-list" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/resources/background.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/resources/tab.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/resources/titlebar.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/resources/titlebar_end.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/serialized-form.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/stylesheet.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/commons-net-3.6-sources.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/commons-net-examples-3.6.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/examples/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/examples/cidr/SubnetUtilsExample.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/examples/ftp/FTPClientExample.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/examples/ftp/ServerToServerFTP.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/examples/ftp/TFTPExample.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/examples/mail/IMAPExportMbox.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/examples/mail/IMAPImportMbox.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/examples/mail/IMAPMail.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/examples/mail/IMAPUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/examples/mail/POP3Mail.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/examples/mail/SMTPMail.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/examples/mail/Utils.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/examples/nntp/ArticleReader.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/examples/nntp/ExtendedNNTPOps.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/examples/nntp/ListNewsgroups.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/examples/nntp/MessageThreading.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/examples/nntp/NNTPUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/examples/nntp/PostMessage.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/examples/ntp/NTPClient.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/examples/ntp/SimpleNTPServer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/examples/ntp/TimeClient.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/examples/telnet/TelnetClientExample.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/examples/telnet/WeatherTelnet.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/examples/unix/chargen.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/examples/unix/daytime.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/examples/unix/echo.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/examples/unix/finger.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/examples/unix/fwhois.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/examples/unix/rdate.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/examples/unix/rexec.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/examples/unix/rlogin.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/examples/unix/rshell.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/examples/util/IOUtil.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/CHANGES" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/COPYING" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/README" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/README.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/build.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/docs/README.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/docs/connector-j.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/docs/connector-j.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/fabric/FabricCommunicationException.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/fabric/FabricConnection.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/fabric/FabricStateResponse.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/fabric/HashShardMapping.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/fabric/RangeShardMapping.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/fabric/Response.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/fabric/Server.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/fabric/ServerGroup.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/fabric/ServerMode.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/fabric/ServerRole.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/fabric/ShardIndex.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/fabric/ShardMapping.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/fabric/ShardMappingFactory.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/fabric/ShardTable.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/fabric/ShardingType.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/fabric/hibernate/FabricMultiTenantConnectionProvider.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/fabric/jdbc/ErrorReportingExceptionInterceptor.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/fabric/jdbc/FabricMySQLConnection.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/fabric/jdbc/FabricMySQLConnectionProperties.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/fabric/jdbc/FabricMySQLConnectionProxy.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/fabric/jdbc/FabricMySQLDataSource.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/fabric/jdbc/FabricMySQLDriver.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/fabric/jdbc/JDBC4FabricMySQLConnection.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/fabric/jdbc/JDBC4FabricMySQLConnectionProxy.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/fabric/proto/xmlrpc/AuthenticatedXmlRpcMethodCaller.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/fabric/proto/xmlrpc/DigestAuthentication.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/fabric/proto/xmlrpc/InternalXmlRpcMethodCaller.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/fabric/proto/xmlrpc/ResultSetParser.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/fabric/proto/xmlrpc/XmlRpcClient.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/fabric/proto/xmlrpc/XmlRpcMethodCaller.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/fabric/xmlrpc/Client.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/fabric/xmlrpc/base/Array.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/fabric/xmlrpc/base/Data.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/fabric/xmlrpc/base/Fault.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/fabric/xmlrpc/base/Member.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/fabric/xmlrpc/base/MethodCall.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/fabric/xmlrpc/base/MethodResponse.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/fabric/xmlrpc/base/Param.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/fabric/xmlrpc/base/Params.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/fabric/xmlrpc/base/ResponseParser.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/fabric/xmlrpc/base/Struct.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/fabric/xmlrpc/base/Value.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/fabric/xmlrpc/exceptions/MySQLFabricException.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/AbandonedConnectionCleanupThread.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/AssertionFailedException.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/AuthenticationPlugin.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/BalanceStrategy.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/BestResponseTimeBalanceStrategy.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/Blob.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/BlobFromLocator.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/Buffer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/BufferRow.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/ByteArrayRow.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/CacheAdapter.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/CacheAdapterFactory.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/CachedResultSetMetaData.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/CallableStatement.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/CharsetMapping.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/Charsets.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/Clob.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/CommunicationsException.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/CompressedInputStream.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/Connection.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/ConnectionFeatureNotAvailableException.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/ConnectionGroup.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/ConnectionGroupManager.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/ConnectionImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/ConnectionLifecycleInterceptor.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/ConnectionProperties.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/ConnectionPropertiesImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/ConnectionPropertiesTransform.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/Constants.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/DatabaseMetaData.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/DatabaseMetaDataUsingInfoSchema.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/DocsConnectionPropsHelper.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/Driver.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/EscapeProcessor.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/EscapeProcessorResult.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/EscapeTokenizer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/ExceptionInterceptor.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/ExportControlled.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/Extension.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/FailoverConnectionProxy.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/Field.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/IterateBlock.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/JDBC42CallableStatement.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/JDBC42Helper.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/JDBC42PreparedStatement.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/JDBC42ResultSet.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/JDBC42ServerPreparedStatement.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/JDBC42UpdatableResultSet.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/JDBC4CallableStatement.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/JDBC4ClientInfoProvider.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/JDBC4ClientInfoProviderSP.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/JDBC4CommentClientInfoProvider.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/JDBC4Connection.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/JDBC4DatabaseMetaData.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/JDBC4DatabaseMetaDataUsingInfoSchema.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/JDBC4LoadBalancedMySQLConnection.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/JDBC4MultiHostMySQLConnection.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/JDBC4MySQLConnection.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/JDBC4MysqlSQLXML.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/JDBC4NClob.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/JDBC4PreparedStatement.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/JDBC4PreparedStatementHelper.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/JDBC4ReplicationMySQLConnection.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/JDBC4ResultSet.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/JDBC4ServerPreparedStatement.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/JDBC4UpdatableResultSet.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/LicenseConfiguration.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/LoadBalanceExceptionChecker.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/LoadBalancedAutoCommitInterceptor.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/LoadBalancedConnection.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/LoadBalancedConnectionProxy.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/LoadBalancedMySQLConnection.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/LocalizedErrorMessages.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/Messages.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/MiniAdmin.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/MultiHostConnectionProxy.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/MultiHostMySQLConnection.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/MySQLConnection.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/MysqlDataTruncation.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/MysqlDefs.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/MysqlErrorNumbers.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/MysqlIO.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/MysqlParameterMetadata.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/MysqlSavepoint.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/NamedPipeSocketFactory.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/NdbLoadBalanceExceptionChecker.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/NetworkResources.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/NoSubInterceptorWrapper.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/NonRegisteringDriver.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/NonRegisteringReplicationDriver.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/NotImplemented.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/NotUpdatable.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/OperationNotSupportedException.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/OutputStreamWatcher.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/PacketTooBigException.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/ParameterBindings.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/PerConnectionLRUFactory.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/PerVmServerConfigCacheFactory.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/PingTarget.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/PreparedStatement.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/ProfilerEventHandlerFactory.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/RandomBalanceStrategy.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/ReflectiveStatementInterceptorAdapter.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/ReplicationConnection.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/ReplicationConnectionGroup.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/ReplicationConnectionGroupManager.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/ReplicationConnectionProxy.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/ReplicationDriver.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/ReplicationMySQLConnection.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/ResultSetImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/ResultSetInternalMethods.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/ResultSetMetaData.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/ResultSetRow.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/RowData.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/RowDataCursor.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/RowDataDynamic.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/RowDataStatic.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/SQLError.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/Security.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/SequentialBalanceStrategy.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/ServerPreparedStatement.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/SingleByteCharsetConverter.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/SocketFactory.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/SocketMetadata.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/SocksProxySocketFactory.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/StandardLoadBalanceExceptionChecker.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/StandardSocketFactory.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/Statement.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/StatementImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/StatementInterceptor.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/StatementInterceptorV2.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/StreamingNotifiable.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/StringUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/TimeUtil.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/TimeZoneMapping.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/UpdatableResultSet.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/Util.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/V1toV2StatementInterceptorAdapter.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/WatchableOutputStream.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/WatchableWriter.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/Wrapper.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/WriterWatcher.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/authentication/MysqlClearPasswordPlugin.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/authentication/MysqlNativePasswordPlugin.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/authentication/MysqlOldPasswordPlugin.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/authentication/Sha256PasswordPlugin.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/configs/3-0-Compat.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/configs/5-0-Compat.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/configs/clusterBase.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/configs/coldFusion.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/configs/fullDebug.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/configs/maxPerformance.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/configs/solarisMaxPerformance.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/exceptions/DeadlockTimeoutRollbackMarker.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/exceptions/MySQLDataException.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/exceptions/MySQLIntegrityConstraintViolationException.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/exceptions/MySQLInvalidAuthorizationSpecException.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/exceptions/MySQLNonTransientConnectionException.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/exceptions/MySQLNonTransientException.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/exceptions/MySQLQueryInterruptedException.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/exceptions/MySQLStatementCancelledException.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/exceptions/MySQLSyntaxErrorException.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/exceptions/MySQLTimeoutException.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/exceptions/MySQLTransactionRollbackException.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/exceptions/MySQLTransientConnectionException.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/exceptions/MySQLTransientException.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/exceptions/jdbc4/CommunicationsException.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/exceptions/jdbc4/MySQLDataException.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/exceptions/jdbc4/MySQLIntegrityConstraintViolationException.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/exceptions/jdbc4/MySQLInvalidAuthorizationSpecException.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/exceptions/jdbc4/MySQLNonTransientConnectionException.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/exceptions/jdbc4/MySQLNonTransientException.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/exceptions/jdbc4/MySQLQueryInterruptedException.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/exceptions/jdbc4/MySQLSyntaxErrorException.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/exceptions/jdbc4/MySQLTimeoutException.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/exceptions/jdbc4/MySQLTransactionRollbackException.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/exceptions/jdbc4/MySQLTransientConnectionException.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/exceptions/jdbc4/MySQLTransientException.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/integration/c3p0/MysqlConnectionTester.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/integration/jboss/ExtendedMysqlExceptionSorter.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/integration/jboss/MysqlValidConnectionChecker.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/interceptors/ResultSetScannerInterceptor.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/interceptors/ServerStatusDiffInterceptor.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/interceptors/SessionAssociationInterceptor.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/jdbc2/optional/CallableStatementWrapper.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/jdbc2/optional/ConnectionWrapper.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/jdbc2/optional/JDBC42CallableStatementWrapper.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/jdbc2/optional/JDBC42PreparedStatementWrapper.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/jdbc2/optional/JDBC4CallableStatementWrapper.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/jdbc2/optional/JDBC4ConnectionWrapper.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/jdbc2/optional/JDBC4MysqlPooledConnection.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/jdbc2/optional/JDBC4MysqlXAConnection.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/jdbc2/optional/JDBC4PreparedStatementWrapper.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/jdbc2/optional/JDBC4StatementWrapper.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/jdbc2/optional/JDBC4SuspendableXAConnection.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/jdbc2/optional/MysqlConnectionPoolDataSource.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/jdbc2/optional/MysqlDataSource.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/jdbc2/optional/MysqlDataSourceFactory.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/jdbc2/optional/MysqlPooledConnection.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/jdbc2/optional/MysqlXAConnection.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/jdbc2/optional/MysqlXADataSource.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/jdbc2/optional/MysqlXAException.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/jdbc2/optional/MysqlXid.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/jdbc2/optional/PreparedStatementWrapper.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/jdbc2/optional/StatementWrapper.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/jdbc2/optional/SuspendableXAConnection.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/jdbc2/optional/WrapperBase.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/jmx/LoadBalanceConnectionGroupManager.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/jmx/LoadBalanceConnectionGroupManagerMBean.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/jmx/ReplicationGroupManager.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/jmx/ReplicationGroupManagerMBean.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/log/Jdk14Logger.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/log/Log.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/log/LogFactory.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/log/LogUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/log/NullLogger.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/log/Slf4JLogger.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/log/StandardLogger.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/profiler/LoggingProfilerEventHandler.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/profiler/ProfilerEvent.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/profiler/ProfilerEventHandler.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/util/Base64Decoder.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/util/BaseBugReport.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/util/ErrorMappingsDocGenerator.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/util/LRUCache.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/util/PropertiesDocGenerator.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/util/ReadAheadInputStream.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/util/ResultSetUtil.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/util/ServerController.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/util/TimezoneDump.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/util/VersionFSHierarchyMaker.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/demo/fabric/Client1_Fabric.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/demo/fabric/Employee.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/demo/fabric/EmployeesDataSource.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/demo/fabric/EmployeesJdbc.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/demo/fabric/HibernateFabric.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/demo/fabric/resources/com/mysql/fabric/demo/employee.hbm.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/doc/sources/pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/lib/c3p0-0.9.1-pre6.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/lib/c3p0-0.9.1-pre6.src.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/lib/jboss-common-jdbc-wrapper-src.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/lib/jboss-common-jdbc-wrapper.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/lib/slf4j-api-1.6.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/org/gjt/mm/mysql/Driver.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/BaseStatementInterceptor.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/BaseTestCase.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/UnreliableSocketFactory.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/fabric/BaseFabricTestCase.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/fabric/SetupFabricTestsuite.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/fabric/TestAdminCommands.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/fabric/TestDumpCommands.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/fabric/TestResultSetParser.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/fabric/TestShardMapping.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/fabric/TestXmlRpcCore.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/fabric/jdbc/TestBasicConnection.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/fabric/jdbc/TestFabricMySQLConnectionSharding.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/fabric/jdbc/TestHABasics.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/fabric/jdbc/TestHashSharding.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/fabric/jdbc/TestRegressions.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/perf/BasePerfTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/perf/LoadStorePerfTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/perf/RetrievalPerfTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/regression/BlobRegressionTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/regression/CachedRowsetTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/regression/CallableStatementRegressionTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/regression/CharsetRegressionTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/regression/ConnectionRegressionTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/regression/DataSourceRegressionTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/regression/EscapeProcessorRegressionTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/regression/MetaDataRegressionTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/regression/MicroPerformanceRegressionTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/regression/NumbersRegressionTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/regression/PooledConnectionRegressionTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/regression/ResultSetRegressionTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/regression/StatementRegressionTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/regression/StressRegressionTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/regression/StringRegressionTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/regression/SubqueriesRegressionTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/regression/SyntaxRegressionTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/regression/UtilsRegressionTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/regression/jdbc4/ConnectionRegressionTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/regression/jdbc4/ExceptionSubclassesTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/regression/jdbc4/MetaDataRegressionTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/regression/jdbc4/StatementRegressionTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/regression/jdbc42/ConnectionRegressionTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/regression/jdbc42/StatementRegressionTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/simple/BlobTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/simple/CallableStatementTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/simple/CharsetTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/simple/ConnectionTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/simple/DataSourceTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/simple/DateTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/simple/EscapeProcessingTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/simple/MetadataTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/simple/MiniAdminTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/simple/MultiHostConnectionTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/simple/NumbersTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/simple/ReadOnlyCallableStatementTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/simple/ResultSetTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/simple/SSLTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/simple/ServerControllerTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/simple/SimpleTransformer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/simple/SplitDBdotNameTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/simple/StatementsTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/simple/StringUtilsTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/simple/TestBug57662Logger.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/simple/TestLifecycleInterceptor.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/simple/TransactionTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/simple/TraversalTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/simple/UpdatabilityTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/simple/UtilsTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/simple/XATest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/simple/jdbc4/StatementsTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/simple/jdbc42/ConnectionTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/simple/jdbc42/ResultSetTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/simple/jdbc42/StatementsTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/simple/tb2-data.txt.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/ssl-test-certs/ca-cert.pem" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/ssl-test-certs/ca-key.pem" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/ssl-test-certs/certs_howto.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/ssl-test-certs/mykey.pem" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/ssl-test-certs/mykey.pub" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/ssl-test-certs/server-cert.pem" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/ssl-test-certs/server-key.pem" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/ssl-test-certs/server-req.pem" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/ssl-test-certs/test-cert-store" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/libraries/commons-net-3.6/commons-net-3.6.jar" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/mysql-connector-java-5.1.41-bin.jar" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41-bin.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/commons_net_3_6.xml" afterPath="$PROJECT_DIR$/.idea/libraries/commons_net_3_6.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_5_1_41_bin.xml" afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_5_1_41_bin.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+<<<<<<< HEAD
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/FunctionsLibrary.java" afterPath="$PROJECT_DIR$/src/FunctionsLibrary.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Main.java" afterPath="$PROJECT_DIR$/src/Main.java" />
+=======
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GNUsticia.iml" afterPath="$PROJECT_DIR$/GNUsticia.iml" />
+>>>>>>> c455644d41f0ebb24e9fc97c336547660a54b4be
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,6 +872,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+<<<<<<< HEAD
       <file leaf-file-name="FunctionsLibrary.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/FunctionsLibrary.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -38,10 +886,19 @@
                 <element signature="method#insertIntoDB#0;class#FunctionsLibrary#0" expanded="false" />
                 <element signature="method#updateDB#0;class#FunctionsLibrary#0" expanded="false" />
               </folding>
+=======
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="182">
+              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding />
+>>>>>>> c455644d41f0ebb24e9fc97c336547660a54b4be
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -49,7 +906,47 @@
               <caret line="269" column="43" lean-forward="false" selection-start-line="269" selection-start-column="43" selection-end-line="269" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
+=======
+      <file leaf-file-name="Localidad.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Localidad.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="292" column="0" lean-forward="false" selection-start-line="292" selection-start-column="0" selection-end-line="292" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FunctionsLibrary.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/FunctionsLibrary.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="19" column="36" lean-forward="false" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <marker date="1493310397930" expanded="true" signature="6284:6290" ph="{...}" />
+>>>>>>> c455644d41f0ebb24e9fc97c336547660a54b4be
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GNUsticia.iml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GNUsticia.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="314">
+              <caret line="45" column="45" lean-forward="false" selection-start-line="45" selection-start-column="45" selection-end-line="45" selection-end-column="45" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -95,16 +992,16 @@
         <option value="$PROJECT_DIR$/src/Auxiliar.java" />
         <option value="$PROJECT_DIR$/src/Localidad.java" />
         <option value="$PROJECT_DIR$/GNUsticia/Resistencia/Cam_Civ_Sala_I_2017-04-21.txt" />
-        <option value="$PROJECT_DIR$/src/FunctionsLibrary.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/FunctionsLibrary.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="51" />
-    <option name="y" value="24" />
-    <option name="width" value="1315" />
-    <option name="height" value="744" />
+    <option name="x" value="1365" />
+    <option name="width" value="1362" />
+    <option name="height" value="768" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -124,9 +1021,23 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
       <pane id="Scope" />
+=======
+      <pane id="Scratches" />
+>>>>>>> c455644d41f0ebb24e9fc97c336547660a54b4be
       <pane id="ProjectPane">
         <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GNUsticia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+          </PATH>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="GNUsticia" />
@@ -151,18 +1062,67 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GNUsticia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GNUsticia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GNUsticia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GNUsticia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GNUsticia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+<<<<<<< HEAD
       <pane id="PackagesPane" />
       <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+=======
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41-bin.jar!/" />
+>>>>>>> c455644d41f0ebb24e9fc97c336547660a54b4be
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
   </component>
   <component name="RunManager" selected="Application.Main">
     <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -416,12 +1376,16 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
     <frame x="51" y="24" width="1315" height="744" extended-state="0" />
     <editor active="false" />
+=======
+    <frame x="1365" y="0" width="1362" height="768" extended-state="6" />
+>>>>>>> c455644d41f0ebb24e9fc97c336547660a54b4be
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972136" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -429,16 +1393,34 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2012384" sideWeight="0.49721116" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+=======
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4628483" sideWeight="0.50278884" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+>>>>>>> c455644d41f0ebb24e9fc97c336547660a54b4be
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32884902" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13711584" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+=======
+      <window_info id="Module Dependencies" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+>>>>>>> c455644d41f0ebb24e9fc97c336547660a54b4be
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972136" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3168909" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33034378" sideWeight="0.49721116" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20147058" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -446,7 +1428,6 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972136" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -540,15 +1521,38 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/FunctionsLibrary.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2512">
+          <caret line="157" column="12" lean-forward="true" selection-start-line="157" selection-start-column="12" selection-end-line="157" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1493310397930" expanded="true" signature="6284:6290" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FunctionsLibrary.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="5" column="32" lean-forward="false" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
+<<<<<<< HEAD
             <element signature="method#descargarArchivo#0;class#FunctionsLibrary#0" expanded="false" />
             <element signature="method#generarCarpetas#0;class#FunctionsLibrary#0" expanded="false" />
             <element signature="method#fileExist#0;class#FunctionsLibrary#0" expanded="false" />
             <element signature="method#insertIntoDB#0;class#FunctionsLibrary#0" expanded="false" />
             <element signature="method#updateDB#0;class#FunctionsLibrary#0" expanded="false" />
+=======
+            <marker date="1493310397930" expanded="true" signature="6284:6290" ph="{...}" />
+>>>>>>> c455644d41f0ebb24e9fc97c336547660a54b4be
           </folding>
         </state>
       </provider>
@@ -576,11 +1580,15 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
+<<<<<<< HEAD
             <element signature="method#descargarArchivo#0;class#FunctionsLibrary#0" expanded="false" />
             <element signature="method#generarCarpetas#0;class#FunctionsLibrary#0" expanded="false" />
             <element signature="method#fileExist#0;class#FunctionsLibrary#0" expanded="false" />
             <element signature="method#insertIntoDB#0;class#FunctionsLibrary#0" expanded="false" />
             <element signature="method#updateDB#0;class#FunctionsLibrary#0" expanded="false" />
+=======
+            <marker date="1493310397930" expanded="true" signature="6284:6290" ph="{...}" />
+>>>>>>> c455644d41f0ebb24e9fc97c336547660a54b4be
           </folding>
         </state>
       </provider>
@@ -618,11 +1626,15 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
+<<<<<<< HEAD
             <element signature="method#descargarArchivo#0;class#FunctionsLibrary#0" expanded="false" />
             <element signature="method#generarCarpetas#0;class#FunctionsLibrary#0" expanded="false" />
             <element signature="method#fileExist#0;class#FunctionsLibrary#0" expanded="false" />
             <element signature="method#insertIntoDB#0;class#FunctionsLibrary#0" expanded="false" />
             <element signature="method#updateDB#0;class#FunctionsLibrary#0" expanded="false" />
+=======
+            <marker date="1493310397930" expanded="true" signature="6284:6290" ph="{...}" />
+>>>>>>> c455644d41f0ebb24e9fc97c336547660a54b4be
           </folding>
         </state>
       </provider>
@@ -643,11 +1655,15 @@
           <caret line="122" column="66" lean-forward="false" selection-start-line="122" selection-start-column="66" selection-end-line="122" selection-end-column="66" />
           <folding>
             <element signature="imports" expanded="true" />
+<<<<<<< HEAD
             <element signature="method#descargarArchivo#0;class#FunctionsLibrary#0" expanded="false" />
             <element signature="method#generarCarpetas#0;class#FunctionsLibrary#0" expanded="false" />
             <element signature="method#fileExist#0;class#FunctionsLibrary#0" expanded="false" />
             <element signature="method#insertIntoDB#0;class#FunctionsLibrary#0" expanded="false" />
             <element signature="method#updateDB#0;class#FunctionsLibrary#0" expanded="false" />
+=======
+            <marker date="1493310397930" expanded="true" signature="6284:6290" ph="{...}" />
+>>>>>>> c455644d41f0ebb24e9fc97c336547660a54b4be
           </folding>
         </state>
       </provider>
@@ -668,11 +1684,15 @@
           <caret line="50" column="49" lean-forward="false" selection-start-line="50" selection-start-column="49" selection-end-line="50" selection-end-column="49" />
           <folding>
             <element signature="imports" expanded="true" />
+<<<<<<< HEAD
             <element signature="method#descargarArchivo#0;class#FunctionsLibrary#0" expanded="false" />
             <element signature="method#generarCarpetas#0;class#FunctionsLibrary#0" expanded="false" />
             <element signature="method#fileExist#0;class#FunctionsLibrary#0" expanded="false" />
             <element signature="method#insertIntoDB#0;class#FunctionsLibrary#0" expanded="false" />
             <element signature="method#updateDB#0;class#FunctionsLibrary#0" expanded="false" />
+=======
+            <marker date="1493310397930" expanded="true" signature="6284:6290" ph="{...}" />
+>>>>>>> c455644d41f0ebb24e9fc97c336547660a54b4be
           </folding>
         </state>
       </provider>
@@ -693,11 +1713,15 @@
           <caret line="42" column="5" lean-forward="false" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
+<<<<<<< HEAD
             <element signature="method#descargarArchivo#0;class#FunctionsLibrary#0" expanded="false" />
             <element signature="method#generarCarpetas#0;class#FunctionsLibrary#0" expanded="false" />
             <element signature="method#fileExist#0;class#FunctionsLibrary#0" expanded="false" />
             <element signature="method#insertIntoDB#0;class#FunctionsLibrary#0" expanded="false" />
             <element signature="method#updateDB#0;class#FunctionsLibrary#0" expanded="false" />
+=======
+            <marker date="1493310397930" expanded="true" signature="6284:6290" ph="{...}" />
+>>>>>>> c455644d41f0ebb24e9fc97c336547660a54b4be
           </folding>
         </state>
       </provider>
@@ -725,11 +1749,15 @@
           <caret line="314" column="0" lean-forward="false" selection-start-line="314" selection-start-column="0" selection-end-line="314" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
+<<<<<<< HEAD
             <element signature="method#descargarArchivo#0;class#FunctionsLibrary#0" expanded="false" />
             <element signature="method#generarCarpetas#0;class#FunctionsLibrary#0" expanded="false" />
             <element signature="method#fileExist#0;class#FunctionsLibrary#0" expanded="false" />
             <element signature="method#insertIntoDB#0;class#FunctionsLibrary#0" expanded="false" />
             <element signature="method#updateDB#0;class#FunctionsLibrary#0" expanded="false" />
+=======
+            <marker date="1493310397930" expanded="true" signature="6284:6290" ph="{...}" />
+>>>>>>> c455644d41f0ebb24e9fc97c336547660a54b4be
           </folding>
         </state>
       </provider>
@@ -753,7 +1781,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="303">
           <caret line="99" column="11" lean-forward="false" selection-start-line="99" selection-start-column="11" selection-end-line="99" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -761,126 +1788,69 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="249">
           <caret line="1307" column="19" lean-forward="false" selection-start-line="1307" selection-start-column="19" selection-end-line="1307" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/commons-net-3.6/commons-net-3.6-sources.jar!/org/apache/commons/net/ftp/FTPClient.java" />
+    <entry file="file://$PROJECT_DIR$/src/Auxiliar.java" />
+    <entry file="file://$PROJECT_DIR$/GNUsticia/Resistencia/algo.txt" />
+    <entry file="file://$PROJECT_DIR$/GNUsticia/Resistencia/Cam_Civ_Sala_III_2017-04-21.txt" />
+    <entry file="file://$PROJECT_DIR$/GNUsticia/Resistencia/Cam_Civ_Sala_IV_2017-04-21.txt" />
+    <entry file="file://$PROJECT_DIR$/GNUsticia/Resistencia/Cam_Lab_Sala_I_2017-04-21.txt" />
+    <entry file="file://$PROJECT_DIR$/GNUsticia/Resistencia/Cam_Lab_Sala_II_2017-04-21.txt" />
+    <entry file="file://$PROJECT_DIR$/GNUsticia/Resistencia/Camara_Cont_Adm_Sala_1_2017-04-21.txt" />
+    <entry file="file://$PROJECT_DIR$/GNUsticia/Resistencia/Camara_Cont_Adm_Sala_2_2017-04-21.txt" />
+    <entry file="file://$PROJECT_DIR$/GNUsticia/Resistencia/Juzg_M-y-F_SecSoc1_2017-04-21.txt" />
+    <entry file="file://$PROJECT_DIR$/GNUsticia/Resistencia/Cam_Civ_Sala_II_2017-04-21.txt" />
+    <entry file="file://$PROJECT_DIR$/GNUsticia/Resistencia/Juzg_M-y-F_SecSoc2_2017-04-21.txt" />
+    <entry file="file://$PROJECT_DIR$/GNUsticia/Resistencia/Juzg_M-y-F_SecSoc6_2017-04-21.txt" />
+    <entry file="file://$PROJECT_DIR$/GNUsticia/Resistencia/Juzg_M-y-Familia_2_2017-04-21.txt" />
+    <entry file="file://$PROJECT_DIR$/GNUsticia/Resistencia/Juzg_M-y-Familia_1_2017-04-21.txt" />
+    <entry file="file://$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Civil_5_2017-04-21.txt" />
+    <entry file="file://$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Civil_2_2017-04-21.txt" />
+    <entry file="file://$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Civil_4_2017-04-21.txt" />
+    <entry file="file://$PROJECT_DIR$/GNUsticia/Resistencia/Cam_Civ_Sala_I_2017-04-21.txt" />
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/sql/Connection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1152">
+          <caret line="88" column="18" lean-forward="true" selection-start-line="88" selection-start-column="18" selection-end-line="88" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/sql/DriverManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="663" column="0" lean-forward="false" selection-start-line="663" selection-start-column="0" selection-end-line="663" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/Downloads/commons-net-3.6/commons-net-3.6-sources.jar!/org/apache/commons/net/ftp/FTPClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="1881" column="19" lean-forward="false" selection-start-line="1881" selection-start-column="19" selection-end-line="1881" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Auxiliar.java" />
-    <entry file="file://$PROJECT_DIR$/GNUsticia/Resistencia/algo.txt" />
-    <entry file="file://$PROJECT_DIR$/GNUsticia/Resistencia/Cam_Civ_Sala_III_2017-04-21.txt">
+    <entry file="file://$PROJECT_DIR$/GNUsticia.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GNUsticia/Resistencia/Cam_Civ_Sala_IV_2017-04-21.txt">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GNUsticia/Resistencia/Cam_Lab_Sala_I_2017-04-21.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GNUsticia/Resistencia/Cam_Lab_Sala_II_2017-04-21.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GNUsticia/Resistencia/Camara_Cont_Adm_Sala_1_2017-04-21.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GNUsticia/Resistencia/Camara_Cont_Adm_Sala_2_2017-04-21.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GNUsticia/Resistencia/Juzg_M-y-F_SecSoc1_2017-04-21.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GNUsticia/Resistencia/Cam_Civ_Sala_II_2017-04-21.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GNUsticia/Resistencia/Juzg_M-y-F_SecSoc2_2017-04-21.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GNUsticia/Resistencia/Juzg_M-y-F_SecSoc6_2017-04-21.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GNUsticia/Resistencia/Juzg_M-y-Familia_2_2017-04-21.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GNUsticia/Resistencia/Juzg_M-y-Familia_1_2017-04-21.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Civil_5_2017-04-21.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Civil_2_2017-04-21.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Civil_4_2017-04-21.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="314">
+          <caret line="45" column="45" lean-forward="false" selection-start-line="45" selection-start-column="45" selection-end-line="45" selection-end-column="45" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/sql/Connection.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="1152">
           <caret line="88" column="18" lean-forward="true" selection-start-line="88" selection-start-column="18" selection-end-line="88" selection-end-column="18" />
           <folding />
@@ -915,6 +1885,9 @@
     <entry file="file://$PROJECT_DIR$/src/Localidad.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4860">
+=======
+        <state relative-caret-position="399">
+>>>>>>> c455644d41f0ebb24e9fc97c336547660a54b4be
           <caret line="292" column="0" lean-forward="false" selection-start-line="292" selection-start-column="0" selection-end-line="292" selection-end-column="0" />
           <folding />
         </state>
@@ -932,6 +1905,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/FunctionsLibrary.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="635">
           <caret line="173" column="33" lean-forward="false" selection-start-line="173" selection-start-column="33" selection-end-line="173" selection-end-column="33" />
           <folding>
@@ -941,6 +1915,13 @@
             <element signature="method#fileExist#0;class#FunctionsLibrary#0" expanded="false" />
             <element signature="method#insertIntoDB#0;class#FunctionsLibrary#0" expanded="false" />
             <element signature="method#updateDB#0;class#FunctionsLibrary#0" expanded="false" />
+=======
+        <state relative-caret-position="112">
+          <caret line="19" column="36" lean-forward="false" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1493310397930" expanded="true" signature="6284:6290" ph="{...}" />
+>>>>>>> c455644d41f0ebb24e9fc97c336547660a54b4be
           </folding>
         </state>
       </provider>
@@ -1022,7 +2003,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>mysql-connector-java-5.1</last-edited>
+          <last-edited>mysql-connector-java-5.1.41-bin</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

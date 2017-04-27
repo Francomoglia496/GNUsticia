@@ -40,10 +40,14 @@ public class FunctionsLibrary {
 
                     //String caratula = localidad.getNombresCaratulas()[i];
 
-                    fos = new FileOutputStream("./GNUsticia/"+ localidad.getName() +"/"+
-                            localidad.getNombresCaratulas()[i] + fecha +".txt");
+                    File archivo = new File("./GNUsticia/" + localidad.getName() + "/" + localidad.getNombresCaratulas()[i] + fecha +".txt");
 
-                    //if (!fileExist(localidad, caratula, fecha)){
+                    if (!archivo.exists()) {
+
+                        fos = new FileOutputStream("./GNUsticia/" + localidad.getName() + "/" +
+                                localidad.getNombresCaratulas()[i] + fecha + ".txt");
+
+                        //if (!fileExist(localidad, caratula, fecha)){
 
                         boolean download = client1.retrieveFile(localidad.getLinkCaratulas()[i] + fecha + ".Txt", fos);
 
@@ -52,7 +56,7 @@ public class FunctionsLibrary {
                         } else {
                             System.out.println("Error al descargar el archivo o el archivo no existe!");
                         }
-
+                    }
                     //}else {
 
                         /*System.out.println("archivo: " + localidad.getNombresCaratulas()[i] + fecha +

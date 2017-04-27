@@ -2,10 +2,851 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="279e87bc-8d41-4f0c-b49a-ec08395ea360" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/commons_net_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_5_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GNUsticia/FunctionsLibrary.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GNUsticia/Main.class" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/resources/background.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/resources/tab.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/resources/titlebar.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/resources/titlebar_end.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/commons-net-3.6-sources.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/commons-net-3.6.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/commons-net-examples-3.6.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/docs/connector-j.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/mysql-connector-java-5.1.41-bin.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/lib/c3p0-0.9.1-pre6.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/lib/c3p0-0.9.1-pre6.src.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/lib/jboss-common-jdbc-wrapper-src.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/lib/jboss-common-jdbc-wrapper.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/lib/slf4j-api-1.6.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/simple/tb2-data.txt.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/ssl-test-certs/test-cert-store" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/commons_net_3_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_5_1_41_bin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/NOTICE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/RELEASE-NOTES.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/allclasses-frame.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/allclasses-noframe.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/constant-values.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/deprecated-list.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/examples/Main.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/examples/class-use/Main.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/examples/package-frame.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/examples/package-summary.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/examples/package-tree.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/examples/package-use.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/help-doc.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/index-all.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/DatagramSocketClient.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/DatagramSocketFactory.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/DefaultDatagramSocketFactory.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/DefaultSocketFactory.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/MalformedServerReplyException.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/PrintCommandListener.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ProtocolCommandEvent.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ProtocolCommandListener.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ProtocolCommandSupport.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/SocketClient.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/bsd/RCommandClient.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/bsd/RExecClient.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/bsd/RLoginClient.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/bsd/class-use/RCommandClient.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/bsd/class-use/RExecClient.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/bsd/class-use/RLoginClient.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/bsd/package-frame.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/bsd/package-summary.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/bsd/package-tree.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/bsd/package-use.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/chargen/CharGenTCPClient.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/chargen/CharGenUDPClient.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/chargen/class-use/CharGenTCPClient.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/chargen/class-use/CharGenUDPClient.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/chargen/package-frame.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/chargen/package-summary.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/chargen/package-tree.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/chargen/package-use.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/class-use/DatagramSocketClient.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/class-use/DatagramSocketFactory.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/class-use/DefaultDatagramSocketFactory.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/class-use/DefaultSocketFactory.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/class-use/MalformedServerReplyException.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/class-use/PrintCommandListener.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/class-use/ProtocolCommandEvent.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/class-use/ProtocolCommandListener.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/class-use/ProtocolCommandSupport.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/class-use/SocketClient.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/daytime/DaytimeTCPClient.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/daytime/DaytimeUDPClient.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/daytime/class-use/DaytimeTCPClient.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/daytime/class-use/DaytimeUDPClient.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/daytime/package-frame.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/daytime/package-summary.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/daytime/package-tree.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/daytime/package-use.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/discard/DiscardTCPClient.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/discard/DiscardUDPClient.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/discard/class-use/DiscardTCPClient.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/discard/class-use/DiscardUDPClient.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/discard/package-frame.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/discard/package-summary.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/discard/package-tree.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/discard/package-use.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/echo/EchoTCPClient.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/echo/EchoUDPClient.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/echo/class-use/EchoTCPClient.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/echo/class-use/EchoUDPClient.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/echo/package-frame.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/echo/package-summary.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/echo/package-tree.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/echo/package-use.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/finger/FingerClient.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/finger/class-use/FingerClient.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/finger/package-frame.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/finger/package-summary.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/finger/package-tree.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/finger/package-use.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/Configurable.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/FTP.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/FTPClient.HostnameResolver.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/FTPClient.NatServerResolverImpl.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/FTPClient.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/FTPClientConfig.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/FTPCmd.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/FTPCommand.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/FTPConnectionClosedException.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/FTPFile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/FTPFileEntryParser.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/FTPFileEntryParserImpl.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/FTPFileFilter.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/FTPFileFilters.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/FTPHTTPClient.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/FTPListParseEngine.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/FTPReply.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/FTPSClient.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/FTPSCommand.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/FTPSServerSocketFactory.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/FTPSSocketFactory.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/FTPSTrustManager.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/class-use/Configurable.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/class-use/FTP.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/class-use/FTPClient.HostnameResolver.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/class-use/FTPClient.NatServerResolverImpl.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/class-use/FTPClient.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/class-use/FTPClientConfig.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/class-use/FTPCmd.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/class-use/FTPCommand.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/class-use/FTPConnectionClosedException.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/class-use/FTPFile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/class-use/FTPFileEntryParser.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/class-use/FTPFileEntryParserImpl.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/class-use/FTPFileFilter.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/class-use/FTPFileFilters.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/class-use/FTPHTTPClient.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/class-use/FTPListParseEngine.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/class-use/FTPReply.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/class-use/FTPSClient.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/class-use/FTPSCommand.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/class-use/FTPSServerSocketFactory.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/class-use/FTPSSocketFactory.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/class-use/FTPSTrustManager.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/package-frame.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/package-summary.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/package-tree.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/package-use.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/parser/CompositeFileEntryParser.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/parser/ConfigurableFTPFileEntryParserImpl.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/parser/DefaultFTPFileEntryParserFactory.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/parser/EnterpriseUnixFTPEntryParser.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/parser/FTPFileEntryParserFactory.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/parser/FTPTimestampParser.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/parser/FTPTimestampParserImpl.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/parser/MLSxEntryParser.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/parser/MVSFTPEntryParser.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/parser/MacOsPeterFTPEntryParser.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/parser/NTFTPEntryParser.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/parser/NetwareFTPEntryParser.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/parser/OS2FTPEntryParser.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/parser/OS400FTPEntryParser.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/parser/ParserInitializationException.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/parser/RegexFTPFileEntryParserImpl.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/parser/UnixFTPEntryParser.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/parser/VMSFTPEntryParser.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/parser/VMSVersioningFTPEntryParser.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/parser/class-use/CompositeFileEntryParser.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/parser/class-use/ConfigurableFTPFileEntryParserImpl.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/parser/class-use/DefaultFTPFileEntryParserFactory.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/parser/class-use/EnterpriseUnixFTPEntryParser.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/parser/class-use/FTPFileEntryParserFactory.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/parser/class-use/FTPTimestampParser.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/parser/class-use/FTPTimestampParserImpl.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/parser/class-use/MLSxEntryParser.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/parser/class-use/MVSFTPEntryParser.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/parser/class-use/MacOsPeterFTPEntryParser.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/parser/class-use/NTFTPEntryParser.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/parser/class-use/NetwareFTPEntryParser.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/parser/class-use/OS2FTPEntryParser.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/parser/class-use/OS400FTPEntryParser.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/parser/class-use/ParserInitializationException.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/parser/class-use/RegexFTPFileEntryParserImpl.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/parser/class-use/UnixFTPEntryParser.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/parser/class-use/VMSFTPEntryParser.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/parser/class-use/VMSVersioningFTPEntryParser.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/parser/package-frame.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/parser/package-summary.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/parser/package-tree.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ftp/parser/package-use.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/imap/AuthenticatingIMAPClient.AUTH_METHOD.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/imap/AuthenticatingIMAPClient.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/imap/IMAP.IMAPChunkListener.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/imap/IMAP.IMAPState.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/imap/IMAP.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/imap/IMAPClient.FETCH_ITEM_NAMES.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/imap/IMAPClient.SEARCH_CRITERIA.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/imap/IMAPClient.STATUS_DATA_ITEMS.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/imap/IMAPClient.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/imap/IMAPCommand.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/imap/IMAPReply.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/imap/IMAPSClient.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/imap/class-use/AuthenticatingIMAPClient.AUTH_METHOD.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/imap/class-use/AuthenticatingIMAPClient.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/imap/class-use/IMAP.IMAPChunkListener.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/imap/class-use/IMAP.IMAPState.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/imap/class-use/IMAP.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/imap/class-use/IMAPClient.FETCH_ITEM_NAMES.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/imap/class-use/IMAPClient.SEARCH_CRITERIA.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/imap/class-use/IMAPClient.STATUS_DATA_ITEMS.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/imap/class-use/IMAPClient.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/imap/class-use/IMAPCommand.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/imap/class-use/IMAPReply.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/imap/class-use/IMAPSClient.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/imap/package-frame.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/imap/package-summary.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/imap/package-tree.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/imap/package-use.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/io/CRLFLineReader.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/io/CopyStreamAdapter.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/io/CopyStreamEvent.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/io/CopyStreamException.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/io/CopyStreamListener.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/io/DotTerminatedMessageReader.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/io/DotTerminatedMessageWriter.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/io/FromNetASCIIInputStream.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/io/FromNetASCIIOutputStream.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/io/SocketInputStream.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/io/SocketOutputStream.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/io/ToNetASCIIInputStream.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/io/ToNetASCIIOutputStream.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/io/Util.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/io/class-use/CRLFLineReader.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/io/class-use/CopyStreamAdapter.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/io/class-use/CopyStreamEvent.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/io/class-use/CopyStreamException.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/io/class-use/CopyStreamListener.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/io/class-use/DotTerminatedMessageReader.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/io/class-use/DotTerminatedMessageWriter.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/io/class-use/FromNetASCIIInputStream.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/io/class-use/FromNetASCIIOutputStream.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/io/class-use/SocketInputStream.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/io/class-use/SocketOutputStream.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/io/class-use/ToNetASCIIInputStream.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/io/class-use/ToNetASCIIOutputStream.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/io/class-use/Util.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/io/package-frame.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/io/package-summary.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/io/package-tree.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/io/package-use.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/nntp/Article.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/nntp/ArticleInfo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/nntp/ArticlePointer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/nntp/NNTP.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/nntp/NNTPClient.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/nntp/NNTPCommand.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/nntp/NNTPConnectionClosedException.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/nntp/NNTPReply.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/nntp/NewGroupsOrNewsQuery.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/nntp/NewsgroupInfo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/nntp/SimpleNNTPHeader.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/nntp/Threadable.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/nntp/Threader.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/nntp/class-use/Article.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/nntp/class-use/ArticleInfo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/nntp/class-use/ArticlePointer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/nntp/class-use/NNTP.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/nntp/class-use/NNTPClient.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/nntp/class-use/NNTPCommand.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/nntp/class-use/NNTPConnectionClosedException.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/nntp/class-use/NNTPReply.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/nntp/class-use/NewGroupsOrNewsQuery.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/nntp/class-use/NewsgroupInfo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/nntp/class-use/SimpleNNTPHeader.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/nntp/class-use/Threadable.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/nntp/class-use/Threader.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/nntp/package-frame.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/nntp/package-summary.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/nntp/package-tree.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/nntp/package-use.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ntp/NTPUDPClient.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ntp/NtpUtils.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ntp/NtpV3Impl.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ntp/NtpV3Packet.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ntp/TimeInfo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ntp/TimeStamp.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ntp/class-use/NTPUDPClient.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ntp/class-use/NtpUtils.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ntp/class-use/NtpV3Impl.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ntp/class-use/NtpV3Packet.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ntp/class-use/TimeInfo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ntp/class-use/TimeStamp.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ntp/package-frame.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ntp/package-summary.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ntp/package-tree.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/ntp/package-use.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/package-frame.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/package-summary.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/package-tree.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/package-use.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/pop3/ExtendedPOP3Client.AUTH_METHOD.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/pop3/ExtendedPOP3Client.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/pop3/POP3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/pop3/POP3Client.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/pop3/POP3Command.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/pop3/POP3MessageInfo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/pop3/POP3Reply.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/pop3/POP3SClient.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/pop3/class-use/ExtendedPOP3Client.AUTH_METHOD.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/pop3/class-use/ExtendedPOP3Client.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/pop3/class-use/POP3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/pop3/class-use/POP3Client.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/pop3/class-use/POP3Command.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/pop3/class-use/POP3MessageInfo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/pop3/class-use/POP3Reply.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/pop3/class-use/POP3SClient.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/pop3/package-frame.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/pop3/package-summary.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/pop3/package-tree.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/pop3/package-use.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/smtp/AuthenticatingSMTPClient.AUTH_METHOD.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/smtp/AuthenticatingSMTPClient.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/smtp/RelayPath.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/smtp/SMTP.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/smtp/SMTPClient.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/smtp/SMTPCommand.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/smtp/SMTPConnectionClosedException.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/smtp/SMTPReply.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/smtp/SMTPSClient.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/smtp/SimpleSMTPHeader.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/smtp/class-use/AuthenticatingSMTPClient.AUTH_METHOD.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/smtp/class-use/AuthenticatingSMTPClient.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/smtp/class-use/RelayPath.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/smtp/class-use/SMTP.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/smtp/class-use/SMTPClient.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/smtp/class-use/SMTPCommand.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/smtp/class-use/SMTPConnectionClosedException.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/smtp/class-use/SMTPReply.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/smtp/class-use/SMTPSClient.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/smtp/class-use/SimpleSMTPHeader.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/smtp/package-frame.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/smtp/package-summary.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/smtp/package-tree.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/smtp/package-use.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/telnet/EchoOptionHandler.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/telnet/InvalidTelnetOptionException.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/telnet/SimpleOptionHandler.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/telnet/SuppressGAOptionHandler.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/telnet/TelnetClient.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/telnet/TelnetCommand.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/telnet/TelnetInputListener.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/telnet/TelnetNotificationHandler.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/telnet/TelnetOption.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/telnet/TelnetOptionHandler.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/telnet/TerminalTypeOptionHandler.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/telnet/WindowSizeOptionHandler.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/telnet/class-use/EchoOptionHandler.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/telnet/class-use/InvalidTelnetOptionException.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/telnet/class-use/SimpleOptionHandler.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/telnet/class-use/SuppressGAOptionHandler.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/telnet/class-use/TelnetClient.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/telnet/class-use/TelnetCommand.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/telnet/class-use/TelnetInputListener.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/telnet/class-use/TelnetNotificationHandler.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/telnet/class-use/TelnetOption.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/telnet/class-use/TelnetOptionHandler.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/telnet/class-use/TerminalTypeOptionHandler.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/telnet/class-use/WindowSizeOptionHandler.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/telnet/package-frame.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/telnet/package-summary.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/telnet/package-tree.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/telnet/package-use.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/tftp/TFTP.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/tftp/TFTPAckPacket.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/tftp/TFTPClient.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/tftp/TFTPDataPacket.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/tftp/TFTPErrorPacket.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/tftp/TFTPPacket.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/tftp/TFTPPacketException.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/tftp/TFTPReadRequestPacket.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/tftp/TFTPRequestPacket.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/tftp/TFTPWriteRequestPacket.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/tftp/class-use/TFTP.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/tftp/class-use/TFTPAckPacket.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/tftp/class-use/TFTPClient.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/tftp/class-use/TFTPDataPacket.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/tftp/class-use/TFTPErrorPacket.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/tftp/class-use/TFTPPacket.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/tftp/class-use/TFTPPacketException.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/tftp/class-use/TFTPReadRequestPacket.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/tftp/class-use/TFTPRequestPacket.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/tftp/class-use/TFTPWriteRequestPacket.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/tftp/package-frame.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/tftp/package-summary.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/tftp/package-tree.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/tftp/package-use.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/time/TimeTCPClient.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/time/TimeUDPClient.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/time/class-use/TimeTCPClient.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/time/class-use/TimeUDPClient.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/time/package-frame.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/time/package-summary.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/time/package-tree.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/time/package-use.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/util/Base64.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/util/Charsets.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/util/KeyManagerUtils.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/util/ListenerList.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/util/SSLContextUtils.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/util/SSLSocketUtils.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/util/SubnetUtils.SubnetInfo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/util/SubnetUtils.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/util/TrustManagerUtils.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/util/class-use/Base64.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/util/class-use/Charsets.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/util/class-use/KeyManagerUtils.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/util/class-use/ListenerList.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/util/class-use/SSLContextUtils.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/util/class-use/SSLSocketUtils.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/util/class-use/SubnetUtils.SubnetInfo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/util/class-use/SubnetUtils.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/util/class-use/TrustManagerUtils.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/util/package-frame.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/util/package-summary.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/util/package-tree.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/util/package-use.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/whois/WhoisClient.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/whois/class-use/WhoisClient.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/whois/package-frame.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/whois/package-summary.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/whois/package-tree.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/org/apache/commons/net/whois/package-use.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/overview-frame.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/overview-summary.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/overview-tree.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/package-list" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/serialized-form.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/apidocs/stylesheet.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/examples/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/examples/cidr/SubnetUtilsExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/examples/ftp/FTPClientExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/examples/ftp/ServerToServerFTP.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/examples/ftp/TFTPExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/examples/mail/IMAPExportMbox.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/examples/mail/IMAPImportMbox.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/examples/mail/IMAPMail.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/examples/mail/IMAPUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/examples/mail/POP3Mail.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/examples/mail/SMTPMail.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/examples/mail/Utils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/examples/nntp/ArticleReader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/examples/nntp/ExtendedNNTPOps.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/examples/nntp/ListNewsgroups.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/examples/nntp/MessageThreading.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/examples/nntp/NNTPUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/examples/nntp/PostMessage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/examples/ntp/NTPClient.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/examples/ntp/SimpleNTPServer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/examples/ntp/TimeClient.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/examples/telnet/TelnetClientExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/examples/telnet/WeatherTelnet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/examples/unix/chargen.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/examples/unix/daytime.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/examples/unix/echo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/examples/unix/finger.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/examples/unix/fwhois.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/examples/unix/rdate.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/examples/unix/rexec.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/examples/unix/rlogin.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/examples/unix/rshell.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/commons-net-3.6/examples/util/IOUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/CHANGES" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/COPYING" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/build.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/docs/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/docs/connector-j.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/fabric/FabricCommunicationException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/fabric/FabricConnection.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/fabric/FabricStateResponse.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/fabric/HashShardMapping.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/fabric/RangeShardMapping.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/fabric/Response.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/fabric/Server.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/fabric/ServerGroup.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/fabric/ServerMode.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/fabric/ServerRole.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/fabric/ShardIndex.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/fabric/ShardMapping.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/fabric/ShardMappingFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/fabric/ShardTable.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/fabric/ShardingType.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/fabric/hibernate/FabricMultiTenantConnectionProvider.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/fabric/jdbc/ErrorReportingExceptionInterceptor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/fabric/jdbc/FabricMySQLConnection.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/fabric/jdbc/FabricMySQLConnectionProperties.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/fabric/jdbc/FabricMySQLConnectionProxy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/fabric/jdbc/FabricMySQLDataSource.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/fabric/jdbc/FabricMySQLDriver.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/fabric/jdbc/JDBC4FabricMySQLConnection.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/fabric/jdbc/JDBC4FabricMySQLConnectionProxy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/fabric/proto/xmlrpc/AuthenticatedXmlRpcMethodCaller.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/fabric/proto/xmlrpc/DigestAuthentication.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/fabric/proto/xmlrpc/InternalXmlRpcMethodCaller.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/fabric/proto/xmlrpc/ResultSetParser.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/fabric/proto/xmlrpc/XmlRpcClient.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/fabric/proto/xmlrpc/XmlRpcMethodCaller.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/fabric/xmlrpc/Client.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/fabric/xmlrpc/base/Array.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/fabric/xmlrpc/base/Data.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/fabric/xmlrpc/base/Fault.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/fabric/xmlrpc/base/Member.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/fabric/xmlrpc/base/MethodCall.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/fabric/xmlrpc/base/MethodResponse.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/fabric/xmlrpc/base/Param.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/fabric/xmlrpc/base/Params.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/fabric/xmlrpc/base/ResponseParser.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/fabric/xmlrpc/base/Struct.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/fabric/xmlrpc/base/Value.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/fabric/xmlrpc/exceptions/MySQLFabricException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/AbandonedConnectionCleanupThread.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/AssertionFailedException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/AuthenticationPlugin.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/BalanceStrategy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/BestResponseTimeBalanceStrategy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/Blob.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/BlobFromLocator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/Buffer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/BufferRow.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/ByteArrayRow.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/CacheAdapter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/CacheAdapterFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/CachedResultSetMetaData.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/CallableStatement.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/CharsetMapping.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/Charsets.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/Clob.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/CommunicationsException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/CompressedInputStream.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/Connection.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/ConnectionFeatureNotAvailableException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/ConnectionGroup.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/ConnectionGroupManager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/ConnectionImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/ConnectionLifecycleInterceptor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/ConnectionProperties.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/ConnectionPropertiesImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/ConnectionPropertiesTransform.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/Constants.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/DatabaseMetaData.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/DatabaseMetaDataUsingInfoSchema.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/DocsConnectionPropsHelper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/Driver.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/EscapeProcessor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/EscapeProcessorResult.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/EscapeTokenizer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/ExceptionInterceptor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/ExportControlled.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/Extension.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/FailoverConnectionProxy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/Field.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/IterateBlock.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/JDBC42CallableStatement.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/JDBC42Helper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/JDBC42PreparedStatement.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/JDBC42ResultSet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/JDBC42ServerPreparedStatement.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/JDBC42UpdatableResultSet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/JDBC4CallableStatement.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/JDBC4ClientInfoProvider.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/JDBC4ClientInfoProviderSP.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/JDBC4CommentClientInfoProvider.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/JDBC4Connection.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/JDBC4DatabaseMetaData.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/JDBC4DatabaseMetaDataUsingInfoSchema.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/JDBC4LoadBalancedMySQLConnection.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/JDBC4MultiHostMySQLConnection.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/JDBC4MySQLConnection.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/JDBC4MysqlSQLXML.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/JDBC4NClob.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/JDBC4PreparedStatement.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/JDBC4PreparedStatementHelper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/JDBC4ReplicationMySQLConnection.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/JDBC4ResultSet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/JDBC4ServerPreparedStatement.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/JDBC4UpdatableResultSet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/LicenseConfiguration.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/LoadBalanceExceptionChecker.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/LoadBalancedAutoCommitInterceptor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/LoadBalancedConnection.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/LoadBalancedConnectionProxy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/LoadBalancedMySQLConnection.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/LocalizedErrorMessages.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/Messages.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/MiniAdmin.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/MultiHostConnectionProxy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/MultiHostMySQLConnection.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/MySQLConnection.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/MysqlDataTruncation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/MysqlDefs.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/MysqlErrorNumbers.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/MysqlIO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/MysqlParameterMetadata.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/MysqlSavepoint.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/NamedPipeSocketFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/NdbLoadBalanceExceptionChecker.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/NetworkResources.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/NoSubInterceptorWrapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/NonRegisteringDriver.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/NonRegisteringReplicationDriver.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/NotImplemented.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/NotUpdatable.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/OperationNotSupportedException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/OutputStreamWatcher.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/PacketTooBigException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/ParameterBindings.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/PerConnectionLRUFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/PerVmServerConfigCacheFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/PingTarget.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/PreparedStatement.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/ProfilerEventHandlerFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/RandomBalanceStrategy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/ReflectiveStatementInterceptorAdapter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/ReplicationConnection.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/ReplicationConnectionGroup.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/ReplicationConnectionGroupManager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/ReplicationConnectionProxy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/ReplicationDriver.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/ReplicationMySQLConnection.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/ResultSetImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/ResultSetInternalMethods.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/ResultSetMetaData.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/ResultSetRow.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/RowData.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/RowDataCursor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/RowDataDynamic.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/RowDataStatic.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/SQLError.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/Security.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/SequentialBalanceStrategy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/ServerPreparedStatement.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/SingleByteCharsetConverter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/SocketFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/SocketMetadata.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/SocksProxySocketFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/StandardLoadBalanceExceptionChecker.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/StandardSocketFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/Statement.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/StatementImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/StatementInterceptor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/StatementInterceptorV2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/StreamingNotifiable.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/StringUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/TimeUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/TimeZoneMapping.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/UpdatableResultSet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/Util.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/V1toV2StatementInterceptorAdapter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/WatchableOutputStream.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/WatchableWriter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/Wrapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/WriterWatcher.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/authentication/MysqlClearPasswordPlugin.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/authentication/MysqlNativePasswordPlugin.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/authentication/MysqlOldPasswordPlugin.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/authentication/Sha256PasswordPlugin.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/configs/3-0-Compat.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/configs/5-0-Compat.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/configs/clusterBase.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/configs/coldFusion.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/configs/fullDebug.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/configs/maxPerformance.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/configs/solarisMaxPerformance.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/exceptions/DeadlockTimeoutRollbackMarker.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/exceptions/MySQLDataException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/exceptions/MySQLIntegrityConstraintViolationException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/exceptions/MySQLInvalidAuthorizationSpecException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/exceptions/MySQLNonTransientConnectionException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/exceptions/MySQLNonTransientException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/exceptions/MySQLQueryInterruptedException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/exceptions/MySQLStatementCancelledException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/exceptions/MySQLSyntaxErrorException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/exceptions/MySQLTimeoutException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/exceptions/MySQLTransactionRollbackException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/exceptions/MySQLTransientConnectionException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/exceptions/MySQLTransientException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/exceptions/jdbc4/CommunicationsException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/exceptions/jdbc4/MySQLDataException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/exceptions/jdbc4/MySQLIntegrityConstraintViolationException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/exceptions/jdbc4/MySQLInvalidAuthorizationSpecException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/exceptions/jdbc4/MySQLNonTransientConnectionException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/exceptions/jdbc4/MySQLNonTransientException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/exceptions/jdbc4/MySQLQueryInterruptedException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/exceptions/jdbc4/MySQLSyntaxErrorException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/exceptions/jdbc4/MySQLTimeoutException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/exceptions/jdbc4/MySQLTransactionRollbackException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/exceptions/jdbc4/MySQLTransientConnectionException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/exceptions/jdbc4/MySQLTransientException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/integration/c3p0/MysqlConnectionTester.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/integration/jboss/ExtendedMysqlExceptionSorter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/integration/jboss/MysqlValidConnectionChecker.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/interceptors/ResultSetScannerInterceptor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/interceptors/ServerStatusDiffInterceptor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/interceptors/SessionAssociationInterceptor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/jdbc2/optional/CallableStatementWrapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/jdbc2/optional/ConnectionWrapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/jdbc2/optional/JDBC42CallableStatementWrapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/jdbc2/optional/JDBC42PreparedStatementWrapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/jdbc2/optional/JDBC4CallableStatementWrapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/jdbc2/optional/JDBC4ConnectionWrapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/jdbc2/optional/JDBC4MysqlPooledConnection.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/jdbc2/optional/JDBC4MysqlXAConnection.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/jdbc2/optional/JDBC4PreparedStatementWrapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/jdbc2/optional/JDBC4StatementWrapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/jdbc2/optional/JDBC4SuspendableXAConnection.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/jdbc2/optional/MysqlConnectionPoolDataSource.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/jdbc2/optional/MysqlDataSource.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/jdbc2/optional/MysqlDataSourceFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/jdbc2/optional/MysqlPooledConnection.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/jdbc2/optional/MysqlXAConnection.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/jdbc2/optional/MysqlXADataSource.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/jdbc2/optional/MysqlXAException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/jdbc2/optional/MysqlXid.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/jdbc2/optional/PreparedStatementWrapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/jdbc2/optional/StatementWrapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/jdbc2/optional/SuspendableXAConnection.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/jdbc2/optional/WrapperBase.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/jmx/LoadBalanceConnectionGroupManager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/jmx/LoadBalanceConnectionGroupManagerMBean.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/jmx/ReplicationGroupManager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/jmx/ReplicationGroupManagerMBean.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/log/Jdk14Logger.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/log/Log.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/log/LogFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/log/LogUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/log/NullLogger.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/log/Slf4JLogger.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/log/StandardLogger.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/profiler/LoggingProfilerEventHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/profiler/ProfilerEvent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/profiler/ProfilerEventHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/util/Base64Decoder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/util/BaseBugReport.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/util/ErrorMappingsDocGenerator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/util/LRUCache.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/util/PropertiesDocGenerator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/util/ReadAheadInputStream.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/util/ResultSetUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/util/ServerController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/util/TimezoneDump.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/com/mysql/jdbc/util/VersionFSHierarchyMaker.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/demo/fabric/Client1_Fabric.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/demo/fabric/Employee.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/demo/fabric/EmployeesDataSource.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/demo/fabric/EmployeesJdbc.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/demo/fabric/HibernateFabric.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/demo/fabric/resources/com/mysql/fabric/demo/employee.hbm.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/doc/sources/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/org/gjt/mm/mysql/Driver.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/BaseStatementInterceptor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/BaseTestCase.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/UnreliableSocketFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/fabric/BaseFabricTestCase.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/fabric/SetupFabricTestsuite.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/fabric/TestAdminCommands.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/fabric/TestDumpCommands.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/fabric/TestResultSetParser.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/fabric/TestShardMapping.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/fabric/TestXmlRpcCore.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/fabric/jdbc/TestBasicConnection.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/fabric/jdbc/TestFabricMySQLConnectionSharding.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/fabric/jdbc/TestHABasics.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/fabric/jdbc/TestHashSharding.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/fabric/jdbc/TestRegressions.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/perf/BasePerfTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/perf/LoadStorePerfTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/perf/RetrievalPerfTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/regression/BlobRegressionTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/regression/CachedRowsetTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/regression/CallableStatementRegressionTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/regression/CharsetRegressionTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/regression/ConnectionRegressionTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/regression/DataSourceRegressionTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/regression/EscapeProcessorRegressionTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/regression/MetaDataRegressionTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/regression/MicroPerformanceRegressionTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/regression/NumbersRegressionTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/regression/PooledConnectionRegressionTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/regression/ResultSetRegressionTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/regression/StatementRegressionTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/regression/StressRegressionTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/regression/StringRegressionTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/regression/SubqueriesRegressionTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/regression/SyntaxRegressionTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/regression/UtilsRegressionTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/regression/jdbc4/ConnectionRegressionTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/regression/jdbc4/ExceptionSubclassesTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/regression/jdbc4/MetaDataRegressionTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/regression/jdbc4/StatementRegressionTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/regression/jdbc42/ConnectionRegressionTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/regression/jdbc42/StatementRegressionTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/simple/BlobTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/simple/CallableStatementTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/simple/CharsetTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/simple/ConnectionTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/simple/DataSourceTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/simple/DateTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/simple/EscapeProcessingTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/simple/MetadataTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/simple/MiniAdminTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/simple/MultiHostConnectionTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/simple/NumbersTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/simple/ReadOnlyCallableStatementTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/simple/ResultSetTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/simple/SSLTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/simple/ServerControllerTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/simple/SimpleTransformer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/simple/SplitDBdotNameTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/simple/StatementsTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/simple/StringUtilsTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/simple/TestBug57662Logger.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/simple/TestLifecycleInterceptor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/simple/TransactionTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/simple/TraversalTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/simple/UpdatabilityTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/simple/UtilsTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/simple/XATest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/simple/jdbc4/StatementsTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/simple/jdbc42/ConnectionTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/simple/jdbc42/ResultSetTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/simple/jdbc42/StatementsTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/ssl-test-certs/ca-cert.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/ssl-test-certs/ca-key.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/ssl-test-certs/certs_howto.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/ssl-test-certs/mykey.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/ssl-test-certs/mykey.pub" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/ssl-test-certs/server-cert.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/ssl-test-certs/server-key.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41/src/testsuite/ssl-test-certs/server-req.pem" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GNUsticia/Listas.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GNUsticia/Localidad.class" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GNUsticia.iml" afterPath="$PROJECT_DIR$/GNUsticia.iml" />
     </list>
@@ -29,14 +870,24 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
+            <state relative-caret-position="182">
               <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FunctionsLibrary.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Localidad.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Localidad.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="292" column="0" lean-forward="false" selection-start-line="292" selection-start-column="0" selection-end-line="292" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FunctionsLibrary.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/FunctionsLibrary.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="304">
@@ -45,6 +896,26 @@
                 <element signature="imports" expanded="true" />
                 <marker date="1493310397930" expanded="true" signature="6284:6290" ph="{...}" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GNUsticia.iml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GNUsticia.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="34" column="8" lean-forward="false" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -90,8 +961,9 @@
         <option value="$PROJECT_DIR$/src/Auxiliar.java" />
         <option value="$PROJECT_DIR$/src/Localidad.java" />
         <option value="$PROJECT_DIR$/GNUsticia/Resistencia/Cam_Civ_Sala_I_2017-04-21.txt" />
-        <option value="$PROJECT_DIR$/src/FunctionsLibrary.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/FunctionsLibrary.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -118,6 +990,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -154,15 +1027,28 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GNUsticia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GNUsticia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GNUsticia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$USER_HOME$/Descargas/commons-net-3.6-bin.zip!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/libraries/mysql-connector-java-5.1.41" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -436,33 +1322,35 @@
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972136" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3168909" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4628483" sideWeight="0.50278884" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33126935" sideWeight="0.49721116" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32884902" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13235295" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Module Dependencies" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972136" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3168909" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33034378" sideWeight="0.49721116" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20147058" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -509,25 +1397,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/FunctionsLibrary.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="992">
-          <caret line="62" column="0" lean-forward="false" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <marker date="1493310397930" expanded="true" signature="6284:6290" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -756,13 +1625,6 @@
     <entry file="file://$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Civil_5_2017-04-21.txt" />
     <entry file="file://$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Civil_2_2017-04-21.txt" />
     <entry file="file://$PROJECT_DIR$/GNUsticia/Resistencia/Juzgado_Civil_4_2017-04-21.txt" />
-    <entry file="file://$PROJECT_DIR$/src/Localidad.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="292" column="0" lean-forward="false" selection-start-line="292" selection-start-column="0" selection-end-line="292" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/GNUsticia/Resistencia/Cam_Civ_Sala_I_2017-04-21.txt" />
     <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/sql/Connection.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -780,8 +1642,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
+        <state relative-caret-position="182">
           <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Localidad.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="292" column="0" lean-forward="false" selection-start-line="292" selection-start-column="0" selection-end-line="292" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -794,6 +1664,22 @@
             <element signature="imports" expanded="true" />
             <marker date="1493310397930" expanded="true" signature="6284:6290" ph="{...}" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GNUsticia.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="34" column="8" lean-forward="false" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -874,11 +1760,11 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>mysql-connector-java-5.1</last-edited>
+          <last-edited>mysql-connector-java-5.1.41-bin</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2505747" />
+                <option value="0.2" />
               </list>
             </option>
           </splitter-proportions>
